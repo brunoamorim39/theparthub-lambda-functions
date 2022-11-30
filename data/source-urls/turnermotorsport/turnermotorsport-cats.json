@@ -1,0 +1,1176 @@
+{
+    "Air Intake": [
+        {
+            "Air Filter": [
+                "/c-343-bmw-air-intake-filters",
+                "/c-92-bmw-air-intake-filters",
+                "/c-314-bmw-intake-cleaning-recharging-kits"
+            ],
+            "Air Intake": [
+                "/c-297-bmw-performance-air-intake-kits"
+            ],
+            "Blow Off Valve": [
+                "/c-1038-bmw-blow-off-valves-diverter-valves"
+            ],
+            "Charge Pipe": [
+                "/c-1040-bmw-charge-pipes-turbo-inlets"
+            ],
+            "Diverter Valve": [
+                "/c-1038-bmw-blow-off-valves-diverter-valves"
+            ],
+            "Emissions": [
+
+            ],
+            "Filter Housing": [
+
+            ],
+            "Idle Control Valve (ICV)": [
+                "/c-1248-bmw-idle-air-control-valve"
+            ],
+            "Intake Manifold": [
+                "/c-298-bmw-intake-manifold-upgrades-components-disa44-vacuum44-ccv44-etc"
+            ],
+            "Intercooler": [
+                "/c-1039-bmw-intercooler"
+            ],
+            "Mass Air Flow Sensor (MAF)": [
+                "/c-204-bmw-air-mass-sensors-hfm"
+            ],
+            "Plumbing": [
+                "/c-209-bmw-intake-boots-hoses"
+            ],
+            "Pressure Control Valve (PCV)": [
+                "/c-1250-bmw-ccv-oil-separator-system"
+            ],
+            "Pumps": [
+
+            ],
+            "Throttle Body": [
+                "/c-53-bmw-throttle-body"
+            ],
+            "Vacuum System": [
+                "/c-209-bmw-intake-boots-hoses"
+            ]
+        }
+    ],
+    "Automatic Transmission": [
+        {
+            "Assembly": [
+                
+            ],
+            "Crossmember": [
+                "/c-1322-bmw-transmission-crossmember"
+            ],
+            "Differential": [
+                "/c-37-bmw-differential-and-gearing-upgrades"
+            ],
+            "Electrical": [
+                "/c-1026-bmw-electrical-transmission-components"
+            ],
+            "Filter": [
+                "/c-1033-bmw-transmision-filters"
+            ],
+            "Flexplate": [
+                
+            ],
+            "Fluid": [
+                "/c-1234-bmw-transmission-and-differential-fluid",
+                "/c-785-bmw-transmission-and-differential-fluids"
+            ],
+            "Gaskets": [
+                "/c-1029-bmw-transmission-gaskets-seals"
+            ],
+            "Hardware": [
+                
+            ],
+            "Input Shaft": [
+
+            ],
+            "Mount": [
+                "/c-534-bmw-transmission-mounts"
+            ],
+            "Oil Cooler": [
+                "/c-1323-bmw-transmission-cooler"
+            ],
+            "Oil Pan": [
+                
+            ],
+            "Output Shaft": [
+
+            ],
+            "Plug": [
+                "/c-1025-bmw-transmission-drain-plugs"
+            ],
+            "Pump": [
+
+            ],
+            "Seal": [
+                "/c-1029-bmw-transmission-gaskets-seals"
+            ],
+            "Service": [
+                "/c-1031-bmw-transmission-service-kits"
+            ],
+            "Shifter": [
+                
+            ],
+            "Software": [
+
+            ],
+            "Tools": [
+                "/c-378-transmission-and-differential-tools"
+            ],
+            "Torque Converter": [
+                
+            ],
+            "Valve Body": [
+                
+            ]
+        }
+    ],
+    "Braking": [
+        {
+            "ABS Sensor": [
+                "/c-306-bmw-absdsc-system"
+            ],
+            "Brake Booster": [
+                "/c-978-bmw-brake-booster"
+            ],
+            "Brake Caliper": [
+                "/c-82-bmw-brake-calipers"
+            ],
+            "Brake Line": [
+                "/c-643-bmw-brake-lines"
+            ],
+            "Brake Pad": [
+                "/c-317-bmw-brake-pads"
+            ],
+            "Brake Rotor": [
+                "/c-322-bmw-brake-rotors"
+            ],
+            "Compound": [
+                "/c-977-bmw-brake-compounds"
+            ],
+            "Drum Brakes": [
+
+            ],
+            "Electrical": [
+            
+            ],
+            "Fluid": [
+                "/c-176-bmw-brake-fluid",
+                "/c-787-bmw-brake-fluid"
+            ],
+            "Hardware": [
+                "/c-29-bmw-brake-ducts-backing-plates"
+            ],
+            "Master Cylinder": [
+                "/c-979-bmw-brake-fluid-reservoir",
+                "/c-1259-bmw-brake-master-cylinder",
+                "/c-1260-bmw-brake-master-cylinder-components"
+            ],
+            "Parking Brake": [
+                "/c-279-bmw-parking-brake"
+            ],
+            "Performance": [
+                "/c-565-bmw-big-brake-kits"
+            ],
+            "Rotor and Pad Kit": [
+                "/c-556-bmw-brake-service-kits"
+            ],
+            "Tools" :[
+                "/c-906-bmw-brake-tools"
+            ]
+        }
+    ],
+    "Climate Control": [
+        {
+            "AC Compressor": [
+                "/c-1307-bmw-compressor"
+            ],
+            "AC Condenser": [
+                "/c-1304-bmw-condenser"
+            ],
+            "AC Evaporator": [
+                "/c-1305-bmw-evaporator"
+            ],
+            "AC Valve": [
+
+            ],
+            "AC Plumbing": [
+                "/c-1309-bmw-hoses-lines"
+            ],
+            "Blower Motor": [
+                "/c-966-bmw-blower-motor"
+            ],
+            "Cabin Filter": [
+                "/c-964-bmw-cabin-filters",
+                "/c-49-bmw-cabin-air-filters"
+            ],
+            "Control Panel": [
+                "/c-965-bmw-climate-controls"
+            ],
+            "Electrical": [
+                "/c-1308-bmw-auxiliary-fan"
+            ],
+            "General": [
+
+            ],
+            "Blend Door": [
+
+            ],
+            "Heater Core": [
+                "/c-1306-bmw-heater-core"
+            ],
+            "Heater Hose": [
+
+            ],
+            "Receiver-Drier": [
+                
+            ]
+        }
+    ],
+    "Cooling": [
+        {
+            "Coolant": [
+                "/c-848-bmw-coolant",
+                "/c-789-bmw-coolant"
+            ],
+            "Cooling Fan": [
+                "/c-842-bmw-fan"
+            ],
+            "Expansion Tank": [
+                "/c-847-bmw-expansion-tanks"
+            ],
+            "Kits": [
+                "/c-844-bmw-overhaul-kits"
+            ],
+            "Performance": [
+            
+            ],
+            "Plumbing": [
+                "/c-846-bmw-coolant-hoses-pipes",
+                "/c-931-bmw-freeze-plugs"
+            ],
+            "Radiator": [
+                "/c-841-bmw-radiator"
+            ],
+            "Sensor": [
+                "/c-1159-bmw-coolant-temperature-sensors"
+            ],
+            "Thermostat": [
+                "/c-845-bmw-thermostats"
+            ],
+            "Tools": [
+                "/c-910-bmw-cooling-tools"
+            ],
+            "Water Pump": [
+                "/c-843-bmw-water-pumps",
+                "/c-932-bmw-water-pump-pulleys",
+                "/c-1088-bmw-water-pump-pulleys"
+            ]
+        }
+    ],
+    "Drivetrain": [
+        {
+            "Axle": [
+                "/c-1233-bmw-axle-assemblies",
+                "/c-1230-bmw-axle-components",
+                "/c-1231-bmw-axle-nuts-and-bolts"
+            ],
+            "CV": [
+                "/c-1232-bmw-cv-boots",
+                "/c-868-bmw-cv-boots"
+            ],
+            "Differential": [
+                "/c-37-bmw-differential-and-gearing-upgrades"
+            ],
+            "Driveshaft": [
+                "/c-262-bmw-driveshafts-guibos-csbs"
+            ],
+            "Flywheel": [
+                "/c-1226-bmw-flywheels"
+            ],
+            "Gear Oil": [
+                "/c-223-bmw-transmission-differential-service"
+            ],
+            "Mount": [
+                "/c-533-bmw-drivetrain-mounts-and-upgrades"
+            ],
+            "Tools": [
+                "/c-1225-bmw-drivetrain-tools",
+                "/c-378-transmission-and-differential-tools"
+            ],
+            "Wheel Bearing": [
+                "/c-879-bmw-wheel-bearings-hubs"
+            ]
+        }
+    ],
+    "Engine": [
+        {
+            "Alternator": [
+                "/c-1194-bmw-alternator",
+                "/c-1091-bmw-alternator-pulleys"
+            ],
+            "Battery": [
+                "/c-1195-bmw-battery",
+                "/c-376-battery-chargers-and-tenders"
+            ],
+            "Bearings": [
+                "/c-580-bmw-bearings"
+            ],
+            "Belt": [
+                "/c-639-bmw-belts",
+                "/c-1087-bmw-belt-service-kits",
+                "/c-637-bmw-belt-tensioners"
+            ],
+            "Block": [
+            
+            ],
+            "Camshaft": [
+                "/c-1096-bmw-camshafts"
+            ],
+            "Connecting Rod": [
+                "/c-581-bmw-connecting-rods"
+            ],
+            "Cover": [
+                "/c-1215-bmw-engine-beauty-covers"
+            ],
+            "Crankcase": [
+                "/c-1135-bmw-oil-separation-breather-system"
+            ],
+            "Crankshaft": [
+                "/c-582-bmw-crankshafts",
+                "/c-1095-bmw-crankshaft-pulleys-harmonic-balancers"
+            ],
+            "Cylinder Head": [
+                "/c-1144-bmw-cylinder-head"
+            ],
+            "Engine Control Unit (ECU)": [
+                "/c-1102-bmw-ecu"
+            ],
+            "Electrical": [
+                "/c-182-bmw-electrical-system"
+            ],
+            "Emissions": [
+                "/c-1134-bmw-emissions-system"
+            ],
+            "Fuel Rail": [
+            
+            ],
+            "Gaskets": [
+                "/c-289-bmw-gaskets-seals-o-rings"
+            ],
+            "Ignition": [
+                "/c-7-bmw-ignition",
+                "/c-991-bmw-ignition-service"
+            ],
+            "Mount": [
+                "/c-537-bmw-engine-mounts",
+                "/c-38-bmw-motor-mounts"
+            ],
+            "Nitrous": [
+                "/c-518-bmw-watermethanol-and-nitrous-oxide"
+            ],
+            "Oil": [
+                "/c-1007-bmw-oil-service-kits",
+                "/c-1010-bmw-engine-oil",
+                "/c-786-bmw-engine-oil"
+            ],
+            "Oiling System": [
+                "/c-1208-bmw-oiling-system"
+            ],
+            "Oil Catch Can": [
+                "/c-1327-bmw-catch-can"
+            ],
+            "Oil Cooler": [
+                "/c-1223-bmw-oil-cooler"
+            ],
+            "Oil Filter": [
+                "/c-1276-bmw-oil-filters",
+                "/c-1008-bmw-oil-filters"
+            ],
+            "Oil Pan": [
+                "/c-1211-bmw-oil-pans-and-baffles",
+                "/c-1080-bmw-oil-drain-plugs",
+                "/c-1083-bmw-oil-cap"
+            ],
+            "Performance": [
+                "/c-218-bmw-performance-packages"
+            ],
+            "Piston": [
+                "/c-579-bmw-pistons"
+            ],
+            "Pressure Control Valve (PCV)": [
+                "/c-1142-bmw-ccvpcv-breather-hoses"
+            ],
+            "Pulley": [
+                "/c-129-bmw-underdrive-power-pulleys",
+                "/c-1091-bmw-alternator-pulleys",
+                "/c-1095-bmw-crankshaft-pulleys-harmonic-balancers",
+                "/c-638-bmw-idler-pulleys",
+                "/c-1269-bmw-power-pulleys",
+                "/c-1092-bmw-power-steering-pulleys",
+                "/c-1088-bmw-water-pump-pulleys"
+            ],
+            "Rocker": [
+                "/c-1155-bmw-rocker-arms"
+            ],
+            "Seals": [
+            
+            ],
+            "Sensor": [
+                "/c-1101-bmw-sensors"
+            ],
+            "Service Kit": [
+                
+            ],
+            "Spark Plug": [
+                "/c-767-bmw-spark-plugs",
+                "/c-997-bmw-spark-plugs"
+            ],
+            "Starter": [
+                "/c-1217-bmw-starter",
+                "/c-1218-bmw-starter"
+            ],
+            "Supercharger": [
+                "/c-777-bmw-superchargers"
+            ],
+            "Timing": [
+                "/c-854-bmw-timing",
+                "/c-1071-bmw-timing-service-kits"
+            ],
+            "Tools": [
+                "/c-1216-bmw-engine-hardware",
+                "/c-1191-bmw-engine-tools",
+                "/c-896-bmw-drive-belt-pulley-tools",
+                "/c-1012-bmw-oil-service-tools",
+                "/c-771-bmw-carbon-removal",
+                "/c-387-cylinder-head-and-vanos-tools"
+            ],
+            "Tuning": [
+                "/c-70-bmw-performance-chips-1986-1995-models",
+                "/c-30-performance-flash-software-2005-models",
+                "/c-450-bmw-piggyback-tuning-modules",
+                "/c-544-bmw-m-performance-software-upgrade",
+                "/c-69-shark-injector-performance-software-1996-2005-models",
+                "/c-208-bmw-sprint-booster-drive-by-wire-module-2001-on-bmws",
+                "/c-323-bmw-stand-alone-engine-management"
+            ],
+            "Turbocharger": [
+                "/c-403-bmw-turbos"
+            ],
+            "Vacuum": [
+            
+            ],
+            "Valve Cover": [
+                "/c-1192-bmw-valve-cover"
+            ],
+            "Valves & Springs": [
+                "/c-1143-bmw-intake-exhaust-valves",
+                "/c-1156-bmw-valve-lifters",
+                "/c-771-bmw-carbon-removal"
+            ]
+        }
+    ],
+    "Exhaust": [
+        {
+            "Catalytic Converter": [
+                "/c-47-bmw-catalytic-converters"
+            ],
+            "Cat-back Exhaust": [
+                "/c-307-bmw-catback-exhaust-systems"
+            ],
+            "Downpipes": [
+                "/c-807-bmw-downpipes"
+            ],
+            "EGR": [
+                "/c-1141-bmw-secondary-air-pump"
+            ],
+            "Exhaust Tips": [
+                "/c-308-bmw-exhaust-tips"
+            ],
+            "Gaskets": [
+                "/c-148-bmw-gaskets-hangers-and-parts"
+            ],
+            "Headers": [
+                "/c-46-bmw-headers"
+            ],
+            "Muffler": [
+                "/c-806-bmw-axleback-exhaust-systems",
+                "/c-804-bmw-mufflers"
+            ],
+            "OE": [
+            
+            ],
+            "Oxygen(O2) Sensor": [
+                "/c-1139-bmw-oxygen-sensors",
+                "/c-101-bmw-oxygen-sensors-o2-sensors"
+            ],
+            "Performance": [
+                
+            ],
+            "Resonator & Mid-Pipe": [
+                "/c-802-bmw-center-section-x-pipes"
+            ],
+            "Tools": [
+                "/c-427-bmw-exhaust-tools"
+            ],
+            "Universal": [
+                "/c-1241-bmw-exhaust-install-kits",
+                "/c-897-bmw-universal-components"
+            ]
+        }
+    ],
+    "Exterior": [
+        {
+            "Alarm": [
+            
+            ],
+            "Antenna": [
+                "/c-744-bmw-antenna"
+            ],
+            "Body": [
+                "/c-726-bmw-body-hardware",
+                "/c-658-bmw-body-kits"
+            ],
+            "Convertible Top": [
+                "/c-1267-bmw-convertible"
+            ],
+            "Decal": [
+            
+            ],
+            "Door": [
+                "/c-707-bmw-door"
+            ],
+            "Electrical": [
+            
+            ],
+            "Emblem": [
+                "/c-24-bmw-emblems-decals-for-hood-trunk-and-wheels"
+            ],
+            "Fender": [
+                "/c-694-bmw-fenders",
+                "/c-686-bmw-fender-upgrades"
+            ],
+            "Front Bumper": [
+                "/c-698-bmw-front-bumper",
+                "/c-681-bmw-front-lip-splitter",
+                "/c-682-bmw-front-bumper-upgrades"
+            ],
+            "Fuel Door": [
+                "/c-750-bmw-fuel-door-gas-cap"
+            ],
+            "Grille": [
+                "/c-206-bmw-grilles-and-vents"
+            ],
+            "Hitch": [
+                "/c-311-bmw-racing-tow-hooks-and-straps"
+            ],
+            "Hood": [
+                "/c-704-bmw-engine-bay",
+                "/c-1273-bmw-hood",
+                "/c-1275-bmw-hood-trunk-cables",
+                "/c-1271-bmw-hood-trunk-struts"
+            ],
+            "Horn": [
+                "/c-1277-bmw-horn",
+                "/c-1014-bmw-horn"
+            ],
+            "Jack Pad": [
+                "/c-732-bmw-jack-pads"
+            ],
+            "Liscense Plate": [
+                "/c-1265-bmw-license-plate-holders-brackets"
+            ],
+            "Mirror": [
+                "/c-1264-bmw-mirrors",
+                "/c-1189-bmw-carbon-mirror-caps"
+            ],
+            "Paint": [
+                "/c-646-bmw-body-paint-repair",
+                "/c-344-chassis-paint-coatings-sealants-and-rust-conversion",
+                "/c-486-bmw-paint-protection",
+                "/c-774-bmw-touch-up-paint"
+            ],
+            "Plug": [
+            
+            ],
+            "Rain Tray": [
+            
+            ],
+            "Rear Bumper": [
+                "/c-706-bmw-rear-bumper",
+                "/c-678-bmw-rear-bumper-upgrades",
+                "/c-679-bmw-rear-diffuser"
+            ],
+            "Roof": [
+                "/c-752-bmw-roof-sunroof",
+                "/c-687-bmw-carbon-roofs-sunroofs"
+            ],
+            "Roof Rack": [
+                "/c-529-bmw-roof-racks"
+            ],
+            "Side Skirts": [
+                "/c-684-bmw-side-skirts"
+            ],
+            "Splash Guard": [
+                "/c-1177-bmw-underbody-panels-and-fender-liners"
+            ],
+            "Spoiler": [
+                "/c-677-bmw-rear-spoiler"
+            ],
+            "Sunroof": [
+                "/c-752-bmw-roof-sunroof",
+                "/c-687-bmw-carbon-roofs-sunroofs"
+            ],
+            "Tools": [
+                "/c-381-genuine-bmw-tool-kits"
+            ],
+            "Trim": [
+                "/c-701-bmw-reflectors",
+                "/c-1326-bmw-rocker-panels",
+                "/c-1190-bmw-painted-reflectors"
+            ],
+            "Trunk or Hatch": [
+                "/c-1272-bmw-trunk-lid",
+                "/c-1274-bmw-hood-trunk-latch",
+                "/c-1271-bmw-hood-trunk-struts",
+                "/c-680-bmw-carbon-fiber-trunk-lids"
+            ],
+            "Undercoating": [
+            
+            ],
+            "Undertray": [
+                "/c-688-bmw-skid-plates"
+            ],
+            "Vinyl": [
+            
+            ],
+            "Window": [
+                "/c-695-bmw-gaskets-and-seals",
+                "/c-727-bmw-windows",
+                "/c-1173-bmw-polycarbonate-windows"
+            ],
+            "Windshield": [
+            
+            ],
+            "Wiper": [
+                "/c-1170-bmw-windshield-wipers",
+                "/c-1171-bmw-windshield-wipers"
+            ]
+        }
+    ],
+    "Fuel System": [
+        {
+            "Fuel Additive": [
+                "/c-788-bmw-additives"
+            ],
+            "Fuel Cap": [
+                "/c-990-bmw-fuel-cap"
+            ],
+            "Fuel Filter": [
+                "/c-1316-bmw-fuel-filter",
+                "/c-93-bmw-fuel-filters"
+            ],
+            "Fuel Injector": [
+                "/c-929-bmw-fuel-injectors"
+            ],
+            "Fuel Pump": [
+                "/c-930-bmw-fuel-pump"
+            ],
+            "Fuel Rail": [
+            
+            ],
+            "Fuel Sending Unit": [
+            
+            ],
+            "Fuel Tank": [
+                "/c-1106-bmw-fuel-tank"
+            ],
+            "Leak Detection Pump": [
+            
+            ],
+            "Leak Detection Pump Filter": [
+            
+            ],
+            "Performance": [
+            
+            ],
+            "Plumbing": [
+                "/c-1105-bmw-fuel-lines-hoses"
+            ],
+            "Sensor": [
+            
+            ],
+            "Tools": [
+                "/c-380-fuel-system-tools"
+            ]
+        }
+    ],
+    "Interior": [
+        {
+            "Accessories": [
+                
+            ],
+            "Airbag": [
+            
+            ],
+            "Alarm": [
+            
+            ],
+            "Armrest": [
+                "/c-969-bmw-armrest"
+            ],
+            "Audio": [
+                "/c-1285-bmw-amplifier",
+                "/c-1283-bmw-speakers",
+                "/c-1297-bmw-auxiliary-input-adapters"
+            ],
+            "Camera": [
+
+            ],
+            "Carpet": [
+            
+            ],
+            "Cellphone": [
+                "/c-1290-bmw-phone-mount",
+                "/c-958-bmw-phone-mounts"
+            ],
+            "Center Console": [
+                "/c-967-bmw-center-console",
+                "/c-957-bmw-center-console-trim"
+            ],
+            "Cruise Control": [
+            
+            ],
+            "Cup Holder": [
+                "/c-968-bmw-cup-holders"
+            ],
+            "Dashboard": [
+                "/c-1075-bmw-glove-box",
+                "/c-961-bmw-dashboard-trim"
+            ],
+            "Data Acquisition": [
+                "/c-302-bmw-gauge-kits-and-data-acquisition"
+            ],
+            "Door": [
+                "/c-305-bmw-door-sills",
+                "/c-959-bmw-door-components"
+            ],
+            "Electrical": [
+                "/c-1287-bmw-idrive",
+                "/c-1284-bmw-wiring-hardware",
+                "/c-1291-bmw-switches-switchgear",
+                "/c-138-bmw-fault-code-read-and-reset-tools"
+            ],
+            "Floor Mat": [
+                "/c-54-bmw-floor-mats"
+            ],
+            "Fuses & Fuse Box": [
+                "/c-1104-bmw-fuse-boxes-panels"
+            ],
+            "Gauges": [
+            
+            ],
+            "Headliner": [
+                "/c-1289-bmw-headliner"
+            ],
+            "Head Unit": [
+                "/c-1282-bmw-radios-head-units"
+            ],
+            "Lighting": [
+                "/c-1313-bmw-interior-lighting"
+            ],
+            "Mirror": [
+            
+            ],
+            "Parking Brake": [
+            
+            ],
+            "Pedal": [
+                "/c-1328-bmw-racing-pedal-boxes",
+                "/c-84-bmw-pedal-sets",
+                "/c-1051-bmw-clutch-pedal"
+            ],
+            "Radar Detector": [
+                "/c-303-bmw-radar-detectors"
+            ],
+            "Safety": [
+                "/c-471-bmw-fire-extinguishers-mounts",
+                "/c-304-bmw-racing-harnesses",
+                "/c-960-bmw-seat-seat-belt-components"
+            ],
+            "Seat": [
+                "/c-287-bmw-seats-seat-accessories",
+                "/c-960-bmw-seat-seat-belt-components"
+            ],
+            "Shifter": [
+                "/c-183-bmw-shift-knobs-handles-and-boots"
+            ],
+            "Steering Wheel": [
+                "/c-779-bmw-steering-wheels",
+                "/c-869-bmw-steering-wheel",
+                "/c-1311-bmw-steering-wheel-trim"
+            ],
+            "Storage": [
+            
+            ],
+            "Sun Visor": [
+                "/c-281-bmw-sunshades-windscreens"
+            ],
+            "Sunroof": [
+                "/c-1299-bmw-sunroof"
+            ],
+            "Tools": [
+                "/c-895-bmw-trim-removal-tools"
+            ],
+            "Trim": [
+                "/c-1076-bmw-interior-trim-kits",
+                "/c-115-bmw-carbon-fiber-interior-parts",
+                "/c-956-bmw-a-b-c-pillars",
+                "/c-957-bmw-center-console-trim",
+                "/c-961-bmw-dashboard-trim"
+            ],
+            "Trunk": [
+                "/c-963-bmw-trunk-trim"
+            ],
+            "Vent": [
+                "/c-1310-bmw-vents"
+            ],
+            "Window": [
+            
+            ]
+        }
+    ],
+    "Lighting": [
+        {
+            "Fog Light": [
+                "/c-59-bmw-fog-lights"
+            ],
+            "Headlight": [
+                "/c-58-bmw-headlights-headlight-lenses-headlight-parts"
+            ],
+            "Indicator": [
+                "/c-325-bmw-turn-signals-parking-lights"
+            ],
+            "Interior": [
+                "/c-1313-bmw-interior-lighting"
+            ],
+            "LED": [
+                "/c-114-bmw-angel-eye-headlight-conversions"
+            ],
+            "Liscense Plate": [
+            
+            ],
+            "Rally": [
+            
+            ],
+            "Switch": [
+            
+            ],
+            "Tail Light": [
+                "/c-257-bmw-tail-lights"
+            ],
+            "Universal": [
+                "/c-446-bmw-universal-lighting",
+                "/c-56-bmw-clear-euro-parking-lights-clear-euro-tail-lights",
+                "/c-57-bmw-bulbs-for-headlights-turn-signals-and-tail-lights"
+            ]
+        }
+    ],
+    "Manual Transmission": [
+        {
+            "Assembly": [
+                
+            ],
+            "Bearings": [
+                "/c-1066-bmw-pilot-bearing",
+                "/c-1043-bmw-throwout-bearing"
+            ],
+            "Bell Housing": [
+
+            ],
+            "Clutch Disc": [
+                "/c-1330-bmw-clutch-disc"
+            ],
+            "Clutch Kit": [
+                "/c-1042-bmw-clutch-installation-kit",
+                "/c-1054-bmw-stock-clutch-kits",
+                "/c-1055-bmw-performance-clutch-kits"
+            ],
+            "Clutch Master Cylinder": [
+                "/c-1045-bmw-clutch-master-cylinder"
+            ],
+            "Clutch Pressure Plate": [
+                "/c-1044-bmw-pressure-plate"
+            ],
+            "Clutch Release": [
+                "/c-1067-bmw-fork-lever"
+            ],
+            "Clutch Slave Cylinder": [
+                "/c-1049-bmw-clutch-slave-cylinder"
+            ],
+            "Countershaft": [
+
+            ],
+            "Crossmember": [
+                "/c-1322-bmw-transmission-crossmember"
+            ],
+            "Differential": [
+                "/c-37-bmw-differential-and-gearing-upgrades"
+            ],
+            "Electrical": [
+                "/c-1026-bmw-electrical-transmission-components"
+            ],
+            "Fluid": [
+                "/c-1234-bmw-transmission-and-differential-fluid",
+                "/c-785-bmw-transmission-and-differential-fluids"
+            ],
+            "Flywheel": [
+                "/c-1226-bmw-flywheels"
+            ],
+            "Gaskets": [
+                "/c-1029-bmw-transmission-gaskets-seals"
+            ],
+            "Hardware": [
+                "/c-1048-bmw-clutch-delay-valve",
+                "/c-1047-bmw-clutch-hardware",
+                "/c-1052-bmw-clutch-pivot-pin"
+            ],
+            "Input Shaft": [
+
+            ],
+            "Intermediate Plate": [
+                
+            ],
+            "Lines": [
+                "/c-1050-bmw-clutch-lines"
+            ],
+            "Main Shaft": [
+
+            ],
+            "Mount": [
+                "/c-534-bmw-transmission-mounts"
+            ],
+            "Output Shaft": [
+                
+            ],
+            "Performance": [
+                "/c-1055-bmw-performance-clutch-kits",
+                "/c-947-bmw-short-shift-kits",
+                "/c-1032-bmw-smg-components"
+            ],
+            "Plug": [
+                "/c-1025-bmw-transmission-drain-plugs"
+            ],
+            "Seal": [
+                "/c-1029-bmw-transmission-gaskets-seals"
+            ],
+            "Service": [
+                "/c-1031-bmw-transmission-service-kits"
+            ],
+            "Shifter": [
+                "/c-524-bmw-shifter-upgrades-and-components"
+            ],
+            "Synchro": [
+
+            ],
+            "Tools": [
+                "/c-1046-bmw-clutch-alignment-tools",
+                "/c-378-transmission-and-differential-tools"
+            ]
+        }
+    ],
+    "Steering": [
+        {
+            "Power Steering Cooler": [
+                "/c-865-bmw-power-steering-cooler"
+            ],
+            "Power Steering Fluid": [
+                "/c-860-bmw-power-steering-service-kit",
+                "/c-784-bmw-power-steering-fluids"
+            ],
+            "Power Steering Lines": [
+                "/c-878-bmw-power-steering-lines"
+            ],
+            "Power Steering Pump": [
+                "/c-863-bmw-power-steering-pumps",
+                "/c-1092-bmw-power-steering-pulleys"
+            ],
+            "Power Steering Reservoir": [
+                "/c-866-bmw-power-steering-reservoir"
+            ],
+            "Steering Column": [
+                "/c-862-bmw-steering-shaft",
+                "/c-867-bmw-steering-u-joint"
+            ],
+            "Steering Kit": [
+                "/c-877-bmw-steering-angle-kits",
+                "/c-753-bmw-steering-angle-kits"
+            ],
+            "Steering Knuckle": [
+            
+            ],
+            "Steering Rack": [
+                "/c-859-bmw-steering-rack"
+            ],
+            "Tie Rod": [
+                "/c-864-bmw-tie-rods"
+            ],
+            "Tools": [
+                
+            ]
+        }
+    ],
+    "Suspension": [
+        {
+            "Air Ride": [
+            
+            ],
+            "Ball Joint": [
+                "/c-1240-bmw-ball-joints"
+            ],
+            "Bushings": [
+                "/c-836-bmw-rear-sway-bar-bushings",
+                "/c-835-bmw-front-sway-bar-bushings",
+                "/c-823-bmw-front-control-arm-bushings",
+                "/c-824-bmw-rear-control-arm-bushings",
+                "/c-622-bmw-subframe-bushings"
+            ],
+            "Camber Kit": [
+                "/c-64-bmw-camber-caster-kits-kmac-vorshlag-turner"
+            ],
+            "Coilovers": [
+                "/c-554-bmw-coilovers"
+            ],
+            "Control Arm": [
+                "/c-813-bmw-control-arm-refresh-kits",
+                "/c-754-bmw-rear-control-arm",
+                "/c-755-bmw-front-control-arm"
+            ],
+            "Cup Kit": [
+            
+            ],
+            "Chassis Reinforcement": [
+                "/c-87-bmw-reinforcement-kits"
+            ],
+            "Electrical": [
+
+            ],
+            "End Links": [
+                "/c-811-bmw-end-links"
+            ],
+            "Shocks": [
+                "/c-67-bmw-performance-shock-spring-packages",
+                "/c-39-bmw-shocks-struts",
+                "/c-623-bmw-shock-mount-kits"
+            ],
+            "Springs": [
+                "/c-67-bmw-performance-shock-spring-packages",
+                "/c-808-bmw-springs"
+            ],
+            "Strut Brace": [
+                "/c-65-bmw-strut-braces"
+            ],
+            "Strut Mount": [
+
+            ],
+            "Subframe": [
+                "/c-600-bmw-subframe"
+            ],
+            "Suspension Kit": [
+                "c-1238-bmw-suspension-install-kits",
+                "/c-67-bmw-performance-shock-spring-packages"
+            ],
+            "Sway Bar": [
+                "/c-1168-bmw-front-rear-sway-bar-kits",
+                "/c-834-bmw-rear-sway-bar"
+            ],
+            "Tools": [
+                "/c-1237-bmw-suspension-tools",
+                "/c-889-bmw-suspension-tools"
+            ]
+        }
+    ],
+    "Transfer Case": [
+        {
+            "Bearings": [
+                "/c-1024-bmw-transfer-case"
+            ],
+            "Carrier": [
+                "/c-1024-bmw-transfer-case"
+            ],
+            "Fluid": [
+                "/c-1024-bmw-transfer-case"
+            ],
+            "Input Shaft": [
+                "/c-1024-bmw-transfer-case"
+            ],
+            "Output Shaft": [
+                "/c-1024-bmw-transfer-case"
+            ],
+            "Seal": [
+                "/c-1024-bmw-transfer-case"
+            ]
+        }
+    ],
+    "Wheels & Tires": [
+        {
+            "Aftermarket Wheels": [
+                "/c-330-bmw-aftermarket-alloy-wheels"
+            ],
+            "Center Cap": [
+                "/c-75-bmw-wheel-emblems-tpms-valve-stem-caps-accessories"
+            ],
+            "Equipment": [
+                "/c-273-wheel-tire-cleaning"
+            ],
+            "Hub Adapter": [
+            
+            ],
+            "Hubcentric Ring": [
+            
+            ],
+            "Lug Bolt-Stud-Nut": [
+            
+            ],
+            "OEM Wheels": [
+                "/c-329-bmw-original-bmw-wheels-and-wheel-upgrades"
+            ],
+            "Paint": [
+            
+            ],
+            "Repair": [
+                "/c-1034-bmw-spare-tire"
+            ],
+            "Sensor": [
+            
+            ],
+            "Spacer": [
+                "/c-790-bmw-wheel-spacers"
+            ],
+            "Sticker": [
+            
+            ],
+            "Stud Conversion": [
+                "/c-146-bmw-wheel-bolts-stud-conversions"
+            ],
+            "Tires": [
+                
+            ],
+            "Tools": [
+                "/c-923-bmw-wheel-tools-and-storage",
+                "/c-386-bmw-wheel-tools-and-storage"
+            ],
+            "Valve Stem": [
+                "/c-75-bmw-wheel-emblems-tpms-valve-stem-caps-accessories"
+            ],
+            "Wheel Lock": [
+            
+            ],
+            "Wheel & Tire Package": [
+                "/c-1321-bmw-wheel-tire-packages"
+            ]
+        }
+    ]
+}

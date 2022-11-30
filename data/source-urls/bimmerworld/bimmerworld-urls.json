@@ -1,0 +1,1614 @@
+{
+    "BMW": [
+        {
+            "128i": [
+                {
+                    "E8X": [
+                        "/#/filter:finder_hierarchy_2:1$2520Series~E82$2520$252F$2520E88$2520(08-13)~128i/q:"
+                    ]
+                }
+            ],
+            "135i": [
+                {
+                    "E8X": [
+                        "/#/filter:finder_hierarchy_2:1$2520Series~E82$2520$252F$2520E88$2520(08-13)~135i/q:",
+                        "/#/filter:finder_hierarchy_2:1$2520Series~E82$2520$252F$2520E88$2520(08-13)~135is/q:"
+                    ]
+                }
+            ],
+            "228i": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~228i/q:"
+                    ],
+                    "F44": [
+                        
+                    ]
+                }
+            ],
+            "228i xDrive": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~228i$2520xDrive/q:"
+                    ],
+                    "F44": [
+                        
+                    ]
+                }
+            ],
+            "230i": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~230i/q:"
+                    ]
+                }
+            ],
+            "230i xDrive": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~230i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "318i": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~318i/q:"
+                    ],
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318i$2520M42/q:",
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318i$2520M44/q:"
+                    ]
+                } 
+            ],
+            "318ic": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318ic$2520M42/q:",
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318ic$2520M44/q:"
+                    ]
+                } 
+            ],
+            "318is": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~318is/q:"
+                    ],
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318is$2520M42/q:",
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~318is$2520M44/q:"
+                    ]
+                } 
+            ],
+            "318ti": [
+                {
+                    
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$252F5$2520(95-99)~318ti$2520M42/q:",
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$252F5$2520(95-99)~318ti$2520M44/q:"
+                    ]
+                } 
+            ],
+            "320i": [
+                {
+                    "E21": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E21$2520(75-83)~320i/q:"
+                    ],
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~320i/q:"
+                    ]
+                } 
+            ],
+            "320i xDrive": [
+                {
+                    "F3X": [
+                       "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~320i$2520xDrive/q:" 
+                    ]
+                } 
+            ],
+            "323Ci": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~323Ci/q:"
+                    ]
+                } 
+            ],
+            "323i": [
+                {
+                    "E36": [
+                        
+                    ],
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~323i/q:"
+                    ]
+                } 
+            ],
+            "323ic": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~323ic/q:"
+                    ]
+                } 
+            ],
+            "323is": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~323is/q:"
+                    ]
+                } 
+            ],
+            "325Ci": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~325Ci/q:"
+                    ]
+                } 
+            ],
+            "325e": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~325e/q:"
+                    ]
+                } 
+            ],
+            "325es": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~325es/q:"
+                    ]
+                } 
+            ],
+            "325i": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~325i/q:"
+                    ],
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~325i/q:"
+                    ],
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~325i/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~325i/q:"
+                    ]
+                } 
+            ],
+            "325ic": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~325ic/q:"
+                    ]
+                } 
+            ],
+            "325is": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~325is/q:"
+                    ],
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~325is/q:"
+                    ]
+                } 
+            ],
+            "325ix": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~325ix/q:"
+                    ]
+                } 
+            ],
+            "325xi": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~325xi/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~325xi/q:"
+                    ]
+                } 
+            ],
+            "328Ci": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~328Ci/q:"
+                    ]
+                } 
+            ],
+            "328d": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~328d/q:"
+                    ]
+                } 
+            ],
+            "328d xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~328d$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "328i": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~328i/q:"
+                    ],
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~328i/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~328i/q:"
+                    ],
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~328i/q:"
+                    ]
+                } 
+            ],
+            "328i GT xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~328i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "328i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~328i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "328ic": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~328ic/q:"
+                    ]
+                } 
+            ],
+            "328is": [
+                {
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~328is/q:"
+                    ]
+                } 
+            ],
+            "328xi": [
+                {
+                    "E46": [
+                        
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~328xi/q:"
+                    ]
+                } 
+            ],
+            "330Ci": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~330Ci/q:"
+                    ]
+                } 
+            ],
+            "330e": [
+                {
+                    "F3X": [
+                        
+                    ]
+                } 
+            ],
+            "330i": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~330i/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~330i/q:"
+                    ],
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~330i/q:"
+                    ],
+                    "G20": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~G20$2520(2019$252B)~330i/q:"
+                    ]
+                } 
+            ],
+            "330i GT xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~330i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "330i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~330i$2520xDrive/q:"
+                    ],
+                    "G20": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~G20$2520(2019$252B)~330i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "330xi": [
+                {
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~330xi/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~330xi/q:"
+                    ]
+                } 
+            ],
+            "335d": [
+                {
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~335d/q:"
+                    ]
+                } 
+            ],
+            "335i": [
+                {
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~335i/q:"
+                    ],
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~335i/q:"
+                    ]
+                } 
+            ],
+            "335i GT xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~335i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "335i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~335i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "335is": [
+                {
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~335is/q:"
+                    ]
+                } 
+            ],
+            "335xi": [
+                {
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~335xi/q:"
+                    ]
+                } 
+            ],
+            "340i": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~340i/q:"
+                    ]
+                } 
+            ],
+            "340i GT xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~340i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "340i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~340i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "428i": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~428i/q:"
+                    ]
+                }
+            ],
+            "428i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~428i/q:"
+                    ]
+                }
+            ],
+            "428i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~428i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "428i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~428i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "430i": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~430i/q:"
+                    ]
+                }
+            ],
+            "430i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~430i/q:"
+                    ]
+                }
+            ],
+            "430i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~430i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "430i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~430i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "435i": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~435i/q:"
+                    ]
+                }
+            ],
+            "435i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~435i/q:"
+                    ]
+                }
+            ],
+            "435i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~435i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "435i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~435i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "440i": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~440i/q:"
+                    ]
+                }
+            ],
+            "440i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~440i/q:"
+                    ]
+                }
+            ],
+            "440i xDrive": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~440i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "440i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F32$2520$252F$2520F33$2520$252F$2520F36$2520(2014$252B)~440i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "524td": [
+                {
+                    "E28": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E28$2520(82-88)~524td/q:"
+                    ],
+                    "E34": [
+                        
+                    ]
+                } 
+            ],
+            "525i": [
+                {
+                    "E12": [
+                        
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~525i$2520M20/q:",
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~525i$2520M50/q:"
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~525i/q:"
+                    ],
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~525i$2520M54$2520(2004-2005)/q:",
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~525i$2520N52$2520(2006-2007)/q:"
+                    ]
+                } 
+            ],
+            "525iT": [
+                {
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~525i$2520M20/q:",
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~525i$2520M50/q:"
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~525i/q:"
+                    ]
+                } 
+            ],
+            "528e": [
+                {
+                    "E28": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E28$2520(82-88)~528e/q:"
+                    ]
+                } 
+            ],
+            "528i": [
+                {
+                    "E12": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E12$2520(77-81)~528i/q:"
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~528i/q:"
+                    ],
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~528i/q:"
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~528i$2520N20$2520(2012-2016)/q:",
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~528i$2520N52$2520(2011)/q:"
+                    ]
+                } 
+            ],
+            "528i xDrive": [
+                {
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~528xi/q:"
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~528i$2520xDrive$2520N20$2520(2012-2016)/q:"
+                    ]
+                } 
+            ],
+            "530e": [
+                {
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "530e xDrive": [
+                {
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "530i": [
+                {
+                    "E12": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E12$2520(77-81)~530i/q:"
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~530i/q:"
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~530i/q:"
+                    ],
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~530i$2520M54$2520(2004-2005)/q:",
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~530i$2520N52$2520(2006-2007)/q:"
+                    ],
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "530i xDrive": [
+                {
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~530xi$2520N52$2520(2006-2007)/q:"
+                    ],
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "533i": [
+                {
+                    "E12": [
+                        
+                    ],
+                    "E28": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E28$2520(82-88)~533i/q:"
+                    ]
+                } 
+            ],
+            "535d": [
+                {
+                    "E60": [
+                        
+                    ]
+                } 
+            ],
+            "535d xDrive": [
+                {
+                    "E60": [
+                        
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~535d$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "535i": [
+                {
+                    "E28": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E28$2520(82-88)~535i/q:"
+                    ],
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~535i/q:"
+                    ],
+                    "E39": [
+                        
+                    ],
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~535i/q:"
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~535i/q:"
+                    ]
+                } 
+            ],
+            "535i GT": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~535i/q:"
+                    ]
+                } 
+            ],
+            "535i GT xDrive": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~535i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "535i xDrive": [
+                {
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~535xi/q:"
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~535i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "540i": [
+                {
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~540i/q:"
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~540i/q:"
+                    ],
+                    "E60": [
+                        
+                    ],
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "540i xDrive": [
+                {
+                    "E60": [
+                        
+                    ],
+                    "G30": [
+                        
+                    ]
+                } 
+            ],
+            "545i": [
+                {
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~545i/q:"
+                    ]
+                } 
+            ],
+            "550i": [
+                {
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~550i/q:"
+                    ],
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~550i/q:"
+                    ]
+                } 
+            ],
+            "550i GT": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~550i/q:"
+                    ]
+                } 
+            ],
+            "550i GT xDrive": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~550i$2520xDrive/q:"
+                    ]
+                } 
+            ],
+            "550i xDrive": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~550i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "630CSi": [
+                {
+                    "E24": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E24$2520(77-89)~630CSi/q:"
+                    ]
+                }
+            ],
+            "633CSi": [
+                {
+                    "E24": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E24$2520(77-89)~633CSi/q:"
+                    ]
+                }
+            ],
+            "635CSi": [
+                {
+                    "E24": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E24$2520(77-89)~635CSi/q:"
+                    ]
+                }
+            ],
+            "640i": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~640i/q:"
+                    ],
+                    "G32": [
+                        
+                    ]
+                }
+            ],
+            "640i Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~640i/q:"
+                    ]
+                }
+            ],
+            "640i xDrive": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~640i/q:"
+                    ],
+                    "G32": [
+                        
+                    ]
+                }
+            ],
+            "640i xDrive Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~640i/q:"
+                    ]
+                }
+            ],
+            "640i xDrive Gran Turismo": [
+                {
+                    "G32": [
+                        
+                    ]
+                }
+            ],
+            "645Ci": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E63$2520$252F$2520E64$2520(04-10)~645Ci/q:"
+                    ]
+                }
+            ],
+            "650i": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E63$2520$252F$2520E64$2520(04-10)~650i/q:"
+                    ],
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~650i/q:"
+                    ]
+                }
+            ],
+            "650i Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~650i/q:"
+                    ]
+                }
+            ],
+            "650i xDrive": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E63$2520$252F$2520E64$2520(04-10)~650i/q:"
+                    ],
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~650i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "650i xDrive Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~650i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "733i": [
+                {
+                    "E23": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E23$2520(77-87)~733i/q:"
+                    ]
+                }
+            ],
+            "735i": [
+                {
+                    "E23": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E23$2520(77-87)~735i/q:"
+                    ],
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~735i/q:"
+                    ],
+                    "E38": [
+                        
+                    ],
+                    "E6X": [
+                        
+                    ]
+                }
+            ],
+            "735iL": [
+                {
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~735iL/q:"
+                    ],
+                    "E38": [
+                        
+                    ]
+                }
+            ],
+            "740Ld xDrive": [
+                {
+                    "F0X": [
+                        
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "740Li": [
+                {
+                    "E6X": [
+                        
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~740Li/q:"
+                    ],
+                    "G1X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~740i/q:",
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~740i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "740e xDrive": [
+                {
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "740i": [
+                {
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~740i/q:"
+                    ],
+                    "E38": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E38$2520(95-01)~740i/q:"
+                    ],
+                    "E6X": [
+                        
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~740i/q:"
+                    ],
+                    "G1X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~740i/q:",
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~740i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "740iL": [
+                {
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~740iL/q:"
+                    ],
+                    "E38": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E38$2520(95-01)~740iL/q:"
+                    ]
+                }
+            ],
+            "745Li": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~745Li/q:"
+                    ]
+                }
+            ],
+            "745i": [
+                {
+                    "E23": [
+                        
+                    ],
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~745i/q:"
+                    ]
+                }
+            ],
+            "750Li": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~750Li/q:"
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~750Li/q:",
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~750Li$2520xDrive/q:"
+                    ],
+                    "G1X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~750i/q:",
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~750i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "750i": [
+                {
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~750iL/q:"
+                    ],
+                    "E38": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E38$2520(95-01)~750iL/q:"
+                    ],
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~750i/q:"
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~750i/q:"
+                    ],
+                    "G1X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~750i/q:",
+                        "/#/filter:finder_hierarchy_2:7$2520Series~G12$2520(2016$252B)~750i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "750iL": [
+                {
+                    "E32": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E32$2520(88-94)~750iL/q:"
+                    ],
+                    "E38": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E38$2520(95-01)~750iL/q:"
+                    ]
+                }
+            ],
+            "760Li": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~760Li/q:"
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~760Li/q:"
+                    ]
+                }
+            ],
+            "760i": [
+                {
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~E65$2520$252F$2520E66$2520(02-08)~760Li/q:"
+                    ],
+                    "F0X": [
+                        "/#/filter:finder_hierarchy_2:7$2520Series~F01$2520$252F$2520F02$2520(2009-2015)~760Li/q:"
+                    ]
+                }
+            ],
+            "840Ci": [
+                {
+                    "E31": [
+                        "/#/filter:finder_hierarchy_2:8$2520Series~E31$2520(91-97)~840Ci/q:"
+                    ]
+                }
+            ],
+            "840i": [
+                {
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "850CSi": [
+                {
+                    "E31": [
+                        "/#/filter:finder_hierarchy_2:8$2520Series~E31$2520(91-97)~850CSi/q:"
+                    ]
+                }
+            ],
+            "850Ci": [
+                {
+                    "E31": [
+                        "/#/filter:finder_hierarchy_2:8$2520Series~E31$2520(91-97)~850Ci/q:"
+                    ]
+                }
+            ],
+            "850i": [
+                {
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "ActiveHybrid 3": [
+                {
+                    "F3X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F30$2520$252F$2520F31$2520$252F$2520F34$2520(2012$252B)~Hybrid$25203/q:"
+                    ]
+                }
+            ],
+            "ActiveHybrid 5": [
+                {
+                    "F10-07": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~Hybrid$25205/q:"
+                    ]
+                }
+            ],
+            "ActiveHybrid 7": [
+                {
+                    "F0X": [
+                        
+                    ]
+                }
+            ],
+            "Alpina B7": [
+                {
+                    "F0X": [
+                        
+                    ],
+                    "G1X": [
+
+                    ]
+                }
+            ],
+            "Alpina B7 xDrive": [
+                {
+                    "F0X": [
+                        
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "Alpina B7L": [
+                {
+                    "F0X": [
+                        
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "Alpina B7L xDrive": [
+                {
+                    "F0X": [
+                        
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "L7": [
+                {
+                    "E38": [
+                        
+                    ]
+                }
+            ],
+            "1M Coupe": [
+                {
+                    "E82": [
+                        "/#/filter:finder_hierarchy_2:1$2520Series~E82$2520$252F$2520E88$2520(08-13)~1M$2520(11-12)/q:"
+                    ]
+                }
+            ],
+            "M2": [
+                {
+                    "F87": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F87$2520(2016$252B)~M2$2520Competition$2520S55$2520(2019$252B)/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F87$2520(2016$252B)~M2$2520CS$2520Racing/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F87$2520(2016$252B)~M2$2520N55$2520(2016-2018)/q:"
+                    ]
+                }
+            ],
+            "M235i": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M235i/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M235i-Racing/q:"
+                    ]
+                }
+            ],
+            "M235i xDrive": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M235i$2520xDrive/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M235i-Racing/q:"
+                    ],
+                    "F44": [
+
+                    ]
+                }
+            ],
+            "M240i": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M240i/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M240i-Racing/q:"
+                    ]
+                }
+            ],
+            "M240i xDrive": [
+                {
+                    "F2X": [
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M240i$2520xDrive/q:",
+                        "/#/filter:finder_hierarchy_2:2$2520Series~F22$2520$252F$2520F23$2520(2014$252B)~M240i-Racing/q:"
+                    ]
+                }
+            ],
+            "M3": [
+                {
+                    "E30": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E30$2520(84-91)~M3/q:"
+                    ],
+                    "E36": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)~M3$2520(96-99)/q:",
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E36$2520(92-99)/q:"
+                    ],
+                    "E46": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E46$2520(99-05)~M3/q:"
+                    ],
+                    "E9X": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~E90$2520$252F$2520E91$2520$252F$2520E92$2520$252F$2520E93$2520(06-13)~M3/q:"
+                    ],
+                    "F80": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~F80$2520(2015-2018)~M3$2520(2015-2018)/q:"
+                    ],
+                    "G80": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~G80$2520(2021-)~M3$2520(2021-)/q:"
+                    ]
+                }
+            ],
+            "M340i": [
+                {
+                    "G20": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~G20$2520(2019$252B)~M340i/q:"
+                    ]
+                }
+            ],
+            "M340i xDrive": [
+                {
+                    "G20": [
+                        "/#/filter:finder_hierarchy_2:3$2520Series~G20$2520(2019$252B)~M340i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "M4": [
+                {
+                    "F8X": [
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F82$2520$252F$2520F83$2520(2015-2020)~M4$2520(2015-2020)/q:",
+                        "/#/filter:finder_hierarchy_2:4$2520Series~F82$2520$252F$2520F83$2520(2015-2020)~M4$2520GT4/q:"
+                    ]
+                }
+            ],
+            "M5": [
+                {
+                    "E28": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E28$2520(82-88)~M5$2520(87-88)/q:"
+                    ],
+                    "E34": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E34$2520(89-95)~M5$2520(91-95)/q:"
+                    ],
+                    "E39": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E39$2520(97-03)~M5$2520(00-03)/q:"
+                    ],
+                    "E60": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~E60$2520$252F$2520E61$2520(04-10)~M5/q:"
+                    ],
+                    "F40": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F10$2520$252F$2520F11$2520(11-16)~M5$2520(2013-2016)/q:"
+                    ],
+                    "F90": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~F90$2520(2018$252B)~M5$2520(2018$252B)/q:"
+                    ]
+                }
+            ],
+            "M550i xDrive": [
+                {
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        "/#/filter:finder_hierarchy_2:5$2520Series~G30$2520(2017-)~M550i$2520xDrive/q:"
+                    ]
+                }
+            ],
+            "M6": [
+                {
+                    "E24": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E24$2520(77-89)~M6/q:"
+                    ],
+                    "E6X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~E63$2520$252F$2520E64$2520(04-10)~M6/q:"
+                    ],
+                    "F06-1X": [
+                        "/#/filter:finder_hierarchy_2:6$2520Series~F12$2520$252F$2520F13$2520(12-18)~M6/q:"
+                    ]
+                }
+            ],
+            "M760i xDrive": [
+                {
+                    "G1X": [
+
+                    ]
+                }
+            ],
+            "M8": [
+                {
+                    "F9X": [
+                        
+                    ]
+                }
+            ],
+            "M850i xDrive": [
+                {
+                    "G1X": [
+
+                    ]
+                }
+            ],
+            "X1": [
+                {
+                    "E84": [
+                        "/#/filter:finder_hierarchy_2:X1$2520Series~E84$2520X1$2520(2013-2015)/q:"
+                    ],
+                    "F48": [
+                        "/#/filter:finder_hierarchy_2:X1$2520Series~F48$2520X1$2520(2016$252B)/q:"
+                    ]
+                }
+            ],
+            "X2": [
+                {
+                    "F39": [
+                        "/#/filter:finder_hierarchy_2:X2$2520Series~F39$2520X2$2520(2018$252B)/q:"
+                    ]
+                }
+            ],
+            "X3": [
+                {
+                    "E83": [
+                        "/#/filter:finder_hierarchy_2:X3$2520Series~E83$2520X3$2520(04-10)/q:"
+                    ],
+                    "F25": [
+                        "/#/filter:finder_hierarchy_2:X3$2520Series~F25$2520X3$2520(2011-2017)/q:"
+                    ],
+                    "G01": [
+                        "/#/filter:finder_hierarchy_2:X3$2520Series~G01$2520X3$2520(2018$252B)/q:"
+                    ]
+                }
+            ],
+            "X3 M": [
+                {
+                    "F97": [
+                        
+                    ]
+                }
+            ],
+            "X4": [
+                {
+                    "F26": [
+                        "/#/filter:finder_hierarchy_2:X4$2520Series~F26$2520X4$2520(2015-2018)/q:"
+                    ],
+                    "G02": [
+                        "/#/filter:finder_hierarchy_2:X4$2520Series~G02$2520X4$2520(2019$252B)/q:"
+                    ]
+                }
+            ],
+            "X4 M": [
+                {
+                    "F98": [
+                        
+                    ]
+                }
+            ],
+            "X5": [
+                {
+                    "E53": [
+                        "/#/filter:finder_hierarchy_2:X5$2520Series~E53$2520X5$2520(00-06)/q:"
+                    ],
+                    "E70": [
+                        "/#/filter:finder_hierarchy_2:X5$2520Series~E70$2520X5$2520(07-13)/q:"
+                    ],
+                    "F15": [
+                        "/#/filter:finder_hierarchy_2:X5$2520Series~F15$2520X5$2520(2014-2018)/q:"
+                    ],
+                    "G05": [
+                        
+                    ]
+                }
+            ],
+            "X5 M": [
+                {
+                    "F85": [
+                        "/#/filter:finder_hierarchy_2:X5$2520Series~F85$2520X5$2520M$2520(2015-2018)/q:"
+                    ],
+                    "F95": [
+                        
+                    ]
+                }
+            ],
+            "X6": [
+                {
+                    "E71": [
+                        "/#/filter:finder_hierarchy_2:X6$2520Series~E71$2520X6$2520(2008-2014)/q:"
+                    ],
+                    "F16": [
+                        "/#/filter:finder_hierarchy_2:X6$2520Series~F16$2520X6$2520(2015-2019)/q:"
+                    ],
+                    "G06": [
+                        
+                    ]
+                }
+            ],
+            "X6 M": [
+                {
+                    "F86": [
+                        "/#/filter:finder_hierarchy_2:X6$2520Series~F86$2520X6$2520M$2520(2015-2019)/q:"
+                    ],
+                    "F96": [
+                        
+                    ]
+                }
+            ],
+            "X7": [
+                {
+                    "G07": [
+                        
+                    ]
+                }
+            ],
+            "Z3 1.8": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 1.9i": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$25201.9/q:"
+                    ]
+                }
+            ],
+            "Z3 2.0": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 2.2i": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 2.3": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$25202.3/q:"
+                    ]
+                }
+            ],
+            "Z3 2.5": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$25202.5/q:"
+                    ]
+                }
+            ],
+            "Z3 2.8": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$25202.8/q:"
+                    ]
+                }
+            ],
+            "Z3 3.0i": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$25203.0/q:"
+                    ]
+                }
+            ],
+            "Z3 M": [
+                {
+                    "E36-7": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$2520M$2520-$2520S52/q:",
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E36$252F7$2520$252F$2520E36$252F8$2520Z3$2520(96-02)~Z3$2520M$2520-$2520S54/q:"
+                    ]
+                }
+            ],
+            "Z4 2.0i": [
+                {
+                    "E8X": [
+                        
+                    ]
+                }
+            ],
+            "Z4 2.2i": [
+                {
+                    "E8X": [
+                        
+                    ]
+                }
+            ],
+            "Z4 2.5i": [
+                {
+                    "E8X": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E85$2520$252F$2520E86$2520Z4$2520(03-08)~Z4$25202.5i$2520M54/q:"
+                    ]
+                }
+            ],
+            "Z4 3.0i": [
+                {
+                    "E8X": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E85$2520$252F$2520E86$2520Z4$2520(03-08)~Z4$25203.0i$2520M54/q:",
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E85$2520$252F$2520E86$2520Z4$2520(03-08)~Z4$25203.0i$2520N52/q:",
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E85$2520$252F$2520E86$2520Z4$2520(03-08)~Z4$25203.0si$2520N52/q:"
+                    ]
+                }
+            ],
+            "Z4 M": [
+                {
+                    "E8X": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E85$2520$252F$2520E86$2520Z4$2520(03-08)~Z4$2520M/q:"
+                    ]
+                }
+                
+            ],
+            "Z4 M40i": [
+                {
+                    "G29": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~G29$2520Z4$2520(2019$252B)~Z4$2520M40i/q:"
+                    ]
+                }
+            ],
+            "Z4 sDrive18i": [
+                {
+                    "E89": [
+                        
+                    ]
+                }
+            ],
+            "Z4 sDrive20i": [
+                {
+                    "E89": [
+                        
+                    ],
+                    "G29": [
+
+                    ]
+                }
+            ],
+            "Z4 sDrive23i": [
+                {
+                    "E89": [
+                        
+                    ]
+                }
+            ],
+            "Z4 sDrive28i": [
+                {
+                    "E89": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E89$2520Z4$2520(2009-2016)~Z4$2520sDrive28i/q:"
+                    ]
+                }
+            ],
+            "Z4 sDrive30i": [
+                {
+                    "E89": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E89$2520Z4$2520(2009-2016)~Z4$2520sDrive30i/q:"
+                    ],
+                    "G29": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~G29$2520Z4$2520(2019$252B)~Z4$2520sDrive30i/q:"
+                    ]
+                }
+            ],
+            "Z4 sDrive35i": [
+                {
+                    "E89": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E89$2520Z4$2520(2009-2016)~Z4$2520sDrive35i/q:"
+                    ]
+                }
+            ],
+            "Z4 sDrive35is": [
+                {
+                    "E89": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E89$2520Z4$2520(2009-2016)~Z4$2520sDrive35is/q:"
+                    ]
+                }
+            ],
+            "Z8": [
+                {
+                    "E52": [
+                        "/#/filter:finder_hierarchy_2:Z$2520Series~E52$2520Z8$2520(00-03)~Z8$2520Roadster$2520(2000-2003)/q:"
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+﻿id,name,cat_id
+1,Air Filter,1
+2,Air Intake,1
+3,Blow Off Valve,1
+4,Charge Pipe,1
+5,Diverter Valve,1
+6,Emissions,1
+7,Filter Housing,1
+8,Idle Control Valve (ICV),1
+9,Intake Manifold,1
+10,Intercooler,1
+11,Mass Air Flow Sensor (MAF),1
+12,Plumbing,1
+13,Pressure Control Valve (PCV),1
+14,Pumps,1
+15,Throttle Body,1
+16,Vacuum System,1
+17,Assembly,2
+18,Crossmember,2
+19,Differential,2
+20,Electrical,2
+21,Filter,2
+22,Flexplate,2
+23,Fluid,2
+24,Gaskets,2
+25,Hardware,2
+26,Input Shaft,2
+27,Mount,2
+28,Oil Cooler,2
+29,Oil Pan,2
+30,Output Shaft,2
+31,Plug,2
+32,Pump,2
+33,Seal,2
+34,Service,2
+35,Shifter,2
+36,Software,2
+37,Tools,2
+38,Torque Converter,2
+39,Valve Body,2
+40,ABS Sensor,3
+41,Brake Booster,3
+42,Brake Caliper,3
+43,Brake Line,3
+44,Brake Pad,3
+45,Brake Rotor,3
+46,Compound,3
+47,Drum Brakes,3
+48,Electrical,3
+49,Fluid,3
+50,Hardware,3
+51,Master Cylinder,3
+52,Parking Brake,3
+53,Performance,3
+54,Rotor and Pad Kit,3
+55,Tools,3
+56,AC Compressor,4
+57,AC Condenser,4
+58,AC Evaporator,4
+59,AC Valve,4
+60,AC Plumbing,4
+61,Blower Motor,4
+62,Cabin Filter,4
+63,Control Panel,4
+64,Electrical,4
+65,General,4
+66,Blend Door,4
+67,Heater Core,4
+68,Heater Hose,4
+69,Receiver-Drier,4
+70,Coolant,5
+71,Cooling Fan,5
+72,Expansion Tank,5
+73,Kits,5
+74,Performance,5
+75,Plumbing,5
+76,Radiator,5
+77,Sensor,5
+78,Thermostat,5
+79,Tools,5
+80,Water Pump,5
+81,Axle,6
+82,CV,6
+83,Differential,6
+84,Driveshaft,6
+85,Flywheel,6
+86,Gear Oil,6
+87,Mount,6
+88,Tools,6
+89,Wheel Bearing,6
+90,Alternator,7
+91,Battery,7
+92,Belt,7
+93,Block,7
+94,Camshaft,7
+95,Connecting Rod,7
+96,Cover,7
+97,Crankcase,7
+98,Crankshaft,7
+99,Cylinder Head,7
+100,Engine Control Unit (ECU),7
+101,Electrical,7
+102,Emissions,7
+103,Fuel Rail,7
+104,Gaskets,7
+105,Ignition,7
+106,Mount,7
+107,Nitrous,7
+108,Oil,7
+109,Oiling System,7
+110,Oil Catch Can,7
+111,Oil Cooler,7
+112,Oil Filter,7
+113,Oil Pan,7
+114,Performance,7
+115,Piston,7
+116,Pressure Control Valve (PCV),7
+117,Pulley,7
+118,Rocker,7
+119,Seals,7
+120,Sensor,7
+121,Service Kit,7
+122,Spark Plug,7
+123,Starter,7
+124,Supercharger,7
+125,Timing,7
+126,Tools,7
+127,Tuning,7
+128,Turbocharger,7
+129,Vacuum,7
+130,Valve Cover,7
+131,Valves & Springs,7
+132,Catalytic Converter,8
+133,Cat-back Exhaust,8
+134,Downpipes,8
+135,EGR,8
+136,Exhaust Tips,8
+137,Gaskets,8
+138,Headers,8
+139,Muffler,8
+140,OE,8
+141,Oxygen(O2) Sensor,8
+142,Performance,8
+143,Resonator & Mid-Pipe,8
+144,Tools,8
+145,Universal,8
+146,Alarm,9
+147,Antenna,9
+148,Body,9
+149,Convertible Top,9
+150,Decal,9
+151,Door,9
+152,Electrical,9
+153,Emblem,9
+154,Fender,9
+155,Front Bumper,9
+156,Fuel Door,9
+157,Grille,9
+158,Hitch,9
+159,Hood,9
+160,Horn,9
+161,Jack Pad,9
+162,License Plate,9
+163,Mirror,9
+164,Paint,9
+165,Plug,9
+166,Rain Tray,9
+167,Rear Bumper,9
+168,Roof,9
+169,Roof Rack,9
+170,Side Skirts,9
+171,Splash Guard,9
+172,Spoiler,9
+173,Sunroof,9
+174,Tools,9
+175,Trim,9
+176,Trunk or Hatch,9
+177,Undercoating,9
+178,Undertray,9
+179,Vinyl,9
+180,Window,9
+181,Windshield,9
+182,Wiper,9
+183,Fuel Additive,10
+184,Fuel Cap,10
+185,Fuel Filter,10
+186,Fuel Injector,10
+187,Fuel Pump,10
+188,Fuel Rail,10
+189,Fuel Sending Unit,10
+190,Fuel Tank,10
+191,Leak Detection Pump,10
+192,Leak Detection Pump Filter,10
+193,Performance,10
+194,Plumbing,10
+195,Sensor,10
+196,Tools,10
+197,Accessories,11
+198,Airbag,11
+199,Alarm,11
+200,Armrest,11
+201,Audio,11
+202,Camera,11
+203,Carpet,11
+204,Cellphone,11
+205,Center Console,11
+206,Cruise Control,11
+207,Cup Holder,11
+208,Dashboard,11
+209,Data Acquisition,11
+210,Door,11
+211,Electrical,11
+212,Floor Mat,11
+213,Fuses & Fuse Box,11
+214,Gauges,11
+215,Headliner,11
+216,Head Unit,11
+217,Lighting,11
+218,Mirror,11
+219,Parking Brake,11
+220,Pedal,11
+221,Radar Detector,11
+222,Safety,11
+223,Seat,11
+224,Shifter,11
+225,Steering Wheel,11
+226,Storage,11
+227,Sun Visor,11
+228,Sunroof,11
+229,Tools,11
+230,Trim,11
+231,Trunk,11
+232,Vent,11
+233,Window,11
+234,Fog Light,12
+235,Headlight,12
+236,Indicator,12
+237,Interior,12
+238,LED,12
+239,Liscense Plate,12
+240,Rally,12
+241,Switch,12
+242,Tail Light,12
+243,Universal,12
+244,Assembly,13
+245,Bearings,13
+246,Bell Housing,13
+247,Clutch Disc,13
+248,Clutch Kit,13
+249,Clutch Master Cylinder,13
+250,Clutch Pressure Plate,13
+251,Clutch Release,13
+252,Clutch Slave Cylinder,13
+253,Countershaft,13
+254,Crossmember,13
+255,Differential,13
+256,Electrical,13
+257,Fluid,13
+258,Flywheel,13
+259,Gaskets,13
+260,Hardware,13
+261,Input Shaft,13
+262,Intermediate Plate,13
+263,Lines,13
+264,Main Shaft,13
+265,Mount,13
+266,Output Shaft,13
+267,Performance,13
+268,Plug,13
+269,Seal,13
+270,Service,13
+271,Shifter,13
+272,Synchro,13
+273,Tools,13
+274,Power Steering Cooler,14
+275,Power Steering Fluid,14
+276,Power Steering Lines,14
+277,Power Steering Pump,14
+278,Power Steering Reservoir,14
+279,Steering Column,14
+280,Steering Kit,14
+281,Steering Knuckle,14
+282,Steering Rack,14
+283,Tie Rod,14
+284,Tools,14
+285,Air Ride,15
+286,Ball Joint,15
+287,Bushings,15
+288,Camber Kit,15
+289,Coilovers,15
+290,Control Arm,15
+291,Cup Kit,15
+292,Chassis Reinforcement,15
+293,Electrical,15
+294,End Links,15
+295,Shocks,15
+296,Springs,15
+297,Strut Brace,15
+298,Strut Mount,15
+299,Subframe,15
+300,Suspension Kit,15
+301,Sway Bar,15
+302,Tools,15
+303,Bearings,16
+304,Carrier,16
+305,Fluid,16
+306,Input Shaft,16
+307,Output Shaft,16
+308,Seal,16
+309,Aftermarket Wheels,17
+310,Center Cap,17
+311,Equipment,17
+312,Hub Adapter,17
+313,Hubcentric Ring,17
+314,Lug Bolt-Stud-Nut,17
+315,OEM Wheels,17
+316,Paint,17
+317,Repair,17
+318,Sensor,17
+319,Spacer,17
+320,Sticker,17
+321,Stud Conversion,17
+322,Tires,17
+323,Tools,17
+324,Valve Stem,17
+325,Wheel Lock,17
+326,Wheel & Tire Package,17

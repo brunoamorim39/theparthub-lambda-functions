@@ -1,0 +1,842 @@
+{
+    "Audi": [
+        {
+            "80": [
+                {
+                    "B1": [
+                        
+                    ],
+                    "B2": [
+                        
+                    ],
+                    "B3": [
+                        "/audi/vintage/80-90/b3/i4-8v",
+                        "/audi/vintage/80-90/b3/i4-16v",
+                        "/audi/vintage/80-90/b3/i5-10v-ng",
+                        "/audi/vintage/80-90/b3/i5-20v-7a"
+                    ],
+                    "B4": [
+                        "/audi/vintage/80-90/b4/i4-16v",
+                        "/audi/vintage/80-90/b4/2-8l-v6-12v"
+                    ]
+                }
+            ],
+            "90": [
+                {
+                    "B1": [
+                        
+                    ],
+                    "B2": [
+                        
+                    ],
+                    "B3": [
+                        "/audi/vintage/80-90/b3/i4-8v",
+                        "/audi/vintage/80-90/b3/i4-16v",
+                        "/audi/vintage/80-90/b3/i5-10v-ng",
+                        "/audi/vintage/80-90/b3/i5-20v-7a"
+                    ],
+                    "B4": [
+                        "/audi/vintage/80-90/b4/i4-16v",
+                        "/audi/vintage/80-90/b4/2-8l-v6-12v"
+                    ]
+                }
+            ],
+            "4000": [
+                {
+                    "B1": [
+
+                    ],
+                    "B2": [
+                        "/audi/vintage/4000-4kq/b2/i4-8v",
+                        "/audi/vintage/4000-4kq/b2/i5-10v-jt"
+                    ],
+                    "B3": [
+
+                    ],
+                    "B4": [
+
+                    ]
+                }
+            ],
+            "100": [
+                {
+                    "C1": [
+
+                    ],
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/audi/vintage/100-200/c3/i5-10v-nf",
+                        "/audi/vintage/100-200/c3/i5-10vt-mc2",
+                        "/audi/vintage/100-200/c3/i5-20vt-3b"
+                    ],
+                    "C4": [
+                        
+                    ]
+                }
+            ],
+            "200": [
+                {
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/audi/vintage/100-200/c3/i5-10v-nf",
+                        "/audi/vintage/100-200/c3/i5-10vt-mc2",
+                        "/audi/vintage/100-200/c3/i5-20vt-3b"
+                    ]
+                }
+            ],
+            "5000": [
+                {
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/audi/vintage/5000/c3/i5-10v",
+                        "/audi/vintage/5000/c3/i5-10vt-kh",
+                        "/audi/vintage/5000/c3/i5-10vt-mc1"
+                    ]
+                }
+            ],
+            "A3": [
+                {
+                    "8P": [
+                        "/audi/a3/8p/2-0t-fsi",
+                        "/audi/a3/8p/2-0-tsi",
+                        "/audi/a3/8p/2-0-tdi",
+                        "/audi/a3/8p/3-2l-vr6-24v"
+                    ],
+                    "8V": [
+                        "/audi/a3/8v/1-8-tfsi",
+                        "/audi/a3/8v/2-0-tfsi",
+                        "/audi/a3/8v/2-0-tdi"
+                    ]
+                }
+            ], 
+            "A4": [
+                {
+                    "B5": [
+                        "/audi/a4/b5/1-8t",
+                        "/audi/a4/b5/2-8l-v6-12v",
+                        "/audi/a4/b5/2-8l-v6-30v"
+                    ],
+                    "B6": [
+                        "/audi/a4/b6/1-8t",
+                        "/audi/a4/b6/3-0l-v6-30v"
+                    ],
+                    "B7": [
+                        "/audi/a4/b7/2-0t-fsi",
+                        "/audi/a4/b7/3-2l-fsi"
+                    ],
+                    "B8": [
+                        "/audi/a4/b8/2-0-tfsi",
+                        "/audi/a4/b8/3-2l-fsi"
+                    ],
+                    "B9": [
+                        "/audi/a4/b9/2-0-tfsi"
+                    ]
+                }
+            ],
+            "A5": [
+                {
+                    "B8": [
+                        "/audi/a5/b8/3-2l-fsi",
+                        "/audi/a5/b8/2-0-tfsi"
+                    ],
+                    "B9": [
+                        "/audi/a5/b9/2-0-tfsi"
+                    ]
+                }
+            ],
+            "A6": [
+                {
+                    "C4": [
+                        "/audi/a6/c4/2-8l-v6-12v"
+                    ],
+                    "C5": [
+                        "/audi/a6/c5/2-7t",
+                        "/audi/a6/c5/2-8l-v6-30v",
+                        "/audi/a6/c5/3-0l-v6-30v",
+                        "/audi/a6/c5/4-2l-v8-40v"
+                    ],
+                    "C6": [
+                       "/audi/a6/c6/3-2l-fsi",
+                       "/audi/a6/c6/3-0-tfsi",
+                       "/audi/a6/c6/4-2l-fsi"
+                    ],
+                    "C7": [
+                        "/audi/a6/c7/2-0-tfsi",
+                        "/audi/a6/c7/3-0-tfsi",
+                        "/audi/a6/c7/3-0-tdi"
+                    ],
+                    "C8": [
+                        "/audi/a6/c8/3-0-tfsi"
+                    ]
+                }
+            ],
+            "A7": [
+                {
+                    "C7": [
+                       "/audi/a7/c7/3-0-tfsi",
+                       "/audi/a7/c7/3-0-tdi"
+                    ],
+                    "C8": [
+                        "/audi/a7/c8/3-0-tfsi"
+                    ]
+                }
+            ],
+            "A8": [
+                {
+                    "D2": [
+                        "/audi/a8/d2/4-2l-v8-32v"
+                    ],
+                    "D3": [
+                        "/audi/a8/d3/4-2l-fsi",
+                        "/audi/a8/d3/6-0l-w12"
+                    ],
+                    "D4": [
+                        "/audi/a8/d4/3-0-tfsi",
+                        "/audi/a8/d4/3-0-tdi",
+                        "/audi/a8/d4/4-0-tfsi",
+                        "/audi/a8/d4/4-2l-fsi",
+                        "/audi/a8/d4/6-3l-w12-fsi"
+                    ],
+                    "D5": [
+                       
+                    ]
+                }
+            ],
+            "A4 Allroad": [
+                {
+                    "B8": [
+                        "/audi/allroad/b8/2-0-tfsi"
+                    ],
+                    "B9": [
+                        "/audi/allroad/b9/2-0-tfsi"
+                    ]
+                }
+            ],
+            "A6 Allroad": [
+                {
+                    "C5": [
+                        "/audi/allroad/c5/2-7t",
+                        "/audi/allroad/c5/4-2l-v8-40v"
+                    ],
+                    "C8": [
+                        
+                    ]
+                }
+            ],
+            "Q3": [
+                {
+                    "8U": [
+                        "/audi/q/q3/8u/2-0-tfsi"
+                    ],
+                    "F3": [
+                        
+                    ]
+                }
+            ],
+            "Q5": [
+                {
+                    "B8": [
+                        "/audi/q/q5/b8/2-0-tfsi",
+                        "/audi/q/q5/b8/3-0-tfsi",
+                        "/audi/q/q5/b8/3-0-tdi",
+                        "/audi/q/q5/b8/3-2l-fsi"
+                    ],
+                    "B9": [
+                        "/audi/q/q5/b9/2-0-tfsi"
+                    ]
+                }
+            ],
+            "Q7": [
+                {
+                    "4L": [
+                        
+                    ],
+                    "4M": [
+                        
+                    ]
+                }
+            ],
+            "Q8": [
+                {
+                    "4M": [
+                        
+                    ]
+                }
+            ],
+            "R8": [
+                {
+                    "MK1": [
+                        "/audi/r8/42-fg/v8-4-2l-fsi",
+                        "/audi/r8/42-fg/v10-5-2l-fsi"
+                    ],
+                    "MK2": [
+                        
+                    ]
+                }
+            ],
+            "RS Q8": [
+                {
+                    "4M": [
+                        
+                    ]
+                }
+            ],
+            "RS3": [
+                {
+                    "8V": [
+                        "/audi/rs/rs3/8v/2-5-tfsi",
+                        "/audi/rs/rs3/8v-5/2-5-tfsi-evo"
+                    ]
+                }
+            ],
+            "RS4": [
+                {
+                    "B7": [
+                        "/audi/rs/rs4/b7/4-2l-fsi"
+                    ]
+                }
+            ],
+            "RS5": [
+                {
+                    "B8": [
+                        "/audi/rs/rs5/b8/4-2l-fsi"
+                    ],
+                    "B9": [
+                        "/audi/rs/rs5/b9/2-9-tfsi"
+                    ]
+                }
+            ],
+            "RS6": [
+                {
+                    "C5": [
+                        "/audi/rs/rs6/c5/4-2t"
+                    ],
+                    "C8": [
+                        
+                    ]
+                }
+            ],
+            "RS7": [
+                {
+                    "C7": [
+                        "/audi/rs/rs7/c7/4-0-tfsi"
+                    ],
+                    "C8": [
+                        
+                    ]
+                }
+            ],
+            "S3": [
+                {
+                    "8P": [
+
+                    ],
+                    "8V": [
+                        "/audi/s/s3/8v/2-0-tfsi"
+                    ]
+                }
+            ],
+            "S4": [
+                {
+                    "B5": [
+                        "/audi/s/s4/b5/2-7t"
+                    ],
+                    "B6": [
+                        "/audi/s/s4/b6/4-2l-v8-40v"
+                    ],
+                    "B7": [
+                        "/audi/s/s4/b7/4-2l-v8-40v"
+                    ],
+                    "B8": [
+                        "/audi/s/s4/b8/3-0-tfsi"
+                    ],
+                    "B9": [
+                        "/audi/s/s4/b9/3-0-tfsi"
+                    ],
+                    "C4": [
+                        "/audi/s/s4/c4/2-2t-20v-aan"
+                    ]
+                }
+            ],
+            "S5": [
+                {
+                    "B8": [
+                        "/audi/s/s5/b8/4-2l-fsi",
+                        "/audi/s/s5/b8/3-0-tfsi"
+                    ],
+                    "B9": [
+                        "/audi/s/s5/b9/3-0-tfsi"
+                    ]
+                }
+            ],
+            "S6": [
+                {
+                    "C4": [
+                        "/audi/s/s6/c4/2-2t-20v-aan"
+                    ],
+                    "C5": [
+                        "/audi/s/s6/c5/4-2l-v8-40v"
+                    ],
+                    "C6": [
+                        "/audi/s/s6/c6/5-2l-fsi-v10"
+                    ],
+                    "C7": [
+                        "/audi/s/s6/c7/4-0-tfsi"
+                    ],
+                    "C8": [
+                        
+                    ]
+                }
+            ],
+            "S7": [
+                {
+                    "C7": [
+                        "/audi/s/s7/c7/4-0-tfsi"
+                    ],
+                    "C8": [
+                        
+                    ]
+                }
+            ],
+            "S8": [
+                {
+                    "D2": [
+                        "/audi/s/s8/d2/4-2l-v8-40v"
+                    ],
+                    "D3": [
+                        "/audi/s/s8/d3/5-2l-fsi-v10"
+                    ],
+                    "D4": [
+                        
+                    ],
+                    "D5": [
+                        
+                    ]
+                }
+            ],
+            "SQ5": [
+                {
+                    "B8": [
+                        "/audi/q/sq5/b8/3-0-tfsi",
+                        "/audi/q/sq5/b8/3-0-tdi"
+                    ],
+                    "B9": [
+                        "/audi/q/sq5/b9/3-0-tfsi"
+                    ]
+                }
+            ],
+            "SQ7": [
+                {
+                    "4M": [
+                        
+                    ]
+                }
+            ],
+            "SQ8": [
+                {
+                    "4M": [
+                        
+                    ]
+                }
+            ],
+            "TT": [
+                {
+                    "MK1": [
+                        "/audi/tt/tt/8n-mki/1-8t-180hp",
+                        "/audi/tt/tt/8n-mki/1-8t-225hp",
+                        "/audi/tt/tt/8n-mki/3-2l-vr6-24v"
+                    ],
+                    "MK2": [
+                        "/audi/tt/tt/8j-mkii/2-0t-fsi",
+                        "/audi/tt/tt/8j-mkii/2-0-tsi",
+                        "/audi/tt/tt/8j-mkii/2-0-tfsi-valvelift",
+                        "/audi/tt/tt/8j-mkii/3-2l-vr6-24v"
+                    ],
+                    "MK3": [
+                        "/audi/tt/tt/8s/2-0t-gen-3"
+                    ]
+                }
+            ],
+            "TTRS": [
+                {
+                    "MK2": [
+                        "/audi/tt/ttrs/8j-2012-2013/2-5-tfsi"
+                    ],
+                    "MK3": [
+                        "/audi/tt/ttrs/8s/2-5-tfsi"
+                    ]
+                }
+            ],
+            "TTS": [
+                {
+                    "MK2": [
+                        "/audi/tt/tts/8j-2008-2015/2-0t-fsi"
+                    ],
+                    "MK3": [
+                        "/audi/tt/tts/8s/2-0t-gen-3"
+                    ]
+                }
+            ]
+        }
+    ],
+    "Volkswagen": [
+        {
+            "Arteon": [
+                {
+                    "B8": [
+
+                    ]
+                }
+            ],
+            "Atlas": [
+                {
+                    "MQB": [
+                        
+                    ]
+                }
+            ],
+            "Beetle": [
+                {
+                    "Type 1": [
+
+                    ],
+                    "Type 2": [
+                        "/volkswagen/beetle/mkiv-new-beetle/1-8t",
+                        "/volkswagen/beetle/mkiv-new-beetle/2-0l-8v",
+                        "/volkswagen/beetle/mkiv-new-beetle/2-5l"
+                    ],
+                    "Type 3": [
+                        "/volkswagen/beetle/mkvi/1-8t-gen3",
+                        "/volkswagen/beetle/mkvi/2-0t-gen3",
+                        "/volkswagen/beetle/mkvi/2-0-tsi",
+                        "/volkswagen/beetle/mkvi/2-5l"
+                    ]
+                }
+            ],
+            "Bus": [
+                {
+                    "T1": [
+
+                    ],
+                    "T2": [
+
+                    ]
+                }
+            ],
+            "CC": [
+                {
+                    "CC": [
+                        "/volkswagen/cc/b7-2009-2015/2-0-tsi",
+                        "/volkswagen/cc/b7-2009-2015/3-6l-vr6-fsi"
+                    ]
+                }
+            ],
+            "Corrado": [
+                {
+                    "G60": [
+
+                    ]
+                }
+            ],
+            "Dasher": [
+                {
+                    "B1": [
+
+                    ]
+                }
+            ],
+            "EOS": [
+                {
+                    "Mk2": [
+                        "/volkswagen/eos/mkv/2-0t-fsi",
+                        "/volkswagen/eos/mkv/2-0-tsi",
+                        "/volkswagen/eos/mkv/3-2l-vr6-24v"
+                    ]
+                }
+            ],
+            "Eurovan": [
+                {
+                    "T4": [
+
+                    ]
+                }
+            ],
+            "Fox": [
+                {
+                    "Mk1": [
+
+                    ]
+                }
+            ],
+            "Golf": [
+                {
+                    "Mk1": [
+
+                    ],
+                    "Mk2": [
+                        "/volkswagen/golf-gti-rabbit/mkii/8v",
+                        "/volkswagen/golf-gti-rabbit/mkii/16v"
+                    ],
+                    "Mk3": [
+                        "/volkswagen/golf-gti-rabbit/mkiii/2-8l-vr6-12v"
+                    ],
+                    "Mk4": [
+                        "/volkswagen/golf-gti-rabbit/mkiv/2-0l-8v",
+                        "/volkswagen/golf-gti-rabbit/mkiv/1-9-tdi",
+                        "/volkswagen/golf-gti-rabbit/mkiv/2-8l-vr6-12v",
+                        "/volkswagen/golf-gti-rabbit/mkiv/2-8l-vr6-24v"
+                    ],
+                    "Mk5": [
+                        "/volkswagen/golf-gti-rabbit/mkv/2-0-tsi",
+                        "/volkswagen/golf-gti-rabbit/mkv/2-5l"
+                    ],
+                    "Mk6": [
+                        "/volkswagen/golf-gti-rabbit/mkvi/2-0-tdi",
+                        "/volkswagen/golf-gti-rabbit/mkvi/2-5l"
+                    ],
+                    "Mk7": [
+                        "/volkswagen/golf-gti-rabbit/mkvii/1-8t-gen3",
+                        "/volkswagen/golf-gti-rabbit/mkvii/2-0-tdi"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf GTI": [
+                {
+                    "Mk1": [
+
+                    ],
+                    "Mk2": [
+                        "/volkswagen/golf-gti-rabbit/mkii/8v",
+                        "/volkswagen/golf-gti-rabbit/mkii/16v"
+                    ],
+                    "Mk3": [
+                        "/volkswagen/golf-gti-rabbit/mkiii/2-0l-8v"
+                    ],
+                    "Mk4": [
+                        "/volkswagen/golf-gti-rabbit/mkiv/1-8t"
+                    ],
+                    "Mk5": [
+                        "/volkswagen/golf-gti-rabbit/mkv/2-0t-fsi"
+                    ],
+                    "Mk6": [
+                        "/volkswagen/golf-gti-rabbit/mkvi/2-0-tsi"
+                    ],
+                    "Mk7": [
+                        "/volkswagen/golf-gti-rabbit/mkvii/2-0t-gen3"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf R": [
+                {
+                    "Mk6": [
+                        "/volkswagen/r/mkvi-golf-r"
+                    ],
+                    "Mk7": [
+                        "/volkswagen/r/mkvii-golf-r"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf R32": [
+                {
+                    "Mk4": [
+                        "/volkswagen/r/mkiv-r32"
+                    ],
+                    "Mk5": [
+                        "/volkswagen/r/mkv-r32"
+                    ]
+                }
+            ],
+            "Jetta": [
+                {
+                    "Mk1": [
+
+                    ],
+                    "Mk2": [
+                        "/volkswagen/jetta-gli/mkii/8v",
+                        "/volkswagen/jetta-gli/mkii/16v"
+                    ],
+                    "Mk3": [
+                        "/volkswagen/jetta-gli/mkiii/2-0l-8v",
+                        "/volkswagen/jetta-gli/mkiii/2-8l-vr6-12v"
+                    ],
+                    "Mk4": [
+                        "/volkswagen/jetta-gli/mkiv/1-8t",
+                        "/volkswagen/jetta-gli/mkiv/2-0l-8v",
+                        "/volkswagen/jetta-gli/mkiv/1-9-tdi",
+                        "/volkswagen/jetta-gli/mkiv/2-8l-vr6-12v",
+                        "/volkswagen/jetta-gli/mkiv/2-8l-vr6-24v"
+                    ],
+                    "Mk5": [
+                        "/volkswagen/jetta-gli/mkv/2-0t-fsi",
+                        "/volkswagen/jetta-gli/mkv/2-0-tsi",
+                        "/volkswagen/jetta-gli/mkv/2-0-tdi",
+                        "/volkswagen/jetta-gli/mkv/2-5l"
+                    ],
+                    "Mk6": [
+                        "/volkswagen/jetta-gli/mkvi/1-4-tsi",
+                        "/volkswagen/jetta-gli/mkvi/1-8t-gen3",
+                        "/volkswagen/jetta-gli/mkvi/2-0t-gen3",
+                        "/volkswagen/jetta-gli/mkvi/2-0l-8v",
+                        "/volkswagen/jetta-gli/mkvi/2-0-tsi",
+                        "/volkswagen/jetta-gli/mkvi/2-0-tdi",
+                        "/volkswagen/jetta-gli/mkvi/2-5l"
+                    ],
+                    "Mk7": [
+                        "/volkswagen/jetta-gli/mkvii/1-4-t",
+                        "/volkswagen/jetta-gli/mkvii/2-0t-gen3"
+                    ]
+                }
+            ],
+            "Kharmann Ghia": [
+                {
+                    "Type 14": [
+
+                    ],
+                    "Type 34": [
+
+                    ]
+                }
+            ],
+            "Passat": [
+                {
+                    "B3": [
+                        "/volkswagen/passat/b3-b4/2-0l-16v",
+                        "/volkswagen/passat/b3-b4/2-8l-vr6-12v"
+                    ],
+                    "B4": [
+                        "/volkswagen/passat/b3-b4/2-0l-16v",
+                        "/volkswagen/passat/b3-b4/2-8l-vr6-12v"
+                    ],
+                    "B5": [
+                        "/volkswagen/passat/b5/1-8t",
+                        "/volkswagen/passat/b5/2-8l-v6-30v",
+                        "/volkswagen/passat/b5/4-0l-w8"
+                    ],
+                    "B6": [
+                        "/volkswagen/passat/b6/2-0t-fsi",
+                        "/volkswagen/passat/b6/2-0-tsi",
+                        "/volkswagen/passat/b6/3-6l-vr6-fsi"
+                    ],
+                    "B7": [
+                        "/volkswagen/passat/b7/1-8t-gen3",
+                        "/volkswagen/passat/b7/2-0-tdi",
+                        "/volkswagen/passat/b7/2-5l",
+                        "/volkswagen/passat/b7/3-6l-vr6-fsi"
+                    ],
+                    "B8": [
+
+                    ]
+                }
+            ],
+            "Phaeton": [
+                {
+                    "GP1": [
+
+                    ],
+                    "GP2": [
+
+                    ],
+                    "GP3": [
+
+                    ],
+                    "GP4": [
+
+                    ]
+                }
+            ],
+            "Quantum": [
+                {
+                    "B2": [
+
+                    ]
+                }
+            ],
+            "Routan": [
+                {
+                    "RT": [
+
+                    ]
+                }
+            ],
+            "Scirocco": [
+                {
+                    "Type 53": [
+
+                    ],
+                    "Type 53B": [
+
+                    ]
+                }
+            ],
+            "Squareback": [
+                {
+                    "Type 3": [
+
+                    ]
+                }
+            ],
+            "Thing": [
+                {
+                    "Type 181": [
+
+                    ]
+                }
+            ],
+            "Tiguan": [
+                {
+                    "5N": [
+                        "/volkswagen/tiguan/i/2-0-tsi",
+                        "/volkswagen/tiguan/i/2-0-tdi"
+                    ],
+                    "MQB": [
+                        "/volkswagen/tiguan/ii/2-0-tsi",
+                        "/volkswagen/tiguan/ii/2-0-tdi"
+                    ]
+                }
+            ],
+            "Touareg": [
+                {
+                    "7L": [
+                        "/volkswagen/touareg/i/3-2l-vr6-24v",
+                        "/volkswagen/touareg/i/3-6l-vr6-fsi",
+                        "/volkswagen/touareg/i/4-2l-v8-40v",
+                        "/volkswagen/touareg/i/5-0l-v10-tdi"
+                    ],
+                    "7P": [
+                        "/volkswagen/touareg/ii/3-6l-vr6-fsi",
+                        "/volkswagen/touareg/ii/3-0l-v6-tdi",
+                        "/volkswagen/touareg/ii/4-2l-fsi",
+                        "/volkswagen/touareg/ii/5-0l-v10-tdi"
+                    ],
+                    "CR": [
+                        "/volkswagen/touareg/iii/3-6l-vr6-fsi",
+                        "/volkswagen/touareg/iii/3-0l-v6-tdi",
+                        "/volkswagen/touareg/iii/4-2l-fsi"
+                    ]
+                }
+            ],
+            "Vanagon": [
+                {
+                    "T3": [
+
+                    ]
+                }
+            ]
+        }
+    ]
+}

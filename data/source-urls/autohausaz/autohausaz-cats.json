@@ -1,0 +1,2443 @@
+{
+    "Air Intake": [
+        {
+            "Air Filter": [
+                "/22-fuel_air_system/11162-air_filter_seal",
+                "/22-fuel_air_system/6192-air_filter"
+            ],
+            "Air Intake": [
+                "/22-fuel_air_system/11190-engine_air_intake_seal"
+            ],
+            "Blow Off Valve": [
+
+            ],
+            "Charge Pipe": [
+
+            ],
+            "Diverter Valve": [
+
+            ],
+            "Emissions": [
+                "/19-emission_system/5028-idle_air_control_valve",
+                "/19-emission_system/13821-manifold_absolute_pressure_sensor",
+                "/19-emission_system/5000-vapor_canister_filter"
+            ],
+            "Filter Housing": [
+                "/22-fuel_air_system/11145-air_cleaner_mount",
+                "/22-fuel_air_system/15491-air_filter_housing_assembly"
+            ],
+            "Idle Control Valve (ICV)": [
+                "/19-emission_system/5028-idle_air_control_valve"
+            ],
+            "Intake Manifold": [
+                "/19-emission_system/13821-manifold_absolute_pressure_sensor",
+                "/20-engine_parts_seals_gaskets/11882-intake_manifold_sleeve",
+                "/20-engine_parts_seals_gaskets/5536-intake_manifold",
+                "/20-engine_parts_seals_gaskets/12362-intake_manifold_adjusting_unit",
+                "/20-engine_parts_seals_gaskets/17015-intake_manifold_air_equalizer",
+                "/20-engine_parts_seals_gaskets/5424-intake_manifold_gasket",
+                "/20-engine_parts_seals_gaskets/10689-intake_manifold_gasket_set",
+                "/22-fuel_air_system/17824-intake_manifold_actuator",
+                "/22-fuel_air_system/20529-intake_manifold_adjuster_repair_kit"
+            ],
+            "Intercooler": [
+                "/22-fuel_air_system/49182-turbocharger_intercooler",
+                "/22-fuel_air_system/49991-turbocharger_intercooler_bracket",
+                "/22-fuel_air_system/49998-turbocharger_intercooler_seal"
+            ],
+            "Mass Air Flow Sensor (MAF)": [
+                "/22-fuel_air_system/5128-mass_air_flow_sensor"
+            ],
+            "Plumbing": [
+                "/19-emission_system/51345-vacuum_line_clamp",
+                "/22-fuel_air_system/6344-air_cleaner_intake_hose",
+                "/22-fuel_air_system/49926-engine_air_intake_hose_debris_screen",
+                "/22-fuel_air_system/11186-air_intake_hose",
+                "/22-fuel_air_system/11187-air_intake_hose_clamp"
+            ],
+            "Pressure Control Valve (PCV)": [
+
+            ],
+            "Pumps": [
+                "/18-electrical_vacuum/5172-vacuum_pump",
+                "/35-wipers_wiper_system/12582-headlight_washer_pump",
+                "/35-wipers_wiper_system/13633-headlight_washer_pump_grommet"
+            ],
+            "Throttle Body": [
+                "/22-fuel_air_system/5892-accelerator_cable",
+                "/22-fuel_air_system/12129-accelerator_linkage_bushing",
+                "/22-fuel_air_system/12540-throttle_body_oring",
+                "/22-fuel_air_system/6472-throttle_bodyhousing",
+                "/22-fuel_air_system/10040-throttle_bodyhousing_gasket"
+            ],
+            "Vacuum System": [
+                "/18-electrical_vacuum/11817-vacuum_pump_gasket",
+                "/18-electrical_vacuum/17385-vacuum_cap",
+                "/18-electrical_vacuum/5024-vacuum_hoseline",
+                "/18-electrical_vacuum/5172-vacuum_pump",
+                "/19-emission_system/13643-vacuum_check_valve",
+                "/19-emission_system/12492-vacuum_line",
+                "/19-emission_system/5177-vacuum_reservoir",
+                "/19-emission_system/46216-vapor_canister_bracket",
+                "/19-emission_system/48098-vapor_canister_filter_seal",
+                "/19-emission_system/5148-vapor_canister_purge_solenoid",
+                "/19-emission_system/4924-air_pump_check_valve",
+                "/19-emission_system/10199-emission_check_valve",
+                "/19-emission_system/51345-vacuum_line_clamp",
+                "/19-emission_system/5000-vapor_canister_filter",
+                "/22-fuel_air_system/15410-intake_vacuum_line"
+            ]
+        }
+    ],
+    "Automatic Transmission": [
+        {
+            "Assembly": [
+                
+            ],
+            "Crossmember": [
+                
+            ],
+            "Differential": [
+
+            ],
+            "Electrical": [
+                "/18-electrical_vacuum/4584-neutral_safety_switch",
+                "/18-electrical_vacuum/12514-transmission_ground_strap",
+                "/33-transmissiontransaxle_system/7752-auto_trans_control_solenoid"
+            ],
+            "Filter": [
+                "/33-transmissiontransaxle_system/10964-auto_trans_filter",
+                "/33-transmissiontransaxle_system/10974-auto_trans_filter_gasket",
+                "/33-transmissiontransaxle_system/8600-auto_trans_filter_kit"
+            ],
+            "Flexplate": [
+                
+            ],
+            "Fluid": [
+                "/33-transmissiontransaxle_system/11387-atf_automatic_transmission_fluid"
+            ],
+            "Gaskets": [
+                "/33-transmissiontransaxle_system/52112-automatic_dual_clutch_transmission_valve_body_cover_gasket",
+                "/33-transmissiontransaxle_system/10974-auto_trans_filter_gasket",
+                "/33-transmissiontransaxle_system/7944-auto_trans_oil_pan_gasket"
+            ],
+            "Hardware": [
+                "/33-transmissiontransaxle_system/46157-automatic_transmission_bellhousing_bolt"
+            ],
+            "Input Shaft": [
+                "/33-transmissiontransaxle_system/10065-manual_trans_input_shaft_seal"
+            ],
+            "Mount": [
+                "/33-transmissiontransaxle_system/7948-auto_trans_mount",
+                "/33-transmissiontransaxle_system/12787-auto_trans_mount_bracket",
+                "/33-transmissiontransaxle_system/48788-automatic_dual_clutch_transmission_mount"
+            ],
+            "Oil Cooler": [
+                "/16-cooling_system/19853-auto_trans_oil_cooler_bracket",
+                "/16-cooling_system/10343-auto_trans_oil_cooler_hose",
+                "/16-cooling_system/10342-auto_trans_oil_cooler_oring",
+                "/33-transmissiontransaxle_system/20532-auto_dual_clutch_trans_oil_cooler",
+                "/33-transmissiontransaxle_system/49585-automatic_dual_clutch_transmission_oil_cooler_hose_oring"
+            ],
+            "Oil Pan": [
+                "/33-transmissiontransaxle_system/49589-automatic_dual_clutch_transmission_oil_pan",
+                "/33-transmissiontransaxle_system/49590-automatic_dual_clutch_transmission_oil_pan_bolt",
+                "/33-transmissiontransaxle_system/8546-auto_trans_oil_pan",
+                "/33-transmissiontransaxle_system/7944-auto_trans_oil_pan_gasket"
+            ],
+            "Output Shaft": [
+                "/33-transmissiontransaxle_system/10066-manual_trans_output_shaft_seal"
+            ],
+            "Plug": [
+                
+            ],
+            "Pump": [
+                "/33-transmissiontransaxle_system/57136-automatic_dual_clutch_transmission_oil_pump_"
+            ],
+            "Seal": [
+                "/33-transmissiontransaxle_system/8028-auto_trans_torque_converter_seal",
+                "/33-transmissiontransaxle_system/55917-automatic_dual_clutch_transmission_valve_body_sealing_sleeve_oring",
+                "/33-transmissiontransaxle_system/47189-clutch_hydraulic_line_oring",
+                "/33-transmissiontransaxle_system/10065-manual_trans_input_shaft_seal",
+                "/33-transmissiontransaxle_system/10066-manual_trans_output_shaft_seal",
+                "/33-transmissiontransaxle_system/12188-auto_trans_harness_oring"
+            ],
+            "Service": [
+                
+            ],
+            "Shifter": [
+                "/33-transmissiontransaxle_system/12193-auto_trans_shift_cover_plate",
+                "/33-transmissiontransaxle_system/18850-auto_trans_shift_lever_boot",
+                "/33-transmissiontransaxle_system/11003-auto_trans_shift_indicator",
+                "/33-transmissiontransaxle_system/10962-auto_trans_shift_lever",
+                "/33-transmissiontransaxle_system/14225-auto_trans_shift_lever_knob",
+                "/33-transmissiontransaxle_system/51443-automatic_transmission_shift_lever_knob_sleeve"
+            ],
+            "Software": [
+
+            ],
+            "Tools": [
+
+            ],
+            "Torque Converter": [
+                "/33-transmissiontransaxle_system/8028-auto_trans_torque_converter_seal"
+            ],
+            "Valve Body": [
+                "/33-transmissiontransaxle_system/52112-automatic_dual_clutch_transmission_valve_body_cover_gasket",
+                "/33-transmissiontransaxle_system/55917-automatic_dual_clutch_transmission_valve_body_sealing_sleeve_oring"
+            ]
+        }
+    ],
+    "Braking": [
+        {
+            "ABS Sensor": [
+                "/14-brake_wheel_hub/50180-abs_stability_control_hydraulic_unit_repair_kit",
+                "/14-brake_wheel_hub/19419-abs_control_module_bracket",
+                "/14-brake_wheel_hub/1912-abs_wheel_speed_sensor",
+                "/14-brake_wheel_hub/19559-abs_wheel_speed_sensor_bracket",
+                "/14-brake_wheel_hub/13559-abs_wheel_speed_sensor_retainer"
+            ],
+            "Brake Booster": [
+                "/14-brake_wheel_hub/18625-power_brake_booster_check_valve_seal",
+                "/14-brake_wheel_hub/1880-power_brake_booster_grommet",
+                "/14-brake_wheel_hub/12658-power_brake_booster_line",
+                "/14-brake_wheel_hub/15959-power_brake_booster_seal",
+                "/14-brake_wheel_hub/15322-power_brake_booster_vacuum_pump",
+                "/14-brake_wheel_hub/16171-power_brake_booster_vacuum_pump_seal",
+                "/14-brake_wheel_hub/1884-power_brake_boosterservo"
+            ],
+            "Brake Caliper": [
+                "/14-brake_wheel_hub/1704-brake_caliper",
+                "/14-brake_wheel_hub/1712-brake_caliper_bolt"
+            ],
+            "Brake Line": [
+                "/14-brake_wheel_hub/1792-brake_hoseline",
+                "/14-brake_wheel_hub/45981-brake_hydraulic_line_bracket"
+            ],
+            "Brake Pad": [
+                "/14-brake_wheel_hub/1684-brake_pad_set",
+                "/14-brake_wheel_hub/1920-brake_pad_wear_sensor"
+            ],
+            "Brake Rotor": [
+                "/14-brake_wheel_hub/15185-brake_dust_shield",
+                "/14-brake_wheel_hub/1896-disc_brake_rotor",
+                "/14-brake_wheel_hub/10797-disc_brake_rotor_set_screw"
+            ],
+            "Compound": [
+            
+            ],
+            "Drum Brakes": [
+
+            ],
+            "Electrical": [
+                "/14-brake_wheel_hub/1920-brake_pad_wear_sensor",
+                "/14-brake_wheel_hub/47470-electronic_parking_brake_control_switch",
+                "/14-brake_wheel_hub/19354-tire_pressure_monitoring_system_tpms_control_unit",
+                "/14-brake_wheel_hub/12036-tire_pressure_monitoring_system_tpms_sensor"
+            ],
+            "Fluid": [
+            
+            ],
+            "Hardware": [
+                "/14-brake_wheel_hub/50180-abs_stability_control_hydraulic_unit_repair_kit",
+                "/14-brake_wheel_hub/19419-abs_control_module_bracket",
+                "/14-brake_wheel_hub/19559-abs_wheel_speed_sensor_bracket",
+                "/14-brake_wheel_hub/13559-abs_wheel_speed_sensor_retainer",
+                "/14-brake_wheel_hub/1608-antirattle_clip",
+                "/14-brake_wheel_hub/45981-brake_hydraulic_line_bracket",
+                "/14-brake_wheel_hub/12290-disc_brake_pad_wear_sensor_clip",
+                "/14-brake_wheel_hub/10797-disc_brake_rotor_set_screw",
+                "/14-brake_wheel_hub/10479-parking_brake_adjusting_screw_assembly",
+                "/14-brake_wheel_hub/10289-parking_brake_hardware_kit"
+            ],
+            "Master Cylinder": [
+                "/14-brake_wheel_hub/1836-brake_master_cylinder",
+                "/14-brake_wheel_hub/1728-brake_master_cylinder_cap",
+                "/14-brake_wheel_hub/45987-brake_master_cylinder_oring",
+                "/14-brake_wheel_hub/13261-brake_master_cylinder_reservoir"
+            ],
+            "Parking Brake": [
+                "/14-brake_wheel_hub/1688-brake_shoe_set",
+                "/14-brake_wheel_hub/47470-electronic_parking_brake_control_switch",
+                "/14-brake_wheel_hub/14429-parking_brake_actuator",
+                "/14-brake_wheel_hub/10479-parking_brake_adjusting_screw_assembly",
+                "/14-brake_wheel_hub/10289-parking_brake_hardware_kit",
+                "/14-brake_wheel_hub/17196-parking_brake_shoe_set",
+                "/14-brake_wheel_hub/1696-parkingemergency_brake_cable"
+            ],
+            "Performance": [
+            
+            ],
+            "Rotor and Pad Kit": [
+            
+            ],
+            "Tools" :[
+                "/14-brake_wheel_hub/50874-disc_brake_pad_gauge",
+                "/99-tools_shop_supplies/10867-vacuum_brake_bleeder",
+                "/99-tools_shop_supplies/50479-disc_brake_rotor_measuring_tool_set",
+                "/99-tools_shop_supplies/57152-disc_brake_rotor_removal_tool",
+                "/99-tools_shop_supplies/56747-power_brake_booster_vacuum_pump_seal_tool_kit"
+            ]
+        }
+    ],
+    "Climate Control": [
+        {
+            "AC Compressor": [
+                "/24-ac_heat_climate_control/6628-ac_compressor",
+                "/24-ac_heat_climate_control/18252-ac_compressor_and_clutch",
+                "/24-ac_heat_climate_control/14796-ac_compressor_bracket",
+                "/24-ac_heat_climate_control/20592-ac_compressor_brace",
+                "/24-ac_heat_climate_control/6572-ac_compressor_clutch",
+                "/24-ac_heat_climate_control/20593-ac_compressor_pressure_relief_valve_brace",
+                "/24-ac_heat_climate_control/6580-ac_compressor_clutch_coil_wire"
+            ],
+            "AC Condenser": [
+                "/24-ac_heat_climate_control/6708-ac_condenser",
+                "/24-ac_heat_climate_control/6712-ac_condenser_fan",
+                "/24-ac_heat_climate_control/11286-ac_condenser_blower_assembly",
+                "/24-ac_heat_climate_control/12125-ac_condenser_frame_mount",
+                "/24-ac_heat_climate_control/6716-ac_condenser_mount_kit",
+                "/24-ac_heat_climate_control/46282-ac_condenser_seal"
+            ],
+            "AC Evaporator": [
+                "/24-ac_heat_climate_control/6768-ac_evaporator_core",
+                "/24-ac_heat_climate_control/11316-ac_evaporator_temperature_sensor",
+                "/24-ac_heat_climate_control/6776-ac_evaporator_core_case",
+                "/24-ac_heat_climate_control/12762-ac_evaporator_core_seal"
+            ],
+            "AC Valve": [
+                "/24-ac_heat_climate_control/6788-ac_expansion_valve",
+                "/24-ac_heat_climate_control/12026-ac_service_valve",
+                "/24-ac_heat_climate_control/22098-ac_service_valve_cap",
+                "/24-ac_heat_climate_control/22101-ac_service_valve_fitting_cap"
+            ],
+            "AC Plumbing": [
+                "/24-ac_heat_climate_control/49292-ac_refrigerant_discharge_suction_hose_assembly",
+                "/24-ac_heat_climate_control/13527-ac_refrigerant_liquid_hose",
+                "/24-ac_heat_climate_control/13528-ac_refrigerant_discharge_hose",
+                "/24-ac_heat_climate_control/6900-ac_refrigerant_hose",
+                "/24-ac_heat_climate_control/13526-ac_refrigerant_suction_hose"
+            ],
+            "Blower Motor": [
+                "/24-ac_heat_climate_control/6916-blower_motor",
+                "/24-ac_heat_climate_control/12957-blower_motor_control_unit",
+                "/24-ac_heat_climate_control/11311-blower_motor_housing",
+                "/24-ac_heat_climate_control/10795-blower_motor_regulator",
+                "/24-ac_heat_climate_control/6557-blower_motor_resistorregulator",
+                "/24-ac_heat_climate_control/45966-hvac_blower_motor_resistor_harness",
+                "/24-ac_heat_climate_control/47953-hvac_blower_motor_and_wheel",
+                "/18-electrical_vacuum/2536-blower_motor_resistor_connector"
+            ],
+            "Cabin Filter": [
+                "/24-ac_heat_climate_control/6832-cabin_air_filter",
+                "/24-ac_heat_climate_control/12819-cabin_air_filter_case",
+                "/24-ac_heat_climate_control/48646-cabin_air_filter_case_seal",
+                "/24-ac_heat_climate_control/19742-cabin_air_filter_cover"
+            ],
+            "Control Panel": [
+                "/24-ac_heat_climate_control/12957-blower_motor_control_unit",
+                "/13-body_trim_lighting/11459-hvac_temperature_control_panel"
+            ],
+            "Electrical": [
+                "/24-ac_heat_climate_control/11316-ac_evaporator_temperature_sensor",
+                "/24-ac_heat_climate_control/4492-ac_high_side_pressure_switch",
+                "/24-ac_heat_climate_control/7009-ac_refrigerant_pressure_sensor",
+                "/24-ac_heat_climate_control/12957-blower_motor_control_unit",
+                "/24-ac_heat_climate_control/10795-blower_motor_regulator",
+                "/24-ac_heat_climate_control/6557-blower_motor_resistorregulator",
+                "/24-ac_heat_climate_control/13313-climate_control_recirculated_air_sensor",
+                "/24-ac_heat_climate_control/12602-hvac_air_adjustment_control_motor",
+                "/24-ac_heat_climate_control/45966-hvac_blower_motor_resistor_harness",
+                "/24-ac_heat_climate_control/20593-ac_compressor_pressure_relief_valve_brace",
+                "/24-ac_heat_climate_control/4396-ac_system_switch",
+                "/18-electrical_vacuum/13364-ac_system_relay"
+            ],
+            "General": [
+                "/24-ac_heat_climate_control/22098-ac_service_valve_cap",
+                "/24-ac_heat_climate_control/22101-ac_service_valve_fitting_cap",
+                "/24-ac_heat_climate_control/13290-ac_system_oring_and_gasket_kit",
+                "/24-ac_heat_climate_control/11300-heater_core_oring_kit",
+                "/24-ac_heat_climate_control/19449-hvac_unit_case",
+                "/24-ac_heat_climate_control/51904-hvac_unit_case_hardware_kit",
+                "/24-ac_heat_climate_control/51905-hvac_unit_case_seal_kit",
+                "/24-ac_heat_climate_control/6944-oringgasketseal",
+                "/24-ac_heat_climate_control/10700-ac_conversion_kit",
+                "/24-ac_heat_climate_control/12599-hot_air_duct"
+            ],
+            "Blend Door": [
+                "/24-ac_heat_climate_control/12602-hvac_air_adjustment_control_motor",
+                "/13-body_trim_lighting/16091-hvac_air_inlet_door_actuator"
+            ],
+            "Heater Core": [
+                "/24-ac_heat_climate_control/6864-heater_core",
+                "/24-ac_heat_climate_control/11300-heater_core_oring_kit"
+            ],
+            "Heater Hose": [
+                "/24-ac_heat_climate_control/6892-heater_hose",
+                "/24-ac_heat_climate_control/14141-heater_hose_outlet_tube"
+            ],
+            "Receiver-Drier": [
+                "/24-ac_heat_climate_control/6972-ac_receiver_drier",
+                "/24-ac_heat_climate_control/16858-ac_receiver_drier_desiccant_element"
+            ]
+        }
+    ],
+    "Cooling": [
+        {
+            "Coolant": [
+                "/16-cooling_system/11393-engine_coolant_antifreeze"
+            ],
+            "Cooling Fan": [
+                "/16-cooling_system/6808-cooling_fan_blade",
+                "/16-cooling_system/12346-engine_cooling_fan_housing_strap",
+                "/16-cooling_system/11553-engine_cooling_fan_hub",
+                "/16-cooling_system/13335-engine_oil_cooler_fan",
+                "/16-cooling_system/13759-engine_oil_cooler_fan_resistor",
+                "/16-cooling_system/10707-fan_shroud",
+                "/16-cooling_system/10638-engine_cooling_fan_assembly",
+                "/16-cooling_system/2164-engine_cooling_fan_motor",
+                "/16-cooling_system/11761-engine_cooling_fan_switch_seal",
+                "/16-cooling_system/15601-electronic_module_housing_cooling_fan_motor",
+                "/16-cooling_system/53915-engine_cooling_fan_shroud_bracket",
+                "/18-electrical_vacuum/4312-engine_cooling_fan_switch"
+            ],
+            "Expansion Tank": [
+                "/16-cooling_system/11576-engine_coolant_recovery_tank_hose",
+                "/16-cooling_system/11578-engine_coolant_recovery_tank_seal",
+                "/16-cooling_system/11579-radiator_capexpansion_tank_cap_seal",
+                "/16-cooling_system/2067-engine_coolant_recovery_tank_cap",
+                "/16-cooling_system/12337-engine_coolant_recovery_tank_oring",
+                "/16-cooling_system/10457-expansion_tankcoolant_reservoir",
+                "/16-cooling_system/2068-radiator_capexpansion_tank_cap"
+            ],
+            "Kits": [
+            
+            ],
+            "Performance": [
+            
+            ],
+            "Plumbing": [
+                "/16-cooling_system/7048-coolant_outletflange",
+                "/16-cooling_system/11566-engine_coolant_hose_flange",
+                "/16-cooling_system/15956-engine_coolant_hose_flange_plug_seal",
+                "/16-cooling_system/13340-engine_coolant_hose_flange_seal",
+                "/16-cooling_system/11590-engine_coolant_outlet_oring",
+                "/16-cooling_system/11571-engine_coolant_pipe_oring",
+                "/16-cooling_system/11576-engine_coolant_recovery_tank_hose",
+                "/16-cooling_system/17698-radiator_hose_clampclip",
+                "/16-cooling_system/2140-coolant_hose_connector_gasket",
+                "/16-cooling_system/11564-engine_coolant_hose",
+                "/16-cooling_system/12675-radiator_coolant_distribution_tee",
+                "/16-cooling_system/10068-radiator_coolant_hose",
+                "/22-fuel_air_system/46253-turbocharger_coolant_line",
+                "/22-fuel_air_system/46257-turbocharger_coolant_line_oring"
+            ],
+            "Radiator": [
+                "/16-cooling_system/19542-radiator_support_air_deflector",
+                "/16-cooling_system/11575-engine_coolant_bleeder_screw",
+                "/16-cooling_system/2172-radiator",
+                "/16-cooling_system/17697-radiator_air_seal",
+                "/16-cooling_system/12675-radiator_coolant_distribution_tee",
+                "/16-cooling_system/10068-radiator_coolant_hose",
+                "/16-cooling_system/51690-radiator_coolant_hose_bolt",
+                "/16-cooling_system/15190-radiator_coolant_hose_seal",
+                "/16-cooling_system/11580-radiator_drain_plug",
+                "/16-cooling_system/13323-radiator_flow_adjustment_screw",
+                "/16-cooling_system/17699-radiator_inlet_pipe_oring",
+                "/16-cooling_system/11583-radiator_mount",
+                "/16-cooling_system/11584-radiator_mount_bracket"
+            ],
+            "Sensor": [
+                "/16-cooling_system/47256-engine_coolant_temperature_sensor_clip",
+                "/16-cooling_system/11588-engine_coolant_temperature_sensor_oring",
+                "/16-cooling_system/2184-coolant_level_sensor",
+                "/16-cooling_system/2188-coolant_temperature_sensor",
+                "/18-electrical_vacuum/2564-coolant_temperature_sensor_connector",
+                "/18-electrical_vacuum/4740-coolant_temperature_switch",
+                "/18-electrical_vacuum/4748-engine_coolant_temperature_sender"
+            ],
+            "Thermostat": [
+                "/16-cooling_system/2200-thermostat"
+            ],
+            "Tools": [
+                "/16-cooling_system/11573-hose_clamp",
+                "/99-tools_shop_supplies/13458-engine_coolant_refractometer"
+            ],
+            "Water Pump": [
+                "/16-cooling_system/19862-water_pump_dowel_pin",
+                "/16-cooling_system/2208-water_pump",
+                "/16-cooling_system/11602-water_pump_bolt"
+            ]
+        }
+    ],
+    "Drivetrain": [
+        {
+            "Axle": [
+                "/14-brake_wheel_hub/1636-axle_bearing_and_hub_assembly",
+                "/14-brake_wheel_hub/10012-axle_nut",
+                "/14-brake_wheel_hub/14999-wheel_bearing_and_hub_assembly",
+                "/14-brake_wheel_hub/14998-wheel_hub",
+                "/14-brake_wheel_hub/22372-wheel_hub_bolt",
+                "/17-drivetrain_parts/1852-axle_shaft_seal",
+                "/17-drivetrain_parts/2240-axle_differential_bearing",
+                "/17-drivetrain_parts/11641-axle_shaft_flange_cap",
+                "/17-drivetrain_parts/1852-axle_shaft_seal",
+                "/17-drivetrain_parts/11611-axle_bolt",
+                "/17-drivetrain_parts/12201-axle_bolt_plate",
+                "/17-drivetrain_parts/2348-axle_differential_seal",
+                "/17-drivetrain_parts/11614-axle_shaft_assembly"
+            ],
+            "CV": [
+                "/17-drivetrain_parts/11618-cv_joint_boot_kit",
+                "/17-drivetrain_parts/11637-drive_shaft_cv_joint_kit",
+                "/17-drivetrain_parts/12043-cv_axle_shaft",
+                "/17-drivetrain_parts/2292-cv_joint",
+                "/17-drivetrain_parts/2284-cv_joint_boot",
+                "/17-drivetrain_parts/2280-cv_joint_boot_band",
+                "/17-drivetrain_parts/11621-cv_joint_kit",
+                "/17-drivetrain_parts/18313-cv_axle_assembly",
+                "/17-drivetrain_parts/11616-cv_joint_bolt"
+            ],
+            "Differential": [
+                "/17-drivetrain_parts/13099-differential_bolt",
+                "/17-drivetrain_parts/19703-differential_clutch_pump_actuator",
+                "/17-drivetrain_parts/12287-differential_lock_plate",
+                "/17-drivetrain_parts/2344-differential_seal",
+                "/17-drivetrain_parts/11630-differential_side_cover_oring",
+                "/17-drivetrain_parts/2348-axle_differential_seal",
+                "/17-drivetrain_parts/2306-differential_cover",
+                "/17-drivetrain_parts/17007-differential_cover_sealant",
+                "/17-drivetrain_parts/12285-differential_drain_plug",
+                "/17-drivetrain_parts/47618-differential_housing_support",
+                "/17-drivetrain_parts/2376-differential_pinion_seal"
+            ],
+            "Driveshaft": [
+                "/17-drivetrain_parts/12743-drive_shaft_center_support",
+                "/17-drivetrain_parts/10436-drive_shaft_center_support_bearing",
+                "/17-drivetrain_parts/13626-drive_shaft_center_support_bushing",
+                "/17-drivetrain_parts/13229-drive_shaft_end_bushing",
+                "/17-drivetrain_parts/10701-drive_shaft_flex_joint",
+                "/17-drivetrain_parts/16026-drive_shaft_flex_joint_nut"
+            ],
+            "Flywheel": [
+                "/15-clutch_parts/5348-flywheel",
+                "/15-clutch_parts/5352-flywheel_bolt",
+                "/15-clutch_parts/5356-flywheel_oringseal",
+                "/15-clutch_parts/5360-flywheel_ring_gear"
+            ],
+            "Gear Oil": [
+            
+            ],
+            "Mount": [
+            
+            ],
+            "Tools": [
+                "/99-tools_shop_supplies/50809-axle_shaft_and_wheel_hub_removal_tool_kit",
+                "/99-tools_shop_supplies/15100-cv_joint_banding_tool",
+                "/99-tools_shop_supplies/17431-cv_joint_boot_installation_tool",
+                "/99-tools_shop_supplies/49510-differential_drain_plug_wrench",
+                "/99-tools_shop_supplies/16684-flywheel_lock",
+                "/99-tools_shop_supplies/50695-wheel_bearing_and_hub_assembly_tool"
+            ],
+            "Wheel Bearing": [
+                "/14-brake_wheel_hub/1636-axle_bearing_and_hub_assembly",
+                "/14-brake_wheel_hub/1672-wheel_bearing",
+                "/14-brake_wheel_hub/14999-wheel_bearing_and_hub_assembly",
+                "/14-brake_wheel_hub/12416-wheel_bearing_bolt",
+                "/14-brake_wheel_hub/7652-wheel_bearing_lock_ring"
+            ]
+        }
+    ],
+    "Engine": [
+        {
+            "Alternator": [
+                "/18-electrical_vacuum/2464-alternator_fan",
+                "/18-electrical_vacuum/2448-alternator_pulley",
+                "/18-electrical_vacuum/13329-alternator_pulley_bolt",
+                "/18-electrical_vacuum/12175-alternator_pulley_shim",
+                "/18-electrical_vacuum/11656-alternator_pulley_spacer",
+                "/18-electrical_vacuum/2412-alternator",
+                "/18-electrical_vacuum/53167-alternator_air_duct_clamp",
+                "/18-electrical_vacuum/4884-voltage_regulator"
+            ],
+            "Battery": [
+                "/18-electrical_vacuum/14566-battery_cutoff_switch",
+                "/18-electrical_vacuum/1336-battery_hold_down",
+                "/18-electrical_vacuum/12204-battery_switch",
+                "/18-electrical_vacuum/11671-battery_tray",
+                "/18-electrical_vacuum/2500-battery_cable",
+                "/18-electrical_vacuum/11670-battery_frame",
+                "/18-electrical_vacuum/18539-battery_hold_down_clamp",
+                "/18-electrical_vacuum/18568-battery_power_distribution_box",
+                "/18-electrical_vacuum/16762-battery_vent_tube"
+            ],
+            "Bearings": [
+                "/20-engine_parts_seals_gaskets/5220-crankshaft_main_bearing",
+                "/20-engine_parts_seals_gaskets/11889-crankshaft_main_bearing_oring",
+                "/20-engine_parts_seals_gaskets/10302-crankshaft_main_bearing_set",
+                "/20-engine_parts_seals_gaskets/16406-intermediate_shaft_bearing_set",
+                "/20-engine_parts_seals_gaskets/5212-connecting_rod_bearing",
+                "/20-engine_parts_seals_gaskets/10300-connecting_rod_bearing_set",
+                "/20-engine_parts_seals_gaskets/10304-thrust_washer"
+            ],
+            "Belt": [
+                "/36-belt_drive_system/11659-belt_tensioner",
+                "/36-belt_drive_system/8920-belt_tensioner_assembly",
+                "/36-belt_drive_system/5300-crankshaft_pulley",
+                "/36-belt_drive_system/15533-drive_belt_tensioner_kit",
+                "/36-belt_drive_system/13543-drive_belt_idler_assembly",
+                "/36-belt_drive_system/6956-drive_belt_idler_pulley",
+                "/36-belt_drive_system/8905-serpentine_belt",
+                "/36-belt_drive_system/8900-v_beltdrive_belt",
+                "/36-belt_drive_system/12206-belt_tension_sensor"
+            ],
+            "Block": [
+                "/20-engine_parts_seals_gaskets/10424-blocklower_engine_gasket_set",
+                "/20-engine_parts_seals_gaskets/50886-engine_block_nut",
+                "/20-engine_parts_seals_gaskets/50672-engine_block_washer",
+                "/20-engine_parts_seals_gaskets/11830-engine_cylinder_case_base_gasket",
+                "/20-engine_parts_seals_gaskets/11950-engine_sealing_compound",
+                "/20-engine_parts_seals_gaskets/10642-woodruff_key",
+                "/20-engine_parts_seals_gaskets/5632-wrist_pin_bushing",
+                "/20-engine_parts_seals_gaskets/17801-engine_block_dowel_pin",
+                "/20-engine_parts_seals_gaskets/13989-engine_bolt_kit",
+                "/20-engine_parts_seals_gaskets/11836-engine_decal",
+                "/20-engine_parts_seals_gaskets/11959-sealant"
+            ],
+            "Camshaft": [
+                "/18-electrical_vacuum/10253-camshaft_sensor_oring",
+                "/20-engine_parts_seals_gaskets/5260-camshaft",
+                "/20-engine_parts_seals_gaskets/5368-camshaft_gasket",
+                "/20-engine_parts_seals_gaskets/10266-camshaft_gear_lock",
+                "/20-engine_parts_seals_gaskets/10063-camshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/10445-camshaft_sprocketgear",
+                "/20-engine_parts_seals_gaskets/11976-engine_camshaft_bolt",
+                "/20-engine_parts_seals_gaskets/49355-engine_camshaft_bolt_washer",
+                "/20-engine_parts_seals_gaskets/12325-engine_camshaft_flange",
+                "/20-engine_parts_seals_gaskets/12327-engine_camshaft_flange_oring",
+                "/20-engine_parts_seals_gaskets/13735-engine_camshaft_housing_nut",
+                "/20-engine_parts_seals_gaskets/12331-engine_camshaft_oiler_oring",
+                "/20-engine_parts_seals_gaskets/11985-engine_camshaft_oiler_tube",
+                "/20-engine_parts_seals_gaskets/11982-engine_camshaft_oring",
+                "/20-engine_parts_seals_gaskets/11987-engine_camshaft_retainer_gasket",
+                "/20-engine_parts_seals_gaskets/13720-engine_camshaft_shim_washer",
+                "/20-engine_parts_seals_gaskets/13717-engine_camshaft_woodruff_key",
+                "/20-engine_parts_seals_gaskets/12011-timing_camshaft_gear_flange",
+                "/20-engine_parts_seals_gaskets/12013-timing_camshaft_gear_washer",
+                "/20-engine_parts_seals_gaskets/16764-camshaft_bearing_ledge",
+                "/20-engine_parts_seals_gaskets/21450-camshaft_seal_ring",
+                "/25-ignition_parts/10249-camshaft_position_sensor_oring",
+                "/25-ignition_parts/7192-camshaft_positionreference_mark_sensor"
+            ],
+            "Connecting Rod": [
+                "/20-engine_parts_seals_gaskets/5280-connecting_rod_bolt",
+                "/20-engine_parts_seals_gaskets/5284-connecting_rod_nut",
+                "/20-engine_parts_seals_gaskets/5212-connecting_rod_bearing",
+                "/20-engine_parts_seals_gaskets/10300-connecting_rod_bearing_set"
+            ],
+            "Cover": [
+            
+            ],
+            "Crankcase": [
+                "/19-emission_system/11821-crankcase_breather_gasket",
+                "/19-emission_system/11784-crankcase_breather_hose",
+                "/19-emission_system/11788-crankcase_vent_valve",
+                "/19-emission_system/14423-crankcase_vent_valve_seal",
+                "/20-engine_parts_seals_gaskets/11824-crankcase_bolt_oring",
+                "/20-engine_parts_seals_gaskets/13815-crankcase_nut",
+                "/20-engine_parts_seals_gaskets/11888-crankcase_oring"
+            ],
+            "Crankshaft": [
+                "/36-belt_drive_system/5300-crankshaft_pulley",
+                "/20-engine_parts_seals_gaskets/5220-crankshaft_main_bearing",
+                "/20-engine_parts_seals_gaskets/11889-crankshaft_main_bearing_oring",
+                "/20-engine_parts_seals_gaskets/10302-crankshaft_main_bearing_set",
+                "/20-engine_parts_seals_gaskets/16406-intermediate_shaft_bearing_set",
+                "/20-engine_parts_seals_gaskets/16404-intermediate_shaft_cover_oring",
+                "/20-engine_parts_seals_gaskets/16407-intermediate_shaft_oring",
+                "/20-engine_parts_seals_gaskets/14959-intermediate_shaft_sprocketgear",
+                "/20-engine_parts_seals_gaskets/13194-crankshaft_sealing_flange_gasket",
+                "/20-engine_parts_seals_gaskets/5196-balance_shaft_tensioner",
+                "/20-engine_parts_seals_gaskets/10064-crankshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/10446-crankshaft_sprocketgear",
+                "/25-ignition_parts/7100-crankshaft_position_sensor_bracket",
+                "/25-ignition_parts/7196-crankshaft_position_sensor"
+            ],
+            "Cylinder Head": [
+                "/20-engine_parts_seals_gaskets/11832-cylinder_head_nut",
+                "/20-engine_parts_seals_gaskets/11835-cylinder_head_stud",
+                "/20-engine_parts_seals_gaskets/5308-cylinder_head_bolt",
+                "/20-engine_parts_seals_gaskets/10306-cylinder_head_bolt_set",
+                "/20-engine_parts_seals_gaskets/10389-cylinder_head_dowel_pin",
+                "/20-engine_parts_seals_gaskets/5412-cylinder_head_gasket",
+                "/20-engine_parts_seals_gaskets/5416-cylinder_head_gasket_set",
+                "/22-fuel_air_system/5084-cylinder_head_temperature_sensor"
+            ],
+            "Engine Control Unit (ECU)": [
+                "/18-electrical_vacuum/16248-dme_relay",
+                "/20-engine_parts_seals_gaskets/10543-engine_control_module"
+            ],
+            "Electrical": [
+                "/18-electrical_vacuum/14566-battery_cutoff_switch",
+                "/18-electrical_vacuum/12204-battery_switch",
+                "/18-electrical_vacuum/11754-combination_switch",
+                "/18-electrical_vacuum/16248-dme_relay",
+                "/18-electrical_vacuum/12859-electrical_pin_connector",
+                "/18-electrical_vacuum/11674-engine_wiring_harness",
+                "/18-electrical_vacuum/12105-relay_connector",
+                "/18-electrical_vacuum/2592-ignition_coil_connector",
+                "/18-electrical_vacuum/16545-multi_purpose_wire_connector",
+                "/18-electrical_vacuum/2501-starter_cable",
+                "/18-electrical_vacuum/22601-starter_solenoid_switch_contact",
+                "/18-electrical_vacuum/5705-turbocharger_boost_sensor",
+                "/18-electrical_vacuum/10634-vehicle_speed_sensor",
+                "/19-emission_system/13326-ignition_knock_detonation_sensor_connector",
+                "/19-emission_system/5108-ignition_knock_detonation_sensor",
+                "/20-engine_parts_seals_gaskets/21255-variable_timing_solenoid_pressure_valve",
+                "/20-engine_parts_seals_gaskets/49929-engine_oil_temperature_sensor",
+                "/20-engine_parts_seals_gaskets/4588-oil_pressure_switch",
+                "/20-engine_parts_seals_gaskets/5704-oil_temperature_sensor",
+                "/20-engine_parts_seals_gaskets/12910-variable_timing_solenoid",
+                "/22-fuel_air_system/5084-cylinder_head_temperature_sensor"
+            ],
+            "Emissions": [
+                "/19-emission_system/11821-crankcase_breather_gasket",
+                "/19-emission_system/13065-egr_vacuum_delay_valve",
+                "/19-emission_system/13326-ignition_knock_detonation_sensor_connector",
+                "/19-emission_system/13643-vacuum_check_valve",
+                "/19-emission_system/4924-air_pump_check_valve",
+                "/19-emission_system/11784-crankcase_breather_hose",
+                "/19-emission_system/11788-crankcase_vent_valve",
+                "/19-emission_system/14423-crankcase_vent_valve_seal",
+                "/19-emission_system/10199-emission_check_valve",
+                "/19-emission_system/5180-vapor_canister",
+                "/19-emission_system/4936-vapor_canister_purge_valve",
+                "/19-emission_system/11802-vapor_canister_purge_valve_assembly",
+                "/19-emission_system/45964-evaporative_emissions_system_leak_detection_pump_grommet",
+                "/19-emission_system/47493-evaporative_emissions_system_lines",
+                "/19-emission_system/5108-ignition_knock_detonation_sensor",
+                "/19-emission_system/5000-vapor_canister_filter"
+            ],
+            "Fuel Rail": [
+            
+            ],
+            "Gaskets": [
+                "/18-electrical_vacuum/11817-vacuum_pump_gasket",
+                "/19-emission_system/11821-crankcase_breather_gasket",
+                "/20-engine_parts_seals_gaskets/10424-blocklower_engine_gasket_set",
+                "/20-engine_parts_seals_gaskets/5368-camshaft_gasket",
+                "/20-engine_parts_seals_gaskets/11987-engine_camshaft_retainer_gasket",
+                "/20-engine_parts_seals_gaskets/11830-engine_cylinder_case_base_gasket",
+                "/20-engine_parts_seals_gaskets/11898-oil_level_sender_gasket",
+                "/20-engine_parts_seals_gaskets/12014-timing_chain_case_gasket",
+                "/20-engine_parts_seals_gaskets/10708-timing_cover_gasket",
+                "/20-engine_parts_seals_gaskets/5484-timing_cover_gasket_set",
+                "/20-engine_parts_seals_gaskets/10710-valve_cover_gasket",
+                "/20-engine_parts_seals_gaskets/13194-crankshaft_sealing_flange_gasket",
+                "/20-engine_parts_seals_gaskets/5412-cylinder_head_gasket",
+                "/20-engine_parts_seals_gaskets/5416-cylinder_head_gasket_set",
+                "/20-engine_parts_seals_gaskets/5424-intake_manifold_gasket",
+                "/20-engine_parts_seals_gaskets/10689-intake_manifold_gasket_set",
+                "/20-engine_parts_seals_gaskets/10649-oil_filter_adapter_gasket",
+                "/20-engine_parts_seals_gaskets/5432-oil_filter_gasket",
+                "/20-engine_parts_seals_gaskets/11897-oil_filter_housing_gasket",
+                "/20-engine_parts_seals_gaskets/5436-oil_pan_gasket",
+                "/20-engine_parts_seals_gaskets/11921-timing_chain_tensioner_gasket",
+                "/20-engine_parts_seals_gaskets/5500-valve_cover_gasket_set",
+                "/20-engine_parts_seals_gaskets/11906-variable_timing_solenoid_gasket",
+                "/20-engine_parts_seals_gaskets/17014-variable_timing_unit_gasket"
+            ],
+            "Ignition": [
+                "/18-electrical_vacuum/2592-ignition_coil_connector",
+                "/25-ignition_parts/11327-distributor_bearing",
+                "/25-ignition_parts/12612-distributor_belt",
+                "/25-ignition_parts/7120-distributor_cap",
+                "/25-ignition_parts/11332-distributor_oring",
+                "/25-ignition_parts/7136-distributor_rotor",
+                "/25-ignition_parts/7072-ignition_coil_lead_wire",
+                "/25-ignition_parts/47392-ignition_control_module_bracket",
+                "/25-ignition_parts/7108-ignition_distributor",
+                "/25-ignition_parts/5605-ignition_distributor_seal",
+                "/25-ignition_parts/12668-primary_ignition_wire_end",
+                "/25-ignition_parts/7224-spark_plug_wire",
+                "/25-ignition_parts/11348-spark_plug_wire_connector",
+                "/25-ignition_parts/12699-spark_plug_wire_holder",
+                "/25-ignition_parts/15563-ignition_tuneup_kit",
+                "/25-ignition_parts/7060-ignition_coil",
+                "/25-ignition_parts/7212-spark_plug",
+                "/25-ignition_parts/7220-spark_plug_tube_seal"
+            ],
+            "Mount": [
+                "/20-engine_parts_seals_gaskets/11841-engine_mount_bracket",
+                "/20-engine_parts_seals_gaskets/17174-engine_mount_support",
+                "/20-engine_parts_seals_gaskets/12447-torque_damper_mount",
+                "/20-engine_parts_seals_gaskets/5324-torque_strut_bushing",
+                "/20-engine_parts_seals_gaskets/5552-engine_mount",
+                "/20-engine_parts_seals_gaskets/12881-engine_mount_bolt",
+                "/20-engine_parts_seals_gaskets/11843-engine_mount_isolator",
+                "/20-engine_parts_seals_gaskets/12884-engine_mount_spacer",
+                "/20-engine_parts_seals_gaskets/17174-engine_mount_support",
+                "/20-engine_parts_seals_gaskets/55113-engine_mount_support_bracket_bolt"
+            ],
+            "Nitrous": [
+
+            ],
+            "Oil": [
+            
+            ],
+            "Oiling System": [
+                "/20-engine_parts_seals_gaskets/10063-camshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/12331-engine_camshaft_oiler_oring",
+                "/20-engine_parts_seals_gaskets/11985-engine_camshaft_oiler_tube",
+                "/20-engine_parts_seals_gaskets/12444-engine_oil_tube",
+                "/20-engine_parts_seals_gaskets/10036-oil_dipstick_tube",
+                "/20-engine_parts_seals_gaskets/16417-oil_hoseline",
+                "/20-engine_parts_seals_gaskets/5700-oil_level_sender",
+                "/20-engine_parts_seals_gaskets/11898-oil_level_sender_gasket",
+                "/20-engine_parts_seals_gaskets/11849-oil_line",
+                "/20-engine_parts_seals_gaskets/11935-oil_line_oring",
+                "/20-engine_parts_seals_gaskets/12433-oil_pressure_relief_valve",
+                "/20-engine_parts_seals_gaskets/12434-oil_pressure_relief_valve_plug",
+                "/20-engine_parts_seals_gaskets/13071-oil_pressure_relief_valve_sleeve",
+                "/20-engine_parts_seals_gaskets/13795-oil_pressure_sensor",
+                "/20-engine_parts_seals_gaskets/13722-oil_pressure_sensor_console_seal",
+                "/20-engine_parts_seals_gaskets/5608-oil_pump_seal",
+                "/20-engine_parts_seals_gaskets/5588-oil_pump_shaft",
+                "/20-engine_parts_seals_gaskets/14729-oil_return_tube",
+                "/20-engine_parts_seals_gaskets/14730-oil_return_tube_seal",
+                "/20-engine_parts_seals_gaskets/12442-oil_tank_mount",
+                "/20-engine_parts_seals_gaskets/12443-oil_thermostat_seal",
+                "/20-engine_parts_seals_gaskets/13140-timing_chain_tensioner_oil_bridge",
+                "/20-engine_parts_seals_gaskets/5612-timing_cover_oil_seal",
+                "/20-engine_parts_seals_gaskets/10021-oil_dip_stick",
+                "/20-engine_parts_seals_gaskets/11869-oil_sump_plate",
+                "/20-engine_parts_seals_gaskets/16409-engine_oil_dipstick_tube_oring",
+                "/20-engine_parts_seals_gaskets/10064-crankshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/46250-engine_oil_pump_pickup_tube",
+                "/20-engine_parts_seals_gaskets/49929-engine_oil_temperature_sensor",
+                "/20-engine_parts_seals_gaskets/5560-oil_drain_plug",
+                "/20-engine_parts_seals_gaskets/5428-oil_drain_plug_gasket",
+                "/20-engine_parts_seals_gaskets/5269-oil_filler_cap",
+                "/20-engine_parts_seals_gaskets/5700-oil_level_sender",
+                "/20-engine_parts_seals_gaskets/11899-oil_level_sender_oring",
+                "/20-engine_parts_seals_gaskets/12433-oil_pressure_relief_valve",
+                "/20-engine_parts_seals_gaskets/4588-oil_pressure_switch",
+                "/20-engine_parts_seals_gaskets/5564-oil_pump",
+                "/20-engine_parts_seals_gaskets/11859-oil_pump_chain_guiderail",
+                "/20-engine_parts_seals_gaskets/11938-oil_pump_pickup_tube_oring",
+                "/20-engine_parts_seals_gaskets/5704-oil_temperature_sensor",
+                "/20-engine_parts_seals_gaskets/11871-oil_thermostat",
+                "/20-engine_parts_seals_gaskets/11248-turbocharger_oil_line_oring",
+                "/22-fuel_air_system/5765-turbocharger_oil_line"
+            ],
+            "Oil Catch Can": [
+            
+            ],
+            "Oil Cooler": [
+                "/16-cooling_system/13335-engine_oil_cooler_fan",
+                "/16-cooling_system/13759-engine_oil_cooler_fan_resistor",
+                "/16-cooling_system/12426-oil_cooler_bracket",
+                "/16-cooling_system/13142-oil_cooler_line",
+                "/16-cooling_system/13141-oil_cooler_mount",
+                "/16-cooling_system/2084-oil_cooler",
+                "/16-cooling_system/13410-oil_cooler_gasket",
+                "/16-cooling_system/13161-oil_cooler_line_oring",
+                "/16-cooling_system/10035-oil_cooler_seal",
+                "/16-cooling_system/10619-oil_cooling_linehose"
+            ],
+            "Oil Filter": [
+                "/20-engine_parts_seals_gaskets/16414-oil_filter_flange_gasket",
+                "/20-engine_parts_seals_gaskets/54048-engine_oil_filter_housing_cap",
+                "/20-engine_parts_seals_gaskets/49221-engine_oil_filter_housing_gasket_set",
+                "/20-engine_parts_seals_gaskets/5340-oil_filter",
+                "/20-engine_parts_seals_gaskets/10649-oil_filter_adapter_gasket",
+                "/20-engine_parts_seals_gaskets/5561-oil_filter_cover",
+                "/20-engine_parts_seals_gaskets/5432-oil_filter_gasket",
+                "/20-engine_parts_seals_gaskets/12429-oil_filter_housing",
+                "/20-engine_parts_seals_gaskets/20915-oil_filter_housing_bolt",
+                "/20-engine_parts_seals_gaskets/13743-oil_filter_housing_capplug",
+                "/20-engine_parts_seals_gaskets/11897-oil_filter_housing_gasket",
+                "/20-engine_parts_seals_gaskets/12430-oil_filter_housing_oring",
+                "/20-engine_parts_seals_gaskets/11883-oil_filter_kit"
+            ],
+            "Oil Pan": [
+                "/20-engine_parts_seals_gaskets/5562-oil_pan",
+                "/20-engine_parts_seals_gaskets/18798-oil_pan_sealing_compound",
+                "/20-engine_parts_seals_gaskets/5560-oil_drain_plug",
+                "/20-engine_parts_seals_gaskets/5428-oil_drain_plug_gasket",
+                "/20-engine_parts_seals_gaskets/13400-oil_pan_bolt_",
+                "/20-engine_parts_seals_gaskets/13368-oil_pan_bolt_set",
+                "/20-engine_parts_seals_gaskets/5436-oil_pan_gasket"
+            ],
+            "Performance": [
+            
+            ],
+            "Piston": [
+                "/20-engine_parts_seals_gaskets/5620-piston",
+                "/20-engine_parts_seals_gaskets/10312-piston_ring_set",
+                "/20-engine_parts_seals_gaskets/10313-piston_set",
+                "/20-engine_parts_seals_gaskets/5640-piston_ring"
+            ],
+            "Pressure Control Valve (PCV)": [
+
+            ],
+            "Pulley": [
+                "/36-belt_drive_system/5300-crankshaft_pulley",
+                "/18-electrical_vacuum/2448-alternator_pulley",
+                "/18-electrical_vacuum/12175-alternator_pulley_shim",
+                "/18-electrical_vacuum/11656-alternator_pulley_spacer"
+            ],
+            "Rocker": [
+                "/20-engine_parts_seals_gaskets/16238-engine_rocker_arm_shaft_seal",
+                "/20-engine_parts_seals_gaskets/5668-rocker_arm_bushing",
+                "/20-engine_parts_seals_gaskets/5680-rocker_arm_shaft",
+                "/20-engine_parts_seals_gaskets/13148-rocker_arm_shaft_bolt",
+                "/20-engine_parts_seals_gaskets/16237-rocker_arm_shaft_bushing",
+                "/20-engine_parts_seals_gaskets/11993-rocker_arm_shaft_nut",
+                "/20-engine_parts_seals_gaskets/11948-rocker_shaft_oring",
+                "/20-engine_parts_seals_gaskets/5656-rocker_arm_"
+            ],
+            "Seals": [
+                "/19-emission_system/14423-crankcase_vent_valve_seal",
+                "/20-engine_parts_seals_gaskets/10063-camshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/11824-crankcase_bolt_oring",
+                "/20-engine_parts_seals_gaskets/11888-crankcase_oring",
+                "/20-engine_parts_seals_gaskets/11889-crankshaft_main_bearing_oring",
+                "/20-engine_parts_seals_gaskets/12327-engine_camshaft_flange_oring",
+                "/20-engine_parts_seals_gaskets/11982-engine_camshaft_oring",
+                "/20-engine_parts_seals_gaskets/16238-engine_rocker_arm_shaft_seal",
+                "/20-engine_parts_seals_gaskets/16404-intermediate_shaft_cover_oring",
+                "/20-engine_parts_seals_gaskets/16407-intermediate_shaft_oring",
+                "/20-engine_parts_seals_gaskets/13722-oil_pressure_sensor_console_seal",
+                "/20-engine_parts_seals_gaskets/5608-oil_pump_seal",
+                "/20-engine_parts_seals_gaskets/14730-oil_return_tube_seal",
+                "/20-engine_parts_seals_gaskets/12443-oil_thermostat_seal",
+                "/20-engine_parts_seals_gaskets/5456-push_rod_tube_sealgasket",
+                "/20-engine_parts_seals_gaskets/11948-rocker_shaft_oring",
+                "/20-engine_parts_seals_gaskets/11923-timing_chain_tensioner_oring",
+                "/20-engine_parts_seals_gaskets/5612-timing_cover_oil_seal",
+                "/20-engine_parts_seals_gaskets/5800-valve_stem_seal",
+                "/20-engine_parts_seals_gaskets/16409-engine_oil_dipstick_tube_oring",
+                "/20-engine_parts_seals_gaskets/21450-camshaft_seal_ring",
+                "/20-engine_parts_seals_gaskets/10064-crankshaft_oil_seal",
+                "/20-engine_parts_seals_gaskets/50144-engine_variable_valve_lift_eccentric_shaft_actuator_seal",
+                "/20-engine_parts_seals_gaskets/12430-oil_filter_housing_oring",
+                "/20-engine_parts_seals_gaskets/11899-oil_level_sender_oring",
+                "/20-engine_parts_seals_gaskets/11938-oil_pump_pickup_tube_oring",
+                "/20-engine_parts_seals_gaskets/11248-turbocharger_oil_line_oring",
+                "/25-ignition_parts/11332-distributor_oring",
+                "/25-ignition_parts/5605-ignition_distributor_seal",
+                "/25-ignition_parts/10249-camshaft_position_sensor_oring",
+                "/25-ignition_parts/7220-spark_plug_tube_seal"
+            ],
+            "Sensor": [
+                "/20-engine_parts_seals_gaskets/13795-oil_pressure_sensor",
+                "/20-engine_parts_seals_gaskets/13722-oil_pressure_sensor_console_seal",
+                "/20-engine_parts_seals_gaskets/5704-oil_temperature_sensor",
+                "/22-fuel_air_system/5084-cylinder_head_temperature_sensor",
+                "/25-ignition_parts/7100-crankshaft_position_sensor_bracket",
+                "/25-ignition_parts/10249-camshaft_position_sensor_oring",
+                "/25-ignition_parts/7192-camshaft_positionreference_mark_sensor",
+                "/25-ignition_parts/7196-crankshaft_position_sensor"
+            ],
+            "Service Kit": [
+                "/20-engine_parts_seals_gaskets/5416-cylinder_head_gasket_set",
+                "/25-ignition_parts/15563-ignition_tuneup_kit",
+                "/20-engine_parts_seals_gaskets/10302-crankshaft_main_bearing_set",
+                "/20-engine_parts_seals_gaskets/16406-intermediate_shaft_bearing_set",
+                "/20-engine_parts_seals_gaskets/10300-connecting_rod_bearing_set"
+            ],
+            "Spark Plug": [
+                "/25-ignition_parts/7224-spark_plug_wire",
+                "/25-ignition_parts/11348-spark_plug_wire_connector",
+                "/25-ignition_parts/12699-spark_plug_wire_holder",
+                "/25-ignition_parts/7212-spark_plug",
+                "/25-ignition_parts/7220-spark_plug_tube_seal"
+            ],
+            "Starter": [
+                "/18-electrical_vacuum/18992-clutch_starter_safety_switch",
+                "/18-electrical_vacuum/4152-starter",
+                "/18-electrical_vacuum/2501-starter_cable",
+                "/18-electrical_vacuum/22601-starter_solenoid_switch_contact"
+            ],
+            "Supercharger": [
+            
+            ],
+            "Timing": [
+                "/20-engine_parts_seals_gaskets/12459-timing_chain_case_bushing",
+                "/20-engine_parts_seals_gaskets/12014-timing_chain_case_gasket",
+                "/20-engine_parts_seals_gaskets/12015-timing_chain_case_stud_seal",
+                "/20-engine_parts_seals_gaskets/23581-timing_chain_guide_bolt_seal",
+                "/20-engine_parts_seals_gaskets/13140-timing_chain_tensioner_oil_bridge",
+                "/20-engine_parts_seals_gaskets/11923-timing_chain_tensioner_oring",
+                "/20-engine_parts_seals_gaskets/10708-timing_cover_gasket",
+                "/20-engine_parts_seals_gaskets/5484-timing_cover_gasket_set",
+                "/20-engine_parts_seals_gaskets/12456-timing_cover_nut",
+                "/20-engine_parts_seals_gaskets/5612-timing_cover_oil_seal",
+                "/20-engine_parts_seals_gaskets/11931-timing_cover_washer",
+                "/20-engine_parts_seals_gaskets/5760-timing_sprocket",
+                "/20-engine_parts_seals_gaskets/5737-timing_cover",
+                "/20-engine_parts_seals_gaskets/5612-timing_cover_oil_seal",
+                "/20-engine_parts_seals_gaskets/19352-timing_cover_sealing_compound",
+                "/20-engine_parts_seals_gaskets/21255-variable_timing_solenoid_pressure_valve",
+                "/20-engine_parts_seals_gaskets/54378-engine_timing_chain_guide_bushing",
+                "/20-engine_parts_seals_gaskets/5724-timing_chain",
+                "/20-engine_parts_seals_gaskets/12016-timing_chain_guide_bolt",
+                "/20-engine_parts_seals_gaskets/5728-timing_chain_guiderail",
+                "/20-engine_parts_seals_gaskets/11919-timing_chain_kit",
+                "/20-engine_parts_seals_gaskets/5736-timing_chain_tensioner",
+                "/20-engine_parts_seals_gaskets/11921-timing_chain_tensioner_gasket",
+                "/20-engine_parts_seals_gaskets/5760-timing_sprocket",
+                "/20-engine_parts_seals_gaskets/19958-timing_sprocket_bolt"
+            ],
+            "Tools": [
+                "/25-ignition_parts/7104-dielectric_compoundgrease",
+                "/20-engine_parts_seals_gaskets/11950-engine_sealing_compound",
+                "/20-engine_parts_seals_gaskets/11959-sealant",
+                "/99-tools_shop_supplies/14307-battery_charger",
+                "/99-tools_shop_supplies/50820-battery_charger_wall_hanger",
+                "/99-tools_shop_supplies/10120-battery_jumper_cable",
+                "/99-tools_shop_supplies/18975-drain_plug_wrench",
+                "/99-tools_shop_supplies/56931-engine_crankcase_test_cap",
+                "/99-tools_shop_supplies/50536-engine_crankshaft_seal_tool_set",
+                "/99-tools_shop_supplies/47877-engine_cylinder_head_bolt_socket",
+                "/99-tools_shop_supplies/49512-engine_timing_tool",
+                "/99-tools_shop_supplies/49511-engine_timing_tool_set",
+                "/99-tools_shop_supplies/49395-engine_valve_spring_retainer_keeper_tool",
+                "/99-tools_shop_supplies/15453-lift_table",
+                "/99-tools_shop_supplies/50884-media_blasting_machine_cylinder_head_adapter",
+                "/99-tools_shop_supplies/17117-spark_plug_socket",
+                "/99-tools_shop_supplies/18755-vehicle_lift_pad",
+                "/99-tools_shop_supplies/57218-oil_drain_plug_removal_tool_kit",
+                "/99-tools_shop_supplies/7712-oil_filter_wrench"
+            ],
+            "Tuning": [
+            
+            ],
+            "Turbocharger": [
+                "/18-electrical_vacuum/5705-turbocharger_boost_sensor",
+                "/20-engine_parts_seals_gaskets/11248-turbocharger_oil_line_oring",
+                "/22-fuel_air_system/5761-turbocharger_boost_solenoid",
+                "/22-fuel_air_system/46028-turbocharger_bracket",
+                "/22-fuel_air_system/46253-turbocharger_coolant_line",
+                "/22-fuel_air_system/46257-turbocharger_coolant_line_oring",
+                "/22-fuel_air_system/20545-turbocharger_cutoff_valve",
+                "/22-fuel_air_system/49182-turbocharger_intercooler",
+                "/22-fuel_air_system/11257-turbocharger_mount_heat_shield",
+                "/22-fuel_air_system/5765-turbocharger_oil_line",
+                "/22-fuel_air_system/20921-turbocharger_with_exhaust_manifold"
+            ],
+            "Vacuum": [
+                "/18-electrical_vacuum/11817-vacuum_pump_gasket",
+                "/18-electrical_vacuum/17385-vacuum_cap",
+                "/18-electrical_vacuum/5024-vacuum_hoseline",
+                "/18-electrical_vacuum/5172-vacuum_pump",
+                "/19-emission_system/13065-egr_vacuum_delay_valve",
+                "/19-emission_system/13643-vacuum_check_valve",
+                "/19-emission_system/12492-vacuum_line",
+                "/19-emission_system/5177-vacuum_reservoir",
+                "/19-emission_system/46216-vapor_canister_bracket",
+                "/19-emission_system/48098-vapor_canister_filter_seal",
+                "/19-emission_system/5148-vapor_canister_purge_solenoid",
+                "/19-emission_system/4924-air_pump_check_valve",
+                "/19-emission_system/10199-emission_check_valve",
+                "/19-emission_system/5000-vapor_canister_filter"
+            ],
+            "Valve Cover": [
+                "/20-engine_parts_seals_gaskets/10710-valve_cover_gasket",
+                "/20-engine_parts_seals_gaskets/5492-valve_cover_grommetgasket",
+                "/20-engine_parts_seals_gaskets/5772-valve_cover",
+                "/20-engine_parts_seals_gaskets/13074-valve_cover_bolt",
+                "/20-engine_parts_seals_gaskets/5500-valve_cover_gasket_set"
+            ],
+            "Valves & Springs": [
+                "/20-engine_parts_seals_gaskets/11900-valve_adjuster_bolt",
+                "/20-engine_parts_seals_gaskets/11902-valve_adjuster_nut",
+                "/20-engine_parts_seals_gaskets/16244-valve_adjustment_screw",
+                "/20-engine_parts_seals_gaskets/11878-valve_cover_nut",
+                "/20-engine_parts_seals_gaskets/10245-valve_cover_washer",
+                "/20-engine_parts_seals_gaskets/5776-valve_guide",
+                "/20-engine_parts_seals_gaskets/5780-valve_keeper",
+                "/20-engine_parts_seals_gaskets/10022-valve_spring_retainer",
+                "/20-engine_parts_seals_gaskets/13147-valve_spring_retainer_set",
+                "/20-engine_parts_seals_gaskets/13146-valve_spring_seat",
+                "/20-engine_parts_seals_gaskets/5788-valve_spring_shim",
+                "/20-engine_parts_seals_gaskets/5800-valve_stem_seal",
+                "/20-engine_parts_seals_gaskets/5792-valverocker_spring",
+                "/20-engine_parts_seals_gaskets/5328-exhaust_valve",
+                "/20-engine_parts_seals_gaskets/5800-valve_stem_seal",
+                "/20-engine_parts_seals_gaskets/5548-engine_valve_lifter",
+                "/20-engine_parts_seals_gaskets/50177-engine_variable_valve_lift_eccentric_shaft",
+                "/20-engine_parts_seals_gaskets/49801-engine_variable_valve_lift_eccentric_shaft_actuator",
+                "/20-engine_parts_seals_gaskets/50144-engine_variable_valve_lift_eccentric_shaft_actuator_seal",
+                "/20-engine_parts_seals_gaskets/5544-intake_valve",
+                "/20-engine_parts_seals_gaskets/5780-valve_keeper",
+                "/20-engine_parts_seals_gaskets/5504-valve_stem_seal_set",
+                "/20-engine_parts_seals_gaskets/5792-valverocker_spring",
+                "/20-engine_parts_seals_gaskets/12910-variable_timing_solenoid",
+                "/20-engine_parts_seals_gaskets/11906-variable_timing_solenoid_gasket",
+                "/20-engine_parts_seals_gaskets/17014-variable_timing_unit_gasket"
+            ]
+        }
+    ],
+    "Exhaust": [
+        {
+            "Catalytic Converter": [
+                "/21-exhaust_system/11117-catalytic_converter_heat_shield",
+                "/21-exhaust_system/5808-catalytic_converter",
+                "/21-exhaust_system/5828-catalytic_converter_gasket"
+            ],
+            "Cat-back Exhaust": [
+                
+            ],
+            "Downpipes": [
+
+            ],
+            "EGR": [
+                "/19-emission_system/13065-egr_vacuum_delay_valve"
+            ],
+            "Exhaust Tips": [
+                "/21-exhaust_system/14907-tail_pipe_tip",
+                "/21-exhaust_system/10023-tailpipe",
+                "/21-exhaust_system/55989-exhaust_tail_pipe_hanger_bracket_washer",
+                "/21-exhaust_system/53611-exhaust_tail_pipe_tip_screw"
+            ],
+            "Gaskets": [
+                "/21-exhaust_system/5832-exhaust_manifold_flange_gasket",
+                "/21-exhaust_system/10393-exhaust_manifold_gasket_set",
+                "/21-exhaust_system/5836-exhaust_pipe_flange_gasket",
+                "/21-exhaust_system/13366-exhaust_pipe_to_manifold_gasket",
+                "/21-exhaust_system/12029-exhaustmuffler_seal_ring",
+                "/21-exhaust_system/5828-catalytic_converter_gasket",
+                "/21-exhaust_system/5400-exhaust_manifold_gasket"
+            ],
+            "Headers": [
+                "/21-exhaust_system/5832-exhaust_manifold_flange_gasket",
+                "/21-exhaust_system/10393-exhaust_manifold_gasket_set",
+                "/21-exhaust_system/49206-exhaust_manifold_nut",
+                "/21-exhaust_system/56082-exhaust_manifold_pipe_heat_shield",
+                "/21-exhaust_system/13366-exhaust_pipe_to_manifold_gasket",
+                "/21-exhaust_system/12470-exhaust_stud",
+                "/21-exhaust_system/5860-exhaust_manifold",
+                "/21-exhaust_system/19773-exhaust_manifold_heat_shield",
+                "/21-exhaust_system/5400-exhaust_manifold_gasket",
+                "/21-exhaust_system/12470-exhaust_stud"
+            ],
+            "Muffler": [
+                "/21-exhaust_system/12029-exhaustmuffler_seal_ring",
+                "/21-exhaust_system/11119-exhaust_muffler_clamp",
+                "/21-exhaust_system/5804-exhaustmuffler_bracket",
+                "/21-exhaust_system/5816-exhaustmuffler_clamp",
+                "/21-exhaust_system/11910-muffler_bracket"
+            ],
+            "OE": [
+                "/21-exhaust_system/10601-exhaust_heat_shield",
+                "/21-exhaust_system/56082-exhaust_manifold_pipe_heat_shield",
+                "/21-exhaust_system/11117-catalytic_converter_heat_shield",
+                "/21-exhaust_system/5836-exhaust_pipe_flange_gasket",
+                "/21-exhaust_system/13366-exhaust_pipe_to_manifold_gasket",
+                "/21-exhaust_system/19773-exhaust_manifold_heat_shield",
+                "/21-exhaust_system/11119-exhaust_muffler_clamp",
+                "/21-exhaust_system/11916-exhaust_system_hanger_bracket",
+                "/21-exhaust_system/11909-exhaust_mount_bushing",
+                "/21-exhaust_system/5844-exhaust_system_hanger"
+            ],
+            "Oxygen(O2) Sensor": [
+                "/19-emission_system/5132-oxygen_sensor"
+            ],
+            "Performance": [
+            
+            ],
+            "Resonator & Mid-Pipe": [
+                "/21-exhaust_system/11125-exhaust_intermediate_pipe"
+            ],
+            "Tools": [
+            
+            ],
+            "Universal": [
+                "/21-exhaust_system/11119-exhaust_muffler_clamp",
+                "/21-exhaust_system/11916-exhaust_system_hanger_bracket",
+                "/21-exhaust_system/11909-exhaust_mount_bushing",
+                "/21-exhaust_system/11138-exhaust_nut",
+                "/21-exhaust_system/12470-exhaust_stud",
+                "/21-exhaust_system/5844-exhaust_system_hanger",
+                "/21-exhaust_system/55989-exhaust_tail_pipe_hanger_bracket_washer",
+                "/21-exhaust_system/53611-exhaust_tail_pipe_tip_screw",
+                "/21-exhaust_system/5804-exhaustmuffler_bracket",
+                "/21-exhaust_system/5816-exhaustmuffler_clamp",
+                "/21-exhaust_system/11910-muffler_bracket"
+            ]
+        }
+    ],
+    "Exterior": [
+        {
+            "Alarm": [
+                "/13-body_trim_lighting/12169-alarm_switch",
+                "/13-body_trim_lighting/10433-remote_control_transmitter_for_keyless_entry_and_alarm_system",
+                "/18-electrical_vacuum/10847-alarm_siren"
+            ],
+            "Antenna": [
+                "/13-body_trim_lighting/19426-antenna_amplifier",
+                "/13-body_trim_lighting/18444-antenna_bezel",
+                "/13-body_trim_lighting/11735-antenna_mast",
+                "/13-body_trim_lighting/20672-gps_navigation_system_antenna",
+                "/18-electrical_vacuum/19818-radio_antenna_base",
+                "/18-electrical_vacuum/48487-radio_antenna_bezel",
+                "/18-electrical_vacuum/19820-radio_antenna_mast"
+            ],
+            "Body": [
+                "/13-body_trim_lighting/45757-a_pillar_reinforcement_bracket",
+                "/13-body_trim_lighting/47776-frame_rail_end",
+                "/13-body_trim_lighting/47777-frame_side_member_reinforcement",
+                "/13-body_trim_lighting/46632-quarter_panel_filler_panel",
+                "/13-body_trim_lighting/12670-quarter_panel_molding",
+                "/13-body_trim_lighting/20678-quarter_panel_trim_cap",
+                "/13-body_trim_lighting/20399-quarter_panel_vent",
+                "/13-body_trim_lighting/45847-rear_body_panel_bracket",
+                "/13-body_trim_lighting/1092-rocker_panel",
+                "/13-body_trim_lighting/12682-rocker_panel_clip",
+                "/13-body_trim_lighting/46649-rocker_panel_molding_bracket",
+                "/13-body_trim_lighting/20692-rocker_panel_reinforcement",
+                "/13-body_trim_lighting/47781-tow_eye_cap",
+                "/13-body_trim_lighting/46798-wheel_housing_bracket"
+            ],
+            "Convertible Top": [
+                "/13-body_trim_lighting/12264-convertible_top_cable",
+                "/13-body_trim_lighting/12265-convertible_top_case_seal",
+                "/13-body_trim_lighting/13127-convertible_top_control_unit",
+                "/13-body_trim_lighting/50649-convertible_top_cover_lift_support",
+                "/13-body_trim_lighting/45873-convertible_top_hinge",
+                "/13-body_trim_lighting/17184-convertible_top_hydraulic_cylinder",
+                "/13-body_trim_lighting/45879-convertible_top_hydraulic_cylinder_ball_stud",
+                "/13-body_trim_lighting/51139-convertible_top_hydraulic_cylinder_hardware_kit",
+                "/13-body_trim_lighting/19745-convertible_top_hydraulic_line",
+                "/13-body_trim_lighting/16039-convertible_top_latch",
+                "/13-body_trim_lighting/16038-convertible_top_latch_mount_base",
+                "/13-body_trim_lighting/1524-convertible_top_motor",
+                "/13-body_trim_lighting/50651-convertible_top_motor_repair_kit",
+                "/13-body_trim_lighting/45888-convertible_top_mounting_plate",
+                "/13-body_trim_lighting/12267-convertible_top_push_rod",
+                "/13-body_trim_lighting/11470-convertible_top_seal",
+                "/13-body_trim_lighting/53870-convertible_top_seal_bracket",
+                "/13-body_trim_lighting/49162-convertible_top_stowage_compartment_drain_hose",
+                "/13-body_trim_lighting/54237-convertible_top_stowage_compartment_storage_compartment_bracket",
+                "/13-body_trim_lighting/45893-convertible_top_stowage_compartment_trim_panel",
+                "/13-body_trim_lighting/18210-convertible_top_tonneau_cover",
+                "/13-body_trim_lighting/45898-convertible_top_wiring_harness"
+            ],
+            "Decal": [
+            
+            ],
+            "Door": [
+                "/13-body_trim_lighting/1377-door_hinge",
+                "/13-body_trim_lighting/14497-door_lock_actuator_motor",
+                "/13-body_trim_lighting/11410-door_lock_assembly",
+                "/13-body_trim_lighting/10007-door_lock_cylinder",
+                "/13-body_trim_lighting/1028-door_lock_kit",
+                "/13-body_trim_lighting/1290-door_lock_knob",
+                "/13-body_trim_lighting/12297-door_lock_operating_rod",
+                "/13-body_trim_lighting/13641-door_lock_rod_clip",
+                "/13-body_trim_lighting/47693-door_lock_rod_cover",
+                "/13-body_trim_lighting/47694-door_lock_striker_plate",
+                "/13-body_trim_lighting/12306-door_molding",
+                "/13-body_trim_lighting/47703-door_water_deflector",
+                "/13-body_trim_lighting/19432-door_window_belt_weather_strip",
+                "/13-body_trim_lighting/13736-exterior_door_handle_cover",
+                "/13-body_trim_lighting/1024-outside_door_handle",
+                "/13-body_trim_lighting/16756-outside_door_handle_base"
+            ],
+            "Electrical": [
+                "/13-body_trim_lighting/1524-convertible_top_motor",
+                "/13-body_trim_lighting/45898-convertible_top_wiring_harness",
+                "/13-body_trim_lighting/17187-headlight_fog_light_bulb_connector_wrepair_harness",
+                "/13-body_trim_lighting/18585-headlight_adjusting_motor",
+                "/13-body_trim_lighting/13539-humidity_sensor",
+                "/18-electrical_vacuum/4240-back_up_lamp_switch",
+                "/18-electrical_vacuum/2668-hazard_warning_flasher",
+                "/18-electrical_vacuum/2580-headlight_connector",
+                "/18-electrical_vacuum/13254-headlight_washer_pump_connector",
+                "/18-electrical_vacuum/2648-windshield_washer_pump_connector",
+                "/18-electrical_vacuum/4856-wiper_switch",
+                "/18-electrical_vacuum/5062-acceleration_sensor",
+                "/18-electrical_vacuum/7000-ambient_outside_temperature_sensor",
+                "/18-electrical_vacuum/12575-headlight_level_sensor",
+                "/18-electrical_vacuum/13776-headlight_washer_fluid_level_sensor",
+                "/18-electrical_vacuum/1564-impact_sensor",
+                "/18-electrical_vacuum/16545-multi_purpose_wire_connector",
+                "/18-electrical_vacuum/13541-rain_sensor",
+                "/18-electrical_vacuum/14955-sun_load_temperature_sensor",
+                "/35-wipers_wiper_system/8828-washer_fluid_level_sensor",
+                "/35-wipers_wiper_system/8824-windshield_wiper_motor"
+            ],
+            "Emblem": [
+                "/13-body_trim_lighting/16075-deck_lid_emblem",
+                "/13-body_trim_lighting/11428-emblem",
+                "/13-body_trim_lighting/12321-emblem_grommet"
+            ],
+            "Fender": [
+                "/13-body_trim_lighting/47764-fender_apron_bracket",
+                "/13-body_trim_lighting/46851-fender_liner_extension",
+                "/13-body_trim_lighting/13750-fender_liner_rivet"
+            ],
+            "Front Bumper": [
+                "/13-body_trim_lighting/12221-bumper_cover_bracket",
+                "/13-body_trim_lighting/12226-bumper_cover_rivet",
+                "/13-body_trim_lighting/45671-bumper_impact_bar_bracket",
+                "/13-body_trim_lighting/11403-bumper_seal",
+                "/13-body_trim_lighting/47781-tow_eye_cap",
+                "/13-body_trim_lighting/1202-tow_hook",
+                "/13-body_trim_lighting/12512-tow_hook_cover",
+                "/35-wipers_wiper_system/12581-headlight_washer_cover",
+                "/35-wipers_wiper_system/47447-headlight_washer_hose",
+                "/35-wipers_wiper_system/11711-headlight_washer_nozzle"
+            ],
+            "Fuel Door": [
+                "/13-body_trim_lighting/13269-fuel_door_latch",
+                "/22-fuel_air_system/11239-fuel_filler_door",
+                "/22-fuel_air_system/12488-fuel_filler_door_lock_actuator",
+                "/22-fuel_air_system/18049-fuel_filler_housing",
+                "/22-fuel_air_system/10325-fuel_tank_lock_ring"
+            ],
+            "Grille": [
+                "/13-body_trim_lighting/1384-grille"
+            ],
+            "Hitch": [
+            
+            ],
+            "Hood": [
+                "/13-body_trim_lighting/12586-hood_hinge",
+                "/13-body_trim_lighting/11447-hood_insulation_pad",
+                "/13-body_trim_lighting/17091-hood_latch_support",
+                "/13-body_trim_lighting/10603-hood_lift_support",
+                "/13-body_trim_lighting/11448-hood_lift_support_ball_pin",
+                "/13-body_trim_lighting/12591-hood_lock",
+                "/13-body_trim_lighting/1360-hood_release_cable",
+                "/13-body_trim_lighting/11451-hood_release_handle",
+                "/13-body_trim_lighting/12598-hood_safety_catch",
+                "/13-body_trim_lighting/11453-hood_seal",
+                "/13-body_trim_lighting/11454-hood_stop_buffer"
+            ],
+            "Horn": [
+                "/13-body_trim_lighting/10051-horn",
+                "/13-body_trim_lighting/11463-oe_replacement_horn_kit",
+                "/18-electrical_vacuum/12954-horn_contact_ring",
+                "/18-electrical_vacuum/3468-horn_relay"
+            ],
+            "Jack Pad": [
+                "/13-body_trim_lighting/12620-jack_pad",
+                "/13-body_trim_lighting/11404-jack_plug_cover"
+            ],
+            "Liscense Plate": [
+                "/13-body_trim_lighting/10002-license_frame",
+                "/13-body_trim_lighting/12623-license_plate_bracket",
+                "/13-body_trim_lighting/2816-license_plate_light"
+            ],
+            "Mirror": [
+                "/13-body_trim_lighting/13118-door_mirror_cover",
+                "/13-body_trim_lighting/12301-door_mirror_drive_motor",
+                "/13-body_trim_lighting/13119-door_mirror_glass",
+                "/13-body_trim_lighting/12304-door_mirror_housing",
+                "/13-body_trim_lighting/12854-door_mirror_trim_ring",
+                "/13-body_trim_lighting/49714-heated_power_door_mirror"
+            ],
+            "Paint": [
+            
+            ],
+            "Plug": [
+            
+            ],
+            "Rain Tray": [
+            
+            ],
+            "Rear Bumper": [
+                "/13-body_trim_lighting/12221-bumper_cover_bracket",
+                "/13-body_trim_lighting/12226-bumper_cover_rivet",
+                "/13-body_trim_lighting/45671-bumper_impact_bar_bracket",
+                "/13-body_trim_lighting/11403-bumper_seal",
+                "/13-body_trim_lighting/47781-tow_eye_cap",
+                "/13-body_trim_lighting/1202-tow_hook",
+                "/13-body_trim_lighting/12512-tow_hook_cover"
+            ],
+            "Roof": [
+                "/13-body_trim_lighting/46669-roof_drip_molding_seal",
+                "/13-body_trim_lighting/46566-roof_molding_clip",
+                "/13-body_trim_lighting/48425-roof_opening_trim"
+            ],
+            "Roof Rack": [
+                "/13-body_trim_lighting/1104-roof_rack"
+            ],
+            "Side Skirts": [
+            
+            ],
+            "Splash Guard": [
+                "/13-body_trim_lighting/13301-undercar_shield_retainer"
+            ],
+            "Spoiler": [
+                "/13-body_trim_lighting/17052-power_rear_spoiler_switch"
+            ],
+            "Sunroof": [
+            
+            ],
+            "Tools": [
+                "/13-body_trim_lighting/1202-tow_hook"
+            ],
+            "Trim": [
+                "/13-body_trim_lighting/45893-convertible_top_stowage_compartment_trim_panel",
+                "/13-body_trim_lighting/46987-cowl_insulator",
+                "/13-body_trim_lighting/1256-cowl_panel",
+                "/13-body_trim_lighting/12306-door_molding",
+                "/13-body_trim_lighting/13395-engine_compartment_insulation",
+                "/13-body_trim_lighting/11419-exterior_molding_clip",
+                "/13-body_trim_lighting/18242-exterior_trim_fastener",
+                "/13-body_trim_lighting/46780-kick_panel_trim",
+                "/13-body_trim_lighting/46782-kick_panel_trim_cap",
+                "/13-body_trim_lighting/20678-quarter_panel_trim_cap",
+                "/13-body_trim_lighting/47781-tow_eye_cap",
+                "/13-body_trim_lighting/12512-tow_hook_cover",
+                "/35-wipers_wiper_system/12581-headlight_washer_cover",
+                "/35-wipers_wiper_system/14965-headlight_washer_fluid_reservoir_cap",
+                "/35-wipers_wiper_system/11711-headlight_washer_nozzle",
+                "/35-wipers_wiper_system/47452-headlight_washer_nozzle_bracket",
+                "/35-wipers_wiper_system/13075-headlight_washer_hose_connector",
+                "/35-wipers_wiper_system/11095-washer_fluid_level_sensor_grommet",
+                "/35-wipers_wiper_system/48417-washer_fluid_level_sensor_seal",
+                "/35-wipers_wiper_system/13354-headlight_washer_nozzle_retainer"
+            ],
+            "Trunk or Hatch": [
+                "/13-body_trim_lighting/12277-deck_lid_lock",
+                "/13-body_trim_lighting/13710-deck_lid_release_cable",
+                "/13-body_trim_lighting/12279-deck_lid_seal",
+                "/13-body_trim_lighting/47574-deck_lid_striker",
+                "/13-body_trim_lighting/12518-trunk_lid_hinge",
+                "/13-body_trim_lighting/10604-trunk_lid_lift_support",
+                "/13-body_trim_lighting/14771-trunk_lid_trim",
+                "/13-body_trim_lighting/10597-trunk_lock",
+                "/13-body_trim_lighting/14479-trunk_lock_actuator_motor"
+            ],
+            "Undercoating": [
+            
+            ],
+            "Undertray": [
+                "/13-body_trim_lighting/13301-undercar_shield_retainer"
+            ],
+            "Vinyl": [
+            
+            ],
+            "Window": [
+                "/13-body_trim_lighting/19432-door_window_belt_weather_strip",
+                "/13-body_trim_lighting/12412-window_channel",
+                "/13-body_trim_lighting/10334-window_guide"
+            ],
+            "Windshield": [
+                "/13-body_trim_lighting/47820-windshield_defroster_nozzle",
+                "/13-body_trim_lighting/47787-windshield_frame_weatherstrip_seal",
+                "/13-body_trim_lighting/51114-windshield_post_trim_cap",
+                "/13-body_trim_lighting/16556-windshield_repair_kit",
+                "/18-electrical_vacuum/2648-windshield_washer_pump_connector",
+                "/35-wipers_wiper_system/10585-windshield_washer_fluid_reservoir",
+                "/35-wipers_wiper_system/11097-windshield_washer_fluid_reservoir_cap",
+                "/35-wipers_wiper_system/16646-windshield_washer_fluid_reservoir_filler_pipe",
+                "/35-wipers_wiper_system/8820-windshield_washer_hose",
+                "/35-wipers_wiper_system/11103-windshield_washer_hose_t_connector",
+                "/35-wipers_wiper_system/8838-windshield_washer_nozzle",
+                "/35-wipers_wiper_system/8840-windshield_washer_pump",
+                "/35-wipers_wiper_system/11107-windshield_washer_pump_grommet",
+                "/35-wipers_wiper_system/12401-windshield_washer_pump_strainer",
+                "/35-wipers_wiper_system/11096-windshield_washer_check_valve"
+            ],
+            "Wiper": [
+                "/18-electrical_vacuum/4856-wiper_switch",
+                "/35-wipers_wiper_system/11112-windshield_wiper_blade_set",
+                "/35-wipers_wiper_system/8824-windshield_wiper_motor",
+                "/35-wipers_wiper_system/12398-windshield_wiper_motor_cover",
+                "/35-wipers_wiper_system/8848-wiper_arm",
+                "/35-wipers_wiper_system/8852-wiper_blade_assembly",
+                "/35-wipers_wiper_system/47322-back_glass_wiper_arm",
+                "/35-wipers_wiper_system/11111-windshield_wiper_blade_refill_set",
+                "/35-wipers_wiper_system/10717-windshield_wiper_linkage_bushing",
+                "/35-wipers_wiper_system/16559-windshield_wiper_motor_bracket",
+                "/35-wipers_wiper_system/11110-windshield_wiper_arm_cover",
+                "/35-wipers_wiper_system/21612-windshield_wiper_arm_shaft_boot",
+                "/35-wipers_wiper_system/3956-windshield_wiper_motor_relay"
+            ]
+        }
+    ],
+    "Fuel System": [
+        {
+            "Fuel Additive": [
+            
+            ],
+            "Fuel Cap": [
+                "/22-fuel_air_system/11245-fuelgas_cap_seal",
+                "/22-fuel_air_system/47220-fuel_information_label",
+                "/22-fuel_air_system/47108-fuel_filler_hose_clamp",
+                "/22-fuel_air_system/18049-fuel_filler_housing",
+                "/22-fuel_air_system/10325-fuel_tank_lock_ring",
+                "/22-fuel_air_system/5900-fuelgas_cap"
+            ],
+            "Fuel Filter": [
+                "/22-fuel_air_system/6200-fuel_filter",
+                "/22-fuel_air_system/11157-fuel_filter_seal",
+                "/22-fuel_air_system/13566-fuel_tank_sending_unit_and_fuel_filter_assembly"
+            ],
+            "Fuel Injector": [
+                "/22-fuel_air_system/13679-fuel_injector_oring",
+                "/22-fuel_air_system/6232-fuel_injector_seal_kit",
+                "/22-fuel_air_system/6224-fuel_injector",
+                "/22-fuel_air_system/21585-fuel_injector_decoupler",
+                "/22-fuel_air_system/10778-fuel_injector_retaining_bracket",
+                "/22-fuel_air_system/11223-fuel_injector_seal",
+                "/22-fuel_air_system/12542-fuel_injector_terminal_kit"
+            ],
+            "Fuel Pump": [
+                "/22-fuel_air_system/12543-fuel_pump_cap_nut",
+                "/22-fuel_air_system/11228-fuel_pump_check_valve",
+                "/22-fuel_air_system/12941-fuel_pump_cutoff_switch",
+                "/22-fuel_air_system/13646-fuel_pump_bolt",
+                "/22-fuel_air_system/17676-fuel_pump_control_module",
+                "/22-fuel_air_system/14756-fuel_pump_driver_module",
+                "/22-fuel_air_system/6237-fuel_pump_fitting",
+                "/22-fuel_air_system/11233-fuel_pump_seal",
+                "/22-fuel_air_system/19012-fuel_pump_tappet",
+                "/22-fuel_air_system/48241-direct_injection_high_pressure_fuel_pump",
+                "/22-fuel_air_system/55905-direct_injection_high_pressure_fuel_pump_wiring_adapter",
+                "/22-fuel_air_system/56730-direct_injection_high_pressure_pump_gasket",
+                "/22-fuel_air_system/6132-fuel_injection_pump",
+                "/22-fuel_air_system/6124-fuel_pressure_regulator",
+                "/22-fuel_air_system/6244-fuel_pump",
+                "/22-fuel_air_system/15183-fuel_pump_and_level_sensor_module_seal",
+                "/22-fuel_air_system/54295-fuel_pump_driver_module_bracket",
+                "/22-fuel_air_system/10147-fuel_pump_module_assembly",
+                "/22-fuel_air_system/3380-fuel_pump_relay",
+                "/22-fuel_air_system/6262-fuel_pump_tank_seal",
+                "/22-fuel_air_system/6256-fuel_pump_electric"
+            ],
+            "Fuel Rail": [
+            
+            ],
+            "Fuel Sending Unit": [
+                "/22-fuel_air_system/15184-fuel_tank_sender_seal",
+                "/22-fuel_air_system/4436-fuel_tank_sending_unit",
+                "/22-fuel_air_system/13566-fuel_tank_sending_unit_and_fuel_filter_assembly",
+                "/22-fuel_air_system/12550-fuel_tank_sending_unit_oring"
+            ],
+            "Fuel Tank": [
+                "/22-fuel_air_system/16345-fuel_tank_screen",
+                "/22-fuel_air_system/22448-fuel_tank_sender_retainer",
+                "/22-fuel_air_system/47084-fuel_filler_neck_insulator",
+                "/22-fuel_air_system/46019-fuel_tank_bracket",
+                "/22-fuel_air_system/47226-fuel_tank_shield",
+                "/22-fuel_air_system/12946-fuel_tank_vent_hose",
+                "/22-fuel_air_system/6262-fuel_pump_tank_seal",
+                "/22-fuel_air_system/19281-fuel_tank_breather_hose",
+                "/22-fuel_air_system/12547-fuel_tank_breather_valve",
+                "/22-fuel_air_system/6272-fuel_tank_filler_neck",
+                "/22-fuel_air_system/10325-fuel_tank_lock_ring",
+                "/22-fuel_air_system/15184-fuel_tank_sender_seal",
+                "/22-fuel_air_system/12550-fuel_tank_sending_unit_oring",
+                "/22-fuel_air_system/10321-fuel_tank_strap"
+            ],
+            "Leak Detection Pump": [
+                "/22-fuel_air_system/12040-fuel_vapor_leak_detection_pump"
+            ],
+            "Leak Detection Pump Filter": [
+            
+            ],
+            "Performance": [
+            
+            ],
+            "Plumbing": [
+                "/22-fuel_air_system/11224-fuel_line",
+                "/22-fuel_air_system/47084-fuel_filler_neck_insulator",
+                "/22-fuel_air_system/11244-fuel_return_line",
+                "/22-fuel_air_system/12946-fuel_tank_vent_hose",
+                "/22-fuel_air_system/56139-liquid_propane_gas_lpg_fuel_feed_line",
+                "/22-fuel_air_system/48129-fuel_feed_pipe_cap",
+                "/22-fuel_air_system/47108-fuel_filler_hose_clamp",
+                "/22-fuel_air_system/11243-fuel_hose_clamp",
+                "/22-fuel_air_system/6352-fuel_hoseline",
+                "/22-fuel_air_system/19281-fuel_tank_breather_hose",
+                "/22-fuel_air_system/12547-fuel_tank_breather_valve"
+            ],
+            "Sensor": [
+                "/22-fuel_air_system/6376-fuel_injection_pressure_sensor",
+                "/22-fuel_air_system/13921-fuel_pressure_sensor"
+            ],
+            "Tools": [
+                "/99-tools_shop_supplies/13170-fuel_pump_removal_tool",
+                "/99-tools_shop_supplies/16688-fuel_injector_puller"
+            ]
+        }
+    ],
+    "Interior": [
+        {
+            "Accessories": [
+                "/18-electrical_vacuum/12621-key_fob",
+                "/18-electrical_vacuum/18445-button_cell_battery",
+                "/18-electrical_vacuum/46186-gps_navigation_control_module"
+            ],
+            "Airbag": [
+                "/13-body_trim_lighting/10480-air_bag_clockspring",
+                "/13-body_trim_lighting/45928-air_bag_control_module"
+            ],
+            "Alarm": [
+                "/13-body_trim_lighting/12169-alarm_switch",
+                "/13-body_trim_lighting/11775-vehicle_alarm_system_control_unit",
+                "/13-body_trim_lighting/16158-vehicle_alarm_transmitter_battery"
+            ],
+            "Armrest": [
+                "/13-body_trim_lighting/1436-arm_rest",
+                "/13-body_trim_lighting/45710-console_armrest",
+                "/13-body_trim_lighting/45714-console_armrest_cap",
+                "/13-body_trim_lighting/45715-console_armrest_cover",
+                "/13-body_trim_lighting/46602-seat_armrest_bracket"
+            ],
+            "Audio": [
+                "/13-body_trim_lighting/47465-audio_auxiliary_jack",
+                "/13-body_trim_lighting/15687-door_speaker_connector",
+                "/13-body_trim_lighting/10772-speaker_cover",
+                "/18-electrical_vacuum/46202-radio_bracket",
+                "/18-electrical_vacuum/47484-radio_speaker_bracket",
+                "/18-electrical_vacuum/46198-cd_changer_bracket",
+                "/18-electrical_vacuum/15193-cd_holder",
+                "/18-electrical_vacuum/1319-speaker"
+            ],
+            "Camera": [
+
+            ],
+            "Carpet": [
+            
+            ],
+            "Cellphone": [
+                "/18-electrical_vacuum/15348-cellular_phone_antenna"
+            ],
+            "Center Console": [
+                "/13-body_trim_lighting/11405-ash_tray",
+                "/13-body_trim_lighting/45706-ash_tray_cover",
+                "/13-body_trim_lighting/10004-center_console",
+                "/13-body_trim_lighting/1272-cigarette_lighter_element",
+                "/13-body_trim_lighting/45710-console_armrest",
+                "/13-body_trim_lighting/45714-console_armrest_cap",
+                "/13-body_trim_lighting/45715-console_armrest_cover",
+                "/13-body_trim_lighting/45729-console_cap",
+                "/13-body_trim_lighting/49147-console_cup_holder",
+                "/13-body_trim_lighting/47260-console_lid",
+                "/13-body_trim_lighting/45749-console_mat",
+                "/13-body_trim_lighting/47265-console_panel",
+                "/13-body_trim_lighting/47269-console_tray",
+                "/13-body_trim_lighting/47273-console_trim_panel",
+                "/18-electrical_vacuum/18824-12_volt_accessory_power_outlet",
+                "/18-electrical_vacuum/50201-telematics_input_controller"
+            ],
+            "Cruise Control": [
+                "/18-electrical_vacuum/4320-cruise_control_switch"
+            ],
+            "Cup Holder": [
+                "/13-body_trim_lighting/49147-console_cup_holder",
+                "/13-body_trim_lighting/12274-cup_holder"
+            ],
+            "Dashboard": [
+                "/13-body_trim_lighting/11455-dash_board_air_vent",
+                "/13-body_trim_lighting/47805-dash_panel_bracket",
+                "/13-body_trim_lighting/12554-glove_box",
+                "/13-body_trim_lighting/14089-glove_box_door",
+                "/13-body_trim_lighting/47791-glove_box_door_bumper",
+                "/13-body_trim_lighting/47792-glove_box_door_cover",
+                "/13-body_trim_lighting/48376-glove_box_door_hinge_pin",
+                "/13-body_trim_lighting/1504-glove_box_lock",
+                "/13-body_trim_lighting/12557-glove_box_support",
+                "/13-body_trim_lighting/4472-headlight_switch",
+                "/13-body_trim_lighting/21402-headlight_switch_lamp_socket",
+                "/13-body_trim_lighting/21143-instrument_cluster_bezel",
+                "/13-body_trim_lighting/19530-instrument_panel_bezel",
+                "/13-body_trim_lighting/13700-instrument_panel_cover",
+                "/13-body_trim_lighting/20663-instrument_panel_molding",
+                "/13-body_trim_lighting/19532-instrument_panel_mounting_bracket",
+                "/13-body_trim_lighting/47812-instrument_panel_pad",
+                "/13-body_trim_lighting/19798-instrument_panel_pocket",
+                "/13-body_trim_lighting/19799-instrument_panel_reinforcement",
+                "/13-body_trim_lighting/19800-instrument_panel_side_cover",
+                "/13-body_trim_lighting/19801-instrument_panel_storage_compartment",
+                "/13-body_trim_lighting/19534-instrument_panel_trim_panel"
+            ],
+            "Data Acquisition": [
+
+            ],
+            "Door": [
+                "/13-body_trim_lighting/49045-door_belt_molding",
+                "/13-body_trim_lighting/51957-door_check_strap_rivet",
+                "/13-body_trim_lighting/13115-door_handle_interior",
+                "/13-body_trim_lighting/1377-door_hinge",
+                "/13-body_trim_lighting/11409-door_interior_trim_panel_retainer",
+                "/13-body_trim_lighting/13709-door_latch_cable",
+                "/13-body_trim_lighting/50168-door_panel_handle_cover",
+                "/13-body_trim_lighting/16042-door_panel_insert",
+                "/13-body_trim_lighting/14768-door_pillar_post_trim_set",
+                "/13-body_trim_lighting/11415-door_seal",
+                "/13-body_trim_lighting/12308-door_sill_panel_clip",
+                "/13-body_trim_lighting/1032-door_sill_plate",
+                "/13-body_trim_lighting/15687-door_speaker_connector",
+                "/13-body_trim_lighting/51969-door_trim_sill_plate_insert_clip",
+                "/13-body_trim_lighting/4624-door_window_switch",
+                "/13-body_trim_lighting/13333-door_wiring_harness",
+                "/13-body_trim_lighting/13582-interior_door_pull_handle",
+                "/13-body_trim_lighting/10042-interior_grab_bar",
+                "/18-electrical_vacuum/15686-door_lock_actuator_connector"
+            ],
+            "Electrical": [
+                "/13-body_trim_lighting/12132-accelerator_pedal_sensor",
+                "/13-body_trim_lighting/45928-air_bag_control_module",
+                "/13-body_trim_lighting/12169-alarm_switch",
+                "/13-body_trim_lighting/1272-cigarette_lighter_element",
+                "/13-body_trim_lighting/13127-convertible_top_control_unit",
+                "/13-body_trim_lighting/15903-dome_map_lamp_connector",
+                "/13-body_trim_lighting/2772-dome_light",
+                "/13-body_trim_lighting/2660-dome_light_override_switch",
+                "/13-body_trim_lighting/14497-door_lock_actuator_motor",
+                "/13-body_trim_lighting/15687-door_speaker_connector",
+                "/13-body_trim_lighting/13333-door_wiring_harness",
+                "/13-body_trim_lighting/12397-headlight_control_module_xenon",
+                "/13-body_trim_lighting/4472-headlight_switch",
+                "/13-body_trim_lighting/45967-parking_aid_control_module",
+                "/13-body_trim_lighting/10750-parking_aid_sensor",
+                "/13-body_trim_lighting/45950-parking_aid_sensor_bracket",
+                "/13-body_trim_lighting/47544-power_seat_switch",
+                "/13-body_trim_lighting/1528-seat_motor",
+                "/13-body_trim_lighting/47541-steering_wheel_transmission_shift_control_switch",
+                "/13-body_trim_lighting/47543-steering_wheel_wiring_harness",
+                "/13-body_trim_lighting/17717-turn_signal_combination_lever",
+                "/18-electrical_vacuum/4336-defroster_switch",
+                "/18-electrical_vacuum/15686-door_lock_actuator_connector",
+                "/18-electrical_vacuum/4584-neutral_safety_switch",
+                "/18-electrical_vacuum/12105-relay_connector",
+                "/18-electrical_vacuum/18824-12_volt_accessory_power_outlet",
+                "/18-electrical_vacuum/2888-body_control_module",
+                "/18-electrical_vacuum/13240-clutch_pedal_ignition_lock_switch",
+                "/18-electrical_vacuum/18992-clutch_starter_safety_switch",
+                "/18-electrical_vacuum/11754-combination_switch",
+                "/18-electrical_vacuum/12859-electrical_pin_connector",
+                "/18-electrical_vacuum/4468-hazard_warning_switch",
+                "/18-electrical_vacuum/14955-sun_load_temperature_sensor",
+                "/18-electrical_vacuum/19459-telematics_interface_module",
+                "/25-ignition_parts/10041-ignition_lock_cylinder",
+                "/25-ignition_parts/4516-ignition_switch"
+            ],
+            "Floor Mat": [
+            
+            ],
+            "Fuses & Fuse Box": [
+                "/13-body_trim_lighting/19782-fuse_box_bracket",
+                "/13-body_trim_lighting/13376-turn_signal_fuse",
+                "/18-electrical_vacuum/2944-accessory_power_relay",
+                "/18-electrical_vacuum/13364-ac_system_relay",
+                "/18-electrical_vacuum/16248-dme_relay",
+                "/18-electrical_vacuum/3396-hazard_warning_relay",
+                "/18-electrical_vacuum/3468-horn_relay",
+                "/18-electrical_vacuum/16249-fuse_strip",
+                "/18-electrical_vacuum/10789-xcontact_relay",
+                "/18-electrical_vacuum/2676-fuse",
+                "/18-electrical_vacuum/2684-fuse_box",
+                "/18-electrical_vacuum/11691-fuse_box_cover",
+                "/18-electrical_vacuum/2688-fuse_holder",
+                "/18-electrical_vacuum/10140-fuse_kit",
+                "/18-electrical_vacuum/3608-multi_purpose_relay",
+                "/18-electrical_vacuum/16545-multi_purpose_wire_connector",
+                "/35-wipers_wiper_system/3956-windshield_wiper_motor_relay"
+            ],
+            "Gauges": [
+                "/13-body_trim_lighting/21143-instrument_cluster_bezel",
+                "/13-body_trim_lighting/19530-instrument_panel_bezel",
+                "/13-body_trim_lighting/13700-instrument_panel_cover",
+                "/13-body_trim_lighting/20663-instrument_panel_molding",
+                "/13-body_trim_lighting/19532-instrument_panel_mounting_bracket",
+                "/13-body_trim_lighting/47812-instrument_panel_pad",
+                "/13-body_trim_lighting/19798-instrument_panel_pocket",
+                "/13-body_trim_lighting/19799-instrument_panel_reinforcement",
+                "/13-body_trim_lighting/19800-instrument_panel_side_cover",
+                "/13-body_trim_lighting/19801-instrument_panel_storage_compartment",
+                "/13-body_trim_lighting/19534-instrument_panel_trim_panel",
+                "/18-electrical_vacuum/1456-fuel_level_gauge",
+                "/18-electrical_vacuum/11676-speedometer_drive_gear"
+            ],
+            "Headliner": [
+                "/13-body_trim_lighting/46658-headliner_bracket",
+                "/13-body_trim_lighting/18211-headliner_clip",
+                "/13-body_trim_lighting/51900-headliner_hardware_kit",
+                "/13-body_trim_lighting/10046-overhead_console"
+            ],
+            "Head Unit": [
+                "/18-electrical_vacuum/46202-radio_bracket",
+                "/18-electrical_vacuum/47484-radio_speaker_bracket",
+                "/18-electrical_vacuum/21567-radio_control_unit",
+                "/18-electrical_vacuum/16169-radio_knob"
+            ],
+            "Lighting": [
+                "/13-body_trim_lighting/10351-courtesy_light",
+                "/13-body_trim_lighting/15903-dome_map_lamp_connector",
+                "/13-body_trim_lighting/2772-dome_light",
+                "/13-body_trim_lighting/2660-dome_light_override_switch",
+                "/13-body_trim_lighting/2820-map_light"
+            ],
+            "Mirror": [
+                "/13-body_trim_lighting/13116-interior_rear_view_mirror",
+                "/13-body_trim_lighting/19008-interior_rear_view_mirror_cover"
+            ],
+            "Parking Brake": [
+                "/13-body_trim_lighting/48374-parking_brake_handle_assembly",
+                "/14-brake_wheel_hub/47470-electronic_parking_brake_control_switch"
+            ],
+            "Pedal": [
+                "/13-body_trim_lighting/12130-accelerator_pedal",
+                "/13-body_trim_lighting/12133-accelerator_pedal_module",
+                "/13-body_trim_lighting/12132-accelerator_pedal_sensor",
+                "/13-body_trim_lighting/1552-brake_pedal_pad",
+                "/15-clutch_parts/19161-clutch_pedal_spring_locking_pin",
+                "/15-clutch_parts/15739-clutch_pedal_bushing",
+                "/15-clutch_parts/15738-clutch_pedal_pad",
+                "/18-electrical_vacuum/13240-clutch_pedal_ignition_lock_switch",
+                "/18-electrical_vacuum/18992-clutch_starter_safety_switch"
+            ],
+            "Radar Detector": [
+            
+            ],
+            "Safety": [
+                "/13-body_trim_lighting/45904-child_restraint_anchor_plate",
+                "/13-body_trim_lighting/16574-firewall_insulator",
+                "/13-body_trim_lighting/54167-roll_bar_bracket",
+                "/13-body_trim_lighting/46394-seat_belt_anchor_plate_cover",
+                "/13-body_trim_lighting/13070-seat_belt_buckle_button_stop",
+                "/13-body_trim_lighting/13705-seat_belt_guide",
+                "/13-body_trim_lighting/46404-seat_belt_height_adjuster_cover",
+                "/13-body_trim_lighting/46407-seat_belt_lap_and_shoulder_belt",
+                "/13-body_trim_lighting/13306-seat_belt_receptacle",
+                "/13-body_trim_lighting/47532-seat_belt_receptacle_cover",
+                "/13-body_trim_lighting/20704-seat_belt_reinforcement"
+            ],
+            "Seat": [
+                "/13-body_trim_lighting/46582-folding_seat_latch",
+                "/13-body_trim_lighting/20652-folding_seat_latch_release_handle",
+                "/13-body_trim_lighting/46588-headrest",
+                "/13-body_trim_lighting/46592-headrest_guide",
+                "/13-body_trim_lighting/11482-power_seat_control_module",
+                "/13-body_trim_lighting/47544-power_seat_switch",
+                "/13-body_trim_lighting/46612-seat_back_cover",
+                "/13-body_trim_lighting/13636-seat_back_recliner_adjustment_handle",
+                "/13-body_trim_lighting/46394-seat_belt_anchor_plate_cover",
+                "/13-body_trim_lighting/13070-seat_belt_buckle_button_stop",
+                "/13-body_trim_lighting/13705-seat_belt_guide",
+                "/13-body_trim_lighting/46404-seat_belt_height_adjuster_cover",
+                "/13-body_trim_lighting/46407-seat_belt_lap_and_shoulder_belt",
+                "/13-body_trim_lighting/13306-seat_belt_receptacle",
+                "/13-body_trim_lighting/47532-seat_belt_receptacle_cover",
+                "/13-body_trim_lighting/20704-seat_belt_reinforcement",
+                "/13-body_trim_lighting/1316-seat_cover",
+                "/13-body_trim_lighting/15380-seat_cushion_foam",
+                "/13-body_trim_lighting/12689-seat_cushion_pad",
+                "/13-body_trim_lighting/46432-seat_frame_trim_panel",
+                "/13-body_trim_lighting/13935-seat_heater_pad",
+                "/13-body_trim_lighting/46439-seat_hinge_bracket",
+                "/13-body_trim_lighting/11486-seat_hinge_cover",
+                "/13-body_trim_lighting/16561-seat_latch_cover",
+                "/13-body_trim_lighting/47529-seat_lumbar_motor",
+                "/13-body_trim_lighting/17709-seat_lumbar_switch",
+                "/13-body_trim_lighting/1528-seat_motor",
+                "/13-body_trim_lighting/4612-seat_switch",
+                "/13-body_trim_lighting/46128-seat_track",
+                "/13-body_trim_lighting/46464-seat_track_cover",
+                "/13-body_trim_lighting/14219-seat_track_position_sensor",
+                "/13-body_trim_lighting/20705-seat_track_reinforcement",
+                "/13-body_trim_lighting/46474-seat_track_support"
+            ],
+            "Shifter": [
+                "/13-body_trim_lighting/11074-manual_trans_shift_knob",
+                "/33-transmissiontransaxle_system/12193-auto_trans_shift_cover_plate",
+                "/33-transmissiontransaxle_system/18850-auto_trans_shift_lever_boot"
+            ],
+            "Steering Wheel": [
+                "/13-body_trim_lighting/10480-air_bag_clockspring",
+                "/13-body_trim_lighting/14112-steering_column_cover",
+                "/13-body_trim_lighting/1320-steering_wheel",
+                "/13-body_trim_lighting/47541-steering_wheel_transmission_shift_control_switch",
+                "/13-body_trim_lighting/47542-steering_wheel_trim",
+                "/13-body_trim_lighting/47543-steering_wheel_wiring_harness",
+                "/13-body_trim_lighting/17717-turn_signal_combination_lever",
+                "/18-electrical_vacuum/12954-horn_contact_ring",
+                "/25-ignition_parts/10041-ignition_lock_cylinder",
+                "/25-ignition_parts/4516-ignition_switch"
+            ],
+            "Storage": [
+                "/13-body_trim_lighting/12554-glove_box",
+                "/13-body_trim_lighting/14089-glove_box_door",
+                "/13-body_trim_lighting/47791-glove_box_door_bumper",
+                "/13-body_trim_lighting/47792-glove_box_door_cover",
+                "/13-body_trim_lighting/48376-glove_box_door_hinge_pin",
+                "/13-body_trim_lighting/1504-glove_box_lock",
+                "/13-body_trim_lighting/12557-glove_box_support",
+                "/13-body_trim_lighting/52180-interior_quarter_panel_trim_panel_storage_compartment_bumper",
+                "/13-body_trim_lighting/48393-seat_ski_bag",
+                "/13-body_trim_lighting/14290-trunk_organizer",
+                "/18-electrical_vacuum/15193-cd_holder"
+            ],
+            "Sun Visor": [
+                "/13-body_trim_lighting/1156-sun_visor",
+                "/13-body_trim_lighting/1247-window_shade"
+            ],
+            "Sunroof": [
+                "/13-body_trim_lighting/47848-sunroof_cover",
+                "/13-body_trim_lighting/11475-sunroof_deflector_hinge",
+                "/13-body_trim_lighting/47853-sunroof_drain_hose",
+                "/13-body_trim_lighting/12711-sunroof_drip_molding",
+                "/13-body_trim_lighting/46580-sunroof_glass_seal",
+                "/13-body_trim_lighting/11477-sunroof_guide_jaw",
+                "/13-body_trim_lighting/47511-sunroof_opening_trim",
+                "/13-body_trim_lighting/11479-sunroof_seal",
+                "/13-body_trim_lighting/4620-sunroof_switch"
+            ],
+            "Tools": [
+                "/13-body_trim_lighting/17263-interior_panel_retainer",
+                "/99-tools_shop_supplies/15103-door_trim_removal_tool"
+            ],
+            "Trim": [
+                "/13-body_trim_lighting/1272-cigarette_lighter_element",
+                "/13-body_trim_lighting/47273-console_trim_panel",
+                "/13-body_trim_lighting/14768-door_pillar_post_trim_set",
+                "/13-body_trim_lighting/1032-door_sill_plate",
+                "/13-body_trim_lighting/19530-instrument_panel_bezel",
+                "/13-body_trim_lighting/21143-instrument_cluster_bezel",
+                "/13-body_trim_lighting/13700-instrument_panel_cover",
+                "/13-body_trim_lighting/20663-instrument_panel_molding",
+                "/13-body_trim_lighting/19534-instrument_panel_trim_panel",
+                "/13-body_trim_lighting/17263-interior_panel_retainer",
+                "/13-body_trim_lighting/46515-package_tray_trim",
+                "/13-body_trim_lighting/47778-roll_bar_trim_panel",
+                "/13-body_trim_lighting/46479-seat_trim_panel",
+                "/13-body_trim_lighting/47608-sound_absorber",
+                "/13-body_trim_lighting/47542-steering_wheel_trim",
+                "/13-body_trim_lighting/22756-upholstery_clamp"
+            ],
+            "Trunk": [
+                "/13-body_trim_lighting/10351-courtesy_light",
+                "/13-body_trim_lighting/13671-courtesy_light_bulb",
+                "/13-body_trim_lighting/47775-spare_tire_compartment_bracket",
+                "/13-body_trim_lighting/10352-trunk_or_cargo_area_light",
+                "/13-body_trim_lighting/14290-trunk_organizer",
+                "/13-body_trim_lighting/47598-trunk_trim_panel",
+                "/18-electrical_vacuum/4812-trunk_lid_release_switch"
+            ],
+            "Vent": [
+                "/13-body_trim_lighting/11455-dash_board_air_vent",
+                "/13-body_trim_lighting/19529-instrument_panel_air_duct"
+            ],
+            "Window": [
+                "/13-body_trim_lighting/4624-door_window_switch",
+                "/13-body_trim_lighting/1516-power_window_motor",
+                "/13-body_trim_lighting/11435-quarter_glass_seal",
+                "/13-body_trim_lighting/10217-window_regulator",
+                "/13-body_trim_lighting/46867-window_regulator_nut"
+            ]
+        }
+    ],
+    "Lighting": [
+        {
+            "Fog Light": [
+                "/13-body_trim_lighting/10039-fog_light",
+                "/13-body_trim_lighting/11696-fog_light_bulb",
+                "/13-body_trim_lighting/12483-fog_light_trim"
+            ],
+            "Headlight": [
+                "/13-body_trim_lighting/15613-daytime_running_light_bulb",
+                "/13-body_trim_lighting/49405-halo_ring_bulb",
+                "/13-body_trim_lighting/18585-headlight_adjusting_motor",
+                "/13-body_trim_lighting/10762-headlight_assembly",
+                "/13-body_trim_lighting/12568-headlight_bracket",
+                "/13-body_trim_lighting/11701-headlight_bulb",
+                "/13-body_trim_lighting/19370-headlight_bulb_cap",
+                "/13-body_trim_lighting/13841-headlight_bulb_xenon",
+                "/13-body_trim_lighting/12397-headlight_control_module_xenon",
+                "/13-body_trim_lighting/49406-headlight_halo_ring_bulb",
+                "/13-body_trim_lighting/21259-headlight_level_sensor_connector_rod"
+            ],
+            "Indicator": [
+                "/13-body_trim_lighting/2824-side_marker_light",
+                "/13-body_trim_lighting/13676-side_marker_light_bulb",
+                "/13-body_trim_lighting/14788-side_repeater_lamp_assembly",
+                "/13-body_trim_lighting/10349-turn_signal_indicator_light",
+                "/13-body_trim_lighting/4024-turn_signal_lamp_socket",
+                "/13-body_trim_lighting/11729-turn_signal_light_assembly",
+                "/13-body_trim_lighting/13675-turn_signal_light_bulb",
+                "/18-electrical_vacuum/15161-side_marker_light_socket"
+            ],
+            "Interior": [
+                "/13-body_trim_lighting/10351-courtesy_light",
+                "/13-body_trim_lighting/13671-courtesy_light_bulb",
+                "/13-body_trim_lighting/15903-dome_map_lamp_connector",
+                "/13-body_trim_lighting/2772-dome_light",
+                "/13-body_trim_lighting/11732-dome_light_bulb",
+                "/13-body_trim_lighting/13665-glove_box_light_bulb"
+            ],
+            "LED": [
+            
+            ],
+            "Liscense Plate": [
+            
+            ],
+            "Rally": [
+            
+            ],
+            "Switch": [
+                "/13-body_trim_lighting/12397-headlight_control_module_xenon",
+                "/13-body_trim_lighting/4472-headlight_switch",
+                "/18-electrical_vacuum/4240-back_up_lamp_switch",
+                "/18-electrical_vacuum/10474-brake_light_switch"
+            ],
+            "Tail Light": [
+                "/13-body_trim_lighting/13663-back_up_light_bulb",
+                "/13-body_trim_lighting/13716-brake_light_bulb",
+                "/13-body_trim_lighting/2804-center_high_mount_stop_light",
+                "/13-body_trim_lighting/46550-center_high_mount_stop_light_nut",
+                "/13-body_trim_lighting/57033-center_high_mount_stop_light_spring",
+                "/13-body_trim_lighting/4132-tail_lamp_socket",
+                "/13-body_trim_lighting/15029-tail_light_assembly",
+                "/13-body_trim_lighting/13662-tail_light_bulb",
+                "/13-body_trim_lighting/1160-tail_light_cover"
+            ],
+            "Universal": [
+                "/13-body_trim_lighting/13663-back_up_light_bulb",
+                "/13-body_trim_lighting/13716-brake_light_bulb",
+                "/13-body_trim_lighting/2804-center_high_mount_stop_light",
+                "/13-body_trim_lighting/46550-center_high_mount_stop_light_nut",
+                "/13-body_trim_lighting/57033-center_high_mount_stop_light_spring",
+                "/13-body_trim_lighting/13671-courtesy_light_bulb",
+                "/13-body_trim_lighting/15613-daytime_running_light_bulb",
+                "/13-body_trim_lighting/11732-dome_light_bulb",
+                "/13-body_trim_lighting/11696-fog_light_bulb",
+                "/13-body_trim_lighting/13665-glove_box_light_bulb",
+                "/13-body_trim_lighting/49405-halo_ring_bulb",
+                "/13-body_trim_lighting/17187-headlight_fog_light_bulb_connector_wrepair_harness",
+                "/13-body_trim_lighting/11701-headlight_bulb",
+                "/13-body_trim_lighting/13841-headlight_bulb_xenon",
+                "/13-body_trim_lighting/49406-headlight_halo_ring_bulb",
+                "/13-body_trim_lighting/11717-multi_purpose_halogen_bulb",
+                "/13-body_trim_lighting/11718-multi_purpose_light_bulb",
+                "/13-body_trim_lighting/12979-multi_purpose_light_bulb_kit",
+                "/13-body_trim_lighting/13677-parking_light_bulb",
+                "/13-body_trim_lighting/21249-parking_light_bulb_socket",
+                "/13-body_trim_lighting/13676-side_marker_light_bulb",
+                "/13-body_trim_lighting/13662-tail_light_bulb",
+                "/13-body_trim_lighting/10352-trunk_or_cargo_area_light",
+                "/13-body_trim_lighting/10349-turn_signal_indicator_light"
+            ]
+        }
+    ],
+    "Manual Transmission": [
+        {
+            "Assembly": [
+                
+            ],
+            "Bearings": [
+                "/15-clutch_parts/8060-clutch_fork_bearing",
+                "/15-clutch_parts/1964-clutch_pilot_bearing",
+                "/15-clutch_parts/1968-clutch_releasethrowout_bearing",
+                "/33-transmissiontransaxle_system/8084-manual_trans_main_shaft_bearing",
+                "/33-transmissiontransaxle_system/8096-manual_trans_pinion_bearing"
+            ],
+            "Bell Housing": [
+                "/33-transmissiontransaxle_system/46159-manual_transmission_bellhousing_bolt"
+            ],
+            "Clutch Disc": [
+                "/15-clutch_parts/10605-clutch_friction_disc"
+            ],
+            "Clutch Kit": [
+                "/15-clutch_parts/1993-clutch_kit"
+            ],
+            "Clutch Master Cylinder": [
+                "/15-clutch_parts/50793-clutch_master_cylinder_pin",
+                "/15-clutch_parts/1996-clutch_master_cylinder"
+            ],
+            "Clutch Pressure Plate": [
+                "/15-clutch_parts/11026-clutch_pressure_plate_bolt"
+            ],
+            "Clutch Release": [
+                "/15-clutch_parts/1992-clutch_fork",
+                "/15-clutch_parts/8060-clutch_fork_bearing",
+                "/15-clutch_parts/13236-clutch_fork_kit",
+                "/15-clutch_parts/11018-clutch_fork_shaft",
+                "/15-clutch_parts/2053-clutch_fork_shaft_seal",
+                "/15-clutch_parts/12828-clutch_release_arm_bushing",
+                "/15-clutch_parts/13204-clutch_release_arm_retainer",
+                "/15-clutch_parts/12261-clutch_release_bearing_guide_tube",
+                "/15-clutch_parts/13206-clutch_release_bearing_guide_tube_bolt",
+                "/15-clutch_parts/11038-clutch_release_bearing_seal",
+                "/15-clutch_parts/1968-clutch_releasethrowout_bearing"
+            ],
+            "Clutch Slave Cylinder": [
+                "/15-clutch_parts/2044-clutch_slave_cylinder"
+            ],
+            "Countershaft": [
+
+            ],
+            "Crossmember": [
+                
+            ],
+            "Differential": [
+
+            ],
+            "Electrical": [
+                "/18-electrical_vacuum/4584-neutral_safety_switch",
+                "/18-electrical_vacuum/12514-transmission_ground_strap",
+                "/33-transmissiontransaxle_system/16116-shift_interlock_solenoid"
+            ],
+            "Fluid": [
+                
+            ],
+            "Flywheel": [
+                "/15-clutch_parts/5348-flywheel",
+                "/15-clutch_parts/5352-flywheel_bolt",
+                "/15-clutch_parts/5356-flywheel_oringseal",
+                "/15-clutch_parts/5360-flywheel_ring_gear"
+            ],
+            "Gaskets": [
+                "/33-transmissiontransaxle_system/12967-manual_trans_case_gasket",
+                "/33-transmissiontransaxle_system/10595-manual_trans_gasket_set"
+            ],
+            "Hardware": [
+                "/15-clutch_parts/2010-clutch_pivot_ball",
+                "/15-clutch_parts/11032-clutch_release_arm_spring",
+                "/15-clutch_parts/2052-clutch_spring",
+                "/15-clutch_parts/23471-manual_trans_shift_shaft_cclip",
+                "/33-transmissiontransaxle_system/20985-manual_trans_shift_rod_clip",
+                "/33-transmissiontransaxle_system/16362-manual_trans_shift_rod_connector",
+                "/33-transmissiontransaxle_system/46159-manual_transmission_bellhousing_bolt",
+                "/33-transmissiontransaxle_system/12631-manual_trans_lock_nut"
+            ],
+            "Input Shaft": [
+
+            ],
+            "Intermediate Plate": [
+                
+            ],
+            "Lines": [
+                "/15-clutch_parts/10745-clutch_hydraulic_line"
+            ],
+            "Main Shaft": [
+                "/33-transmissiontransaxle_system/8084-manual_trans_main_shaft_bearing",
+                "/33-transmissiontransaxle_system/8792-manual_trans_main_shaft_seal"
+            ],
+            "Mount": [
+                "/33-transmissiontransaxle_system/8756-manual_trans_transmission_mount"
+            ],
+            "Output Shaft": [
+                
+            ],
+            "Performance": [
+
+            ],
+            "Plug": [
+                "/33-transmissiontransaxle_system/12627-manual_trans_drain_plug"
+            ],
+            "Seal": [
+                "/33-transmissiontransaxle_system/13086-manual_trans_shift_linkage_seal",
+                "/33-transmissiontransaxle_system/8792-manual_trans_main_shaft_seal",
+                "/33-transmissiontransaxle_system/8808-manual_trans_shift_shaft_seal"
+            ],
+            "Service": [
+                
+            ],
+            "Shifter": [
+                "/33-transmissiontransaxle_system/12975-manual_trans_shift_ball_joint",
+                "/33-transmissiontransaxle_system/11064-manual_trans_shift_bushing",
+                "/33-transmissiontransaxle_system/11077-manual_trans_shift_lever_bushing",
+                "/33-transmissiontransaxle_system/13086-manual_trans_shift_linkage_seal",
+                "/33-transmissiontransaxle_system/20985-manual_trans_shift_rod_clip",
+                "/33-transmissiontransaxle_system/16362-manual_trans_shift_rod_connector",
+                "/33-transmissiontransaxle_system/11079-manual_trans_shift_linkage_boot",
+                "/33-transmissiontransaxle_system/16116-shift_interlock_solenoid",
+                "/33-transmissiontransaxle_system/8808-manual_trans_shift_shaft_seal",
+                "/33-transmissiontransaxle_system/10044-manual_trans_shifter_linkage"
+            ],
+            "Synchro": [
+                "/33-transmissiontransaxle_system/11090-manual_trans_synchro_ring"
+            ],
+            "Tools": [
+
+            ]
+        }
+    ],
+    "Steering": [
+        {
+            "Power Steering Cooler": [
+                "/26-steering_system/11350-power_steering_cooler"
+            ],
+            "Power Steering Fluid": [
+                "/26-steering_system/11395-power_steering_fluid",
+                "/27-suspension_system/12144-hydraulic_system_fluid"
+            ],
+            "Power Steering Lines": [
+                "/26-steering_system/15735-power_steering_hose",
+                "/26-steering_system/12750-power_steering_hose_banjo_bolt",
+                "/26-steering_system/17695-power_steering_hose_clamp",
+                "/26-steering_system/7320-power_steering_pressure_hose",
+                "/26-steering_system/7323-power_steering_reservoir_line_hose",
+                "/26-steering_system/7324-power_steering_return_hose"
+            ],
+            "Power Steering Pump": [
+                "/26-steering_system/12663-power_steering_pump_bracket",
+                "/26-steering_system/10586-power_steering_pump_pulley",
+                "/26-steering_system/7380-power_steering_pump"
+            ],
+            "Power Steering Reservoir": [
+                "/26-steering_system/19538-power_steering_pump_reservoir_bracket",
+                "/26-steering_system/7378-power_steering_reservoir",
+                "/26-steering_system/7274-power_steering_reservoir_cap",
+                "/26-steering_system/12665-power_steering_reservoir_cap_seal",
+                "/26-steering_system/11359-power_steering_reservoir_gasket"
+            ],
+            "Steering Column": [
+                "/26-steering_system/19550-steering_column_bolt",
+                "/26-steering_system/13080-steering_column_switch_housing",
+                "/26-steering_system/46338-steering_shaft_bolt",
+                "/26-steering_system/13584-steering_shaft_universal_joint",
+                "/26-steering_system/46324-steering_column_bracket",
+                "/26-steering_system/19279-steering_column_control_unit",
+                "/26-steering_system/7348-steering_column_shaft_seal",
+                "/26-steering_system/47288-steering_gear_dust_shield",
+                "/26-steering_system/13023-tilt_steering_adjuster",
+                "/26-steering_system/1571-steering_column_lock",
+                "/26-steering_system/12703-steering_column_lock_bolt",
+                "/26-steering_system/12704-steering_column_lock_cover",
+                "/26-steering_system/53538-steering_column_tube_screw"
+            ],
+            "Steering Kit": [
+                
+            ],
+            "Steering Knuckle": [
+                "/26-steering_system/7496-steering_knuckle",
+                "/27-suspension_system/13014-suspension_knuckle"
+            ],
+            "Steering Rack": [
+                "/26-steering_system/7384-rack_pinion_boot_kit",
+                "/26-steering_system/7388-rack_and_pinion_complete_unit",
+                "/26-steering_system/18626-steering_coupling_boot",
+                "/26-steering_system/11362-rack_pinion_boot",
+                "/26-steering_system/14880-rack_and_pinion_inner_tie_rod_lock_washer",
+                "/26-steering_system/7392-rack_and_pinion_mount_bushing",
+                "/26-steering_system/46318-rack_and_pinion_mount_clamp",
+                "/26-steering_system/47284-rack_and_pinion_steering_pinion_shaft"
+            ],
+            "Tie Rod": [
+                "/26-steering_system/14906-tie_rod_assembly",
+                "/26-steering_system/7428-tie_rod_end",
+                "/26-steering_system/10400-tie_rod_end_assembly",
+                "/26-steering_system/16658-tie_rod",
+                "/26-steering_system/12707-tie_rod_nut"
+            ],
+            "Tools": [
+                
+            ]
+        }
+    ],
+    "Suspension": [
+        {
+            "Air Ride": [
+                "/27-suspension_system/47291-air_suspension_compressor_bracket",
+                "/27-suspension_system/51546-air_suspension_compressor_hardware_kit",
+                "/27-suspension_system/12719-suspension_air_compressor",
+                "/27-suspension_system/16156-suspension_air_compressor_line",
+                "/27-suspension_system/16634-suspension_air_spring"
+            ],
+            "Ball Joint": [
+                "/27-suspension_system/10070-ball_joint",
+                "/27-suspension_system/7536-control_arm_ball_joint_assembly",
+                "/27-suspension_system/48429-suspension_ball_joint_bolt"
+            ],
+            "Bushings": [
+                "/27-suspension_system/10948-trailing_arm_bushing",
+                "/27-suspension_system/7532-control_arm_bushing",
+                "/27-suspension_system/10489-control_arm_bushing_kit",
+                "/27-suspension_system/18708-control_arm_link_bushing",
+                "/27-suspension_system/7624-stabilizersway_bar_bushing"
+            ],
+            "Camber Kit": [
+                "/26-steering_system/10432-alignment_camber_adjusting_eccentrics",
+                "/27-suspension_system/51532-alignment_camber_adjusting_eccentric_nut",
+                "/27-suspension_system/51531-alignment_camber_adjusting_eccentric_bolt"
+            ],
+            "Coilovers": [
+            
+            ],
+            "Control Arm": [
+                "/27-suspension_system/10401-control_arm",
+                "/27-suspension_system/7536-control_arm_ball_joint_assembly",
+                "/27-suspension_system/10901-control_arm_bolt",
+                "/27-suspension_system/7532-control_arm_bushing",
+                "/27-suspension_system/10489-control_arm_bushing_kit",
+                "/27-suspension_system/7504-trailing_arm",
+                "/27-suspension_system/10948-trailing_arm_bushing",
+                "/27-suspension_system/15194-control_arm_cover",
+                "/27-suspension_system/10407-control_arm_link",
+                "/27-suspension_system/18708-control_arm_link_bushing",
+                "/27-suspension_system/13067-control_arm_nut",
+                "/27-suspension_system/10916-guide_rod"
+            ],
+            "Cup Kit": [
+            
+            ],
+            "Chassis Reinforcement": [
+                "/27-suspension_system/12734-subframe_reinforcement_bracket",
+                "/27-suspension_system/19554-suspension_crossmember_insulator",
+                "/27-suspension_system/19834-suspension_crossmember_stopper"
+            ],
+            "Electrical": [
+                "/27-suspension_system/13651-chassis_control_module",
+                "/27-suspension_system/10744-suspension_yaw_sensor",
+                "/27-suspension_system/51519-active_suspension_control_module_bracket"
+            ],
+            "End Links": [
+                "/27-suspension_system/10737-stabilizersway_bar_link"
+            ],
+            "Shocks": [
+                "/27-suspension_system/49811-jounce_bumper_support",
+                "/27-suspension_system/7556-shock_absorber",
+                "/27-suspension_system/7572-shock_absorber_mount",
+                "/27-suspension_system/17772-shock_absorber_mount_kit",
+                "/27-suspension_system/7564-shock_bumper",
+                "/27-suspension_system/13001-shock_mount_gasket",
+                "/27-suspension_system/12728-shockstrut_protection_boot",
+                "/27-suspension_system/10884-shock_absorber_bellows",
+                "/27-suspension_system/51524-shock_mount_bracket",
+                "/27-suspension_system/10887-shock_mount_insulator",
+                "/27-suspension_system/10889-shock_mount_washer"
+            ],
+            "Springs": [
+                "/27-suspension_system/7512-coil_spring",
+                "/27-suspension_system/7520-coil_spring_insulator",
+                "/27-suspension_system/11379-coil_spring_retainer",
+                "/27-suspension_system/10444-coil_spring_seat",
+                "/27-suspension_system/11380-coil_spring_set"
+            ],
+            "Strut Brace": [
+                "/27-suspension_system/10936-strut_brace"
+            ],
+            "Strut Mount": [
+                "/27-suspension_system/7584-strut_assembly",
+                "/27-suspension_system/7588-strut_bumper",
+                "/27-suspension_system/7600-strut_mount",
+                "/27-suspension_system/10939-strut_mount_bushing",
+                "/27-suspension_system/46351-suspension_strut_bracket",
+                "/27-suspension_system/16993-strut_mount_bracket",
+                "/27-suspension_system/12732-strut_mount_reinforcement",
+                "/27-suspension_system/7592-strut_bellow",
+                "/27-suspension_system/55744-suspension_shock_strut_mount_bushing_washer"
+            ],
+            "Subframe": [
+                "/27-suspension_system/10944-subframe_mount",
+                "/27-suspension_system/12734-subframe_reinforcement_bracket",
+                "/27-suspension_system/19554-suspension_crossmember_insulator",
+                "/27-suspension_system/19834-suspension_crossmember_stopper"
+            ],
+            "Suspension Kit": [
+                "/27-suspension_system/10922-suspension_kit"
+            ],
+            "Sway Bar": [
+                "/27-suspension_system/10932-stabilizersway_bar_bracket",
+                "/27-suspension_system/7624-stabilizersway_bar_bushing",
+                "/27-suspension_system/7580-stabilizersway_bar_link_kit",
+                "/27-suspension_system/7500-track_bar"
+            ],
+            "Tools": [
+                "/27-suspension_system/10920-suspension_installation_kit",
+                "/99-tools_shop_supplies/16132-control_arm_bushing_tool",
+                "/99-tools_shop_supplies/12202-ball_joint_tool"
+            ]
+        }
+    ],
+    "Transfer Case": [
+        {
+            "Bearings": [
+
+            ],
+            "Carrier": [
+                "/17-drivetrain_parts/19443-transfer_case_actuator"
+            ],
+            "Fluid": [
+
+            ],
+            "Input Shaft": [
+
+            ],
+            "Output Shaft": [
+
+            ],
+            "Seal": [
+                "/17-drivetrain_parts/18564-transfer_case_actuator_seal"
+            ]
+        }
+    ],
+    "Wheels & Tires": [
+        {
+            "Aftermarket Wheels": [
+            
+            ],
+            "Center Cap": [
+                "/14-brake_wheel_hub/10061-wheel_cap",
+                "/14-brake_wheel_hub/10950-wheel_center_capemblem"
+            ],
+            "Equipment": [
+            
+            ],
+            "Hub Adapter": [
+            
+            ],
+            "Hubcentric Ring": [
+            
+            ],
+            "Lug Bolt-Stud-Nut": [
+                "/14-brake_wheel_hub/10954-wheel_lug_bolt"
+            ],
+            "OEM Wheels": [
+            
+            ],
+            "Paint": [
+            
+            ],
+            "Repair": [
+            
+            ],
+            "Sensor": [
+            
+            ],
+            "Spacer": [
+            
+            ],
+            "Sticker": [
+            
+            ],
+            "Stud Conversion": [
+            
+            ],
+            "Tires": [
+                
+            ],
+            "Tools": [
+                "/14-brake_wheel_hub/49178-tire_sealant_and_air_compressor_kit",
+                "/14-brake_wheel_hub/56754-wheel_lock_key",
+                "/99-tools_shop_supplies/16946-wheel_lock_removal_kit",
+                "/99-tools_shop_supplies/56031-wheel_lug_bolt_hole_alignment_tool",
+                "/99-tools_shop_supplies/16937-wheel_lug_nut_socket"
+            ],
+            "Valve Stem": [
+                "/14-brake_wheel_hub/14503-tire_pressure_monitoring_system_tpms_valve",
+                "/14-brake_wheel_hub/48427-tire_pressure_monitoring_system_valve_stem_cap",
+                "/14-brake_wheel_hub/10262-tire_valve_stem_cap"
+            ],
+            "Wheel Lock": [
+                "/14-brake_wheel_hub/56754-wheel_lock_key",
+                "/14-brake_wheel_hub/16214-wheel_lock_set",
+                "/99-tools_shop_supplies/16946-wheel_lock_removal_kit"
+            ],
+            "Wheel & Tire Package": [
+            
+            ]
+        }
+    ]
+}

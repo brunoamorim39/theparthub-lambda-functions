@@ -1,0 +1,6635 @@
+{
+    "Audi": [
+        {
+            "80": [
+                {
+                    "B1": [
+                        "/Audi-80-FWD-4cyl",
+                        "/Audi-80-FWD-5cyl",
+                        "/Audi-80-Quattro-5cyl"
+                    ],
+                    "B2": [
+                        "/Audi-80-FWD-4cyl",
+                        "/Audi-80-FWD-5cyl",
+                        "/Audi-80-Quattro-5cyl"
+                    ],
+                    "B3": [
+                        "/Audi-80-FWD-4cyl",
+                        "/Audi-80-FWD-5cyl",
+                        "/Audi-80-Quattro-5cyl"
+                    ],
+                    "B4": [
+                        "/Audi-80-FWD-4cyl",
+                        "/Audi-80-FWD-5cyl",
+                        "/Audi-80-Quattro-5cyl"
+                    ]
+                }
+            ],
+            "90": [
+                {
+                    "B1": [
+                        "/Audi-90-FWD-10v",
+                        "/Audi-90-FWD-20v",
+                        "/Audi-90-Quattro-20v",
+                        "/Audi-90-FWD-V6",
+                        "/Audi-90-Quattro-V6"
+                    ],
+                    "B2": [
+                        "/Audi-90-FWD-10v",
+                        "/Audi-90-FWD-20v",
+                        "/Audi-90-Quattro-20v",
+                        "/Audi-90-FWD-V6",
+                        "/Audi-90-Quattro-V6"
+                    ],
+                    "B3": [
+                        "/Audi-90-FWD-10v",
+                        "/Audi-90-FWD-20v",
+                        "/Audi-90-Quattro-20v",
+                        "/Audi-90-FWD-V6",
+                        "/Audi-90-Quattro-V6"
+                    ],
+                    "B4": [
+                        "/Audi-90-FWD-10v",
+                        "/Audi-90-FWD-20v",
+                        "/Audi-90-Quattro-20v",
+                        "/Audi-90-FWD-V6",
+                        "/Audi-90-Quattro-V6"
+                    ]
+                }
+            ],
+            "4000": [
+                {
+                    "B1": [
+
+                    ],
+                    "B2": [
+
+                    ],
+                    "B3": [
+
+                    ],
+                    "B4": [
+
+                    ]
+                }
+            ],
+            "100": [
+                {
+                    "C1": [
+
+                    ],
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/Audi-100-FWD-5cyl",
+                        "/Audi-100-Quattro-5cyl"
+                    ],
+                    "C4": [
+                        "/Audi-100-FWD-V6",
+                        "/Audi-100-Quattro-V6"
+                    ]
+                }
+            ],
+            "200": [
+                {
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/Audi-200-Quattro-10v_T",
+                        "/Audi-200-Quattro-20v_T"
+                    ]
+                }
+            ],
+            "5000": [
+                {
+                    "C2": [
+
+                    ],
+                    "C3": [
+                        "/Audi-5000-Quattro-10v",
+                        "/Audi-5000-Quattro-10v_T"
+                    ]
+                }
+            ],
+            "A3": [
+                {
+                    "8P": [
+                        "/Audi-A3-FWD-2.0T",
+                        "/Audi-A3-FWD-TDI",
+                        "/Audi-A3-Quattro-V6_3.2L"
+                    ],
+                    "8V": [
+                        "/Audi-A3_8V-FWD-1.4_e_tron",
+                        "/Audi-A3_8V-FWD-1.8T",
+                        "/Audi-A3_8V-FWD-2.0T",
+                        "/Audi-A3_8V-Quattro-2.0T",
+                        "/Audi-A3_8V-FWD-TDI"
+                    ]
+                }
+            ], 
+            "A4": [
+                {
+                    "B5": [
+                        "/Audi-B5_A4-FWD-1.8T",
+                        "/Audi-B5_A4-Quattro-1.8T",
+                        "/Audi-B5_A4-FWD-V6_12v",
+                        "/Audi-B5_A4-Quattro-V6_12v",
+                        "/Audi-B5_A4-FWD-V6_30v",
+                        "/Audi-B5_A4-Quattro-V6_30v"
+                    ],
+                    "B6": [
+                        "/Audi-B6_A4-FWD-1.8T",
+                        "/Audi-B6_A4-Quattro-1.8T",
+                        "/Audi-B6_A4-FWD-V6_30v",
+                        "/Audi-B6_A4-Quattro-V6_30v"
+                    ],
+                    "B7": [
+                        "/Audi-B7_A4-FWD-2.0T",
+                        "/Audi-B7_A4-Quattro-2.0T",
+                        "/Audi-B7_A4-Quattro-V6_3.2L"
+                    ],
+                    "B8": [
+                        "/Audi-B8_A4-FWD-2.0T",
+                        "/Audi-B8_A4-Quattro-2.0T",
+                        "/Audi-B8_A4-Quattro-V6_3.2L"
+                    ],
+                    "B9": [
+                        "/Audi-B9_A4-FWD-2.0T",
+                        "/Audi-B9_A4-Quattro-2.0T"
+                    ]
+                }
+            ],
+            "A5": [
+                {
+                    "B8": [
+                        "/Audi-B8_A5-Quattro-2.0T",
+                        "/Audi-B8_A5-Quattro-V6_3.2L"
+                    ],
+                    "B9": [
+                        "/Audi-B9_A5-Quattro-2.0T_Cabriolet",
+                        "/Audi-B9_A5-Quattro-2.0T_Sportback",
+                        "/Audi-B9_A5-Quattro-2.0T_Coupe"                        
+                    ]
+                }
+            ],
+            "A6": [
+                {
+                    "C4": [
+                        "/Audi-C4_A6-FWD-2.8",
+                        "/Audi-C4_A6-Quattro-2.8"
+                    ],
+                    "C5": [
+                        "/Audi-C5_A6-Quattro-2.7T",
+                        "/Audi-C5_A6-Quattro-4.2",
+                        "/Audi-C5_A6-FWD-V6_2.8L",
+                        "/Audi-C5_A6-Quattro-V6_2.8L",
+                        "/Audi-C5_A6-FWD-V6_3.0L",
+                        "/Audi-C5_A6-Quattro-V6_3.0L"
+                    ],
+                    "C6": [
+                        "/Audi-C6_A6--V6_3.0T",
+                        "/Audi-C6_A6-FWD-V6_3.2L",
+                        "/Audi-C6_A6-Quattro-V6_3.2L",
+                        "/Audi-C6_A6-Quattro-V8_4.2L"
+                    ],
+                    "C7": [
+                        "/Audi-C7_A6-FWD-2.0T",
+                        "/Audi-C7_A6-Quattro-2.0T",
+                        "/Audi-C7_A6-Quattro-3.0_TDI",
+                        "/Audi-C7_A6-FWD-V6_3.0T",
+                        "/Audi-C7_A6-Quattro-V6_3.0T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_A6-Quattro-2.0T",
+                        "/Audi-C8_A6-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "A7": [
+                {
+                    "C7": [
+                        "/Audi-A7-C7-3.0_TDI",
+                        "/Audi-A7-C7-3.0T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_A7-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "A8": [
+                {
+                    "D2": [
+                        "/Audi-D2_A8-FWD-3.7",
+                        "/Audi-D2_A8-Quattro-3.7"
+                    ],
+                    "D3": [
+                        "/Audi-D3_A8-Quattro-4.2",
+                        "/Audi-D3_A8-Quattro-W12"
+                    ],
+                    "D4": [
+                        "/Audi-D4_A8-Quattro-3.0_TDI",
+                        "/Audi-D4_A8-Quattro-3.0T",
+                        "/Audi-D4_A8-Quattro-4.0T",
+                        "/Audi-D4_A8--4.2",
+                        "/Audi-A8-D4-W12"
+                    ],
+                    "D5": [
+                        "/Audi-D5_A8-Quattro-3.0T",
+                        "/Audi-D5_A8-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "A4 Allroad": [
+                {
+                    "B8": [
+                        "/Audi-B8_Allroad-Quattro-2.0T"
+                    ],
+                    "B9": [
+                        "/Audi-B9_Allroad-Quattro-2.0T"
+                    ]
+                }
+            ],
+            "A6 Allroad": [
+                {
+                    "C5": [
+                        "/Audi-C5_Allroad-Quattro-2.7T",
+                        "/Audi-C5_Allroad-Quattro-4.2"
+                    ],
+                    "C8": [
+                        "/Audi-C8_Allroad-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "Q3": [
+                {
+                    "8U": [
+                        "/Audi-Q3-FWD-2.0T",
+                        "/Audi-Q3-Quattro-2.0T"
+                    ],
+                    "F3": [
+                        "/Audi-F3_Q3-Quattro-2.0T"
+                    ]
+                }
+            ],
+            "Q5": [
+                {
+                    "B8": [
+                        "/Audi-Q5-Quattro-2.0T",
+                        "/Audi-Q5-Quattro-3.0_TDI",
+                        "/Audi-Q5--3.0T",
+                        "/Audi-Q5-Quattro-3.2L"
+                    ],
+                    "B9": [
+                        "/Audi-B9_Q5-Quattro-2.0T"
+                    ]
+                }
+            ],
+            "Q7": [
+                {
+                    "4L": [
+                        "/Audi-Q7--3.0T",
+                        "/Audi-Q7--3.6L",
+                        "/Audi-Q7--TDI",
+                        "/Audi-Q7--V8"
+                    ],
+                    "4M": [
+                        "/Audi-4M_Q7-Quattro-2.0T",
+                        "/Audi-4M_Q7-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "Q8": [
+                {
+                    "4M": [
+                        "/Audi-4M_Q8-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "R8": [
+                {
+                    "MK1": [
+                        "/Audi-MK1_R8-Quattro-V10_5.2L",
+                        "/Audi-MK1_R8-Quattro-V8_4.2L"
+                    ],
+                    "MK2": [
+                        "/Audi-MK2_R8-Quattro_Coupe-V10_5.2L",
+                        "/Audi-MK2_R8-Quattro_Spyder-V10_5.2L",
+                        "/Audi-MK2_R8-Quattro_Coupe-V10_Plus"
+                    ]
+                }
+            ],
+            "RS Q8": [
+                {
+                    "4M": [
+                        "/Audi-4M_RS_Q8-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "RS3": [
+                {
+                    "8V": [
+                        "/Audi-RS3-8V_2018_present-2.5T"
+                    ]
+                }
+            ],
+            "RS4": [
+                {
+                    "B7": [
+                        "/Audi-B7_RS4--V8"
+                    ]
+                }
+            ],
+            "RS5": [
+                {
+                    "B8": [
+                        "/Audi-B8_RS5--4.2L"
+                    ],
+                    "B9": [
+                        "/Audi-B9_RS5-Quattro-2.9T"
+                    ]
+                }
+            ],
+            "RS6": [
+                {
+                    "C5": [
+                        "/Audi-RS6--4.2T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_RS_6-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "RS7": [
+                {
+                    "C7": [
+                        "/Audi-RS7--4.0T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_RS_7-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "S3": [
+                {
+                    "8P": [
+
+                    ],
+                    "8V": [
+                        "/Audi-8V_S3-Quattro-2.0T_Sedan"
+                    ]
+                }
+            ],
+            "S4": [
+                {
+                    "B5": [
+                        "//Audi-B5_S4--2.7T"
+                    ],
+                    "B6": [
+                        "/Audi-B6_S4--V8"
+                    ],
+                    "B7": [
+                        "/Audi-B7_S4--V8"
+                    ],
+                    "B8": [
+                        "/Audi-B8_S4-Quattro-3.0T"
+                    ],
+                    "B9": [
+                        "/Audi-B9_S4-Quattro-3.0T"
+                    ],
+                    "C4": [
+                        "/Audi-C4_S4-Quattro-20v_T"
+                    ]
+                }
+            ],
+            "S5": [
+                {
+                    "B8": [
+                        "/Audi-B8_S5-Quattro-3.0T_Cabriolet",
+                        "/Audi-B8_S5-Quattro-3.0T_Coupe",
+                        "/Audi-B8_S5-Quattro-V8_4.2L"
+                    ],
+                    "B9": [
+                        "/Audi-B9_S5-Quattro-3.0T_Cabriolet",
+                        "/Audi-B9_S5-Quattro-3.0T",
+                        "/Audi-B9_S5-Quattro-3.0T_Sportback"
+                    ]
+                }
+            ],
+            "S6": [
+                {
+                    "C4": [
+                        "/Audi-C4_S6-Quattro-20v_T"
+                    ],
+                    "C5": [
+                        "/Audi-C5_S6-Quattro-4.2"
+                    ],
+                    "C6": [
+                        "/Audi-C6_S6--V10_5.2L"
+                    ],
+                    "C7": [
+                        "/Audi-C7_S6-Quattro-4.0T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_S6-Quattro-2.9T"
+                    ]
+                }
+            ],
+            "S7": [
+                {
+                    "C7": [
+                        "/Audi-C7_S7-Quattro-4.0T"
+                    ],
+                    "C8": [
+                        "/Audi-C8_S7-Quattro-2.9T"
+                    ]
+                }
+            ],
+            "S8": [
+                {
+                    "D2": [
+                        "/Audi-D2_S8-Quattro-D2_4.2L"
+                    ],
+                    "D3": [
+                        "/Audi-D3_S8-Quattro-D3_V10"
+                    ],
+                    "D4": [
+                        "/Audi-D4_S8-Quattro-4.0T"
+                    ],
+                    "D5": [
+                        "/Audi-D5_S8-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "SQ5": [
+                {
+                    "B8": [
+                        "/Audi-B8_SQ5--3.0T"
+                    ],
+                    "B9": [
+                        "/Audi-B9_SQ5-Quattro-3.0T"
+                    ]
+                }
+            ],
+            "SQ7": [
+                {
+                    "4M": [
+                        "/Audi-4M_SQ7-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "SQ8": [
+                {
+                    "4M": [
+                        "/Audi-4M_SQ8-Quattro-4.0T"
+                    ]
+                }
+            ],
+            "TT": [
+                {
+                    "MK1": [
+                        "/Audi-TT_MKI-FWD-180HP",
+                        "/Audi-TT_MKI-Quattro-180HP",
+                        "/Audi-TT_MKI-Quattro-225HP",
+                        "/Audi-TT_MKI-Quattro-3.2L"
+                    ],
+                    "MK2": [
+                        "/Audi-TT_MKII-FWD-2.0T",
+                        "/Audi-TT_MKII-Quattro-2.0T",
+                        "/Audi-TT_MKII-Quattro-3.2L"
+                    ],
+                    "MK3": [
+                        "/Audi-MK3_TT_2014_present-Quattro-2.0T"
+                    ]
+                }
+            ],
+            "TTRS": [
+                {
+                    "MK2": [
+                        "/Audi-8J_TTRS-Quattro-2.5T"
+                    ],
+                    "MK3": [
+                        "/Audi-8S_TTRS-Quattro-2.5T"
+                    ]
+                }
+            ],
+            "TTS": [
+                {
+                    "MK2": [
+                        "/Audi-TTS-MK2_2006_2013-2.0T"
+                    ],
+                    "MK3": [
+                        "/Audi-TTS-MK3_2014_present-2.0T"
+                    ]
+                }
+            ]
+        }
+    ],
+    "BMW": [
+        {
+            "128i": [
+                {
+                    "E8X": [
+                        "/BMW-E82-128i-N52_3.0L",
+                        "/BMW-E88-128i-N52_3.0L"
+                    ]
+                }
+            ],
+            "135i": [
+                {
+                    "E8X": [
+                        "/BMW-E82-135i-N54_3.0L",
+                        "/BMW-E82-135i-N55_3.0L",
+                        "/BMW-E88-135i-N54_3.0L",
+                        "/BMW-E88-135i-N55_3.0L"
+                    ]
+                }
+            ],
+            "228i": [
+                {
+                    "F2X": [
+                        "/BMW-F22-228i-N20_2.0L",
+                        "/BMW-F23-228i-N20_2.0L"
+                    ],
+                    "F44": [
+                        
+                    ]
+                }
+            ],
+            "228i xDrive": [
+                {
+                    "F2X": [
+                        "/BMW-F22-228i_xDrive-N20_2.0L",
+                        "/BMW-F23-228i_xDrive-N20_2.0L"
+                    ],
+                    "F44": [
+                        "/BMW-F44-228i_xDrive-B46_2.0L"
+                    ]
+                }
+            ],
+            "230i": [
+                {
+                    "F2X": [
+                        "/BMW-F22-230i-B46_2.0L",
+                        "/BMW-F23-230i-B46_2.0L"
+                    ]
+                }
+            ],
+            "230i xDrive": [
+                {
+                    "F2X": [
+                        "/BMW-F22-230i_xDrive-B46_2.0L",
+                        "/BMW-F23-230i_xDrive-B46_2.0L"
+                    ]
+                }
+            ],
+            "318i": [
+                {
+                    "E30": [
+                        "/BMW-E30-318i-M10_1.8L",
+                        "/BMW-E30-318i-M42_1.8L"
+                    ],
+                    "E36": [
+                        "/BMW-E36-318i-M42_1.8L"
+                    ]
+                } 
+            ],
+            "318ic": [
+                {
+                    "E36": [
+                        "/BMW-E36-318ic-M42_1.8L"
+                    ]
+                } 
+            ],
+            "318is": [
+                {
+                    "E30": [
+                        "/BMW-E30-318is-M42_1.8L"
+                    ],
+                    "E36": [
+                        "/BMW-E36-318is-M42_1.8L"
+                    ]
+                } 
+            ],
+            "318ti": [
+                {
+                    
+                    "E36": [
+                        "/BMW-E36-318ti-M42_1.8L",
+                        "/BMW-E36-318ti-M44_1.9L"
+                    ]
+                } 
+            ],
+            "320i": [
+                {
+                    "E21": [
+                        "/BMW-E21-320i-M10_1.8L"
+                    ],
+                    "F3X": [
+                        "/BMW-F30-320i-N20_2.0L"
+                    ]
+                } 
+            ],
+            "320i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-320i_xDrive-N20_2.0L"
+                    ]
+                } 
+            ],
+            "323Ci": [
+                {
+                    "E46": [
+                        "/BMW-E46-323Ci-M52_2.5L"
+                    ]
+                } 
+            ],
+            "323i": [
+                {
+                    "E36": [
+                        
+                    ],
+                    "E46": [
+                        "/BMW-E46-323i-M52_2.5L"
+                    ]
+                } 
+            ],
+            "323ic": [
+                {
+                    "E36": [
+                        "/BMW-E36-323ic-M52_2.5L"
+                    ]
+                } 
+            ],
+            "323is": [
+                {
+                    "E36": [
+                        "/BMW-E36-323is-M52_2.5L"
+                    ]
+                } 
+            ],
+            "325Ci": [
+                {
+                    "E46": [
+                        "/BMW-E46-325Ci-M54_2.5L"
+                    ]
+                } 
+            ],
+            "325e": [
+                {
+                    "E30": [
+                        "/BMW-E30-325e-M20_2.7L"
+                    ]
+                } 
+            ],
+            "325es": [
+                {
+                    "E30": [
+                        "/BMW-E30-325es-M20_2.7L"
+                    ]
+                } 
+            ],
+            "325i": [
+                {
+                    "E30": [
+                        "/BMW-E30-325i-M20_2.5L"
+                    ],
+                    "E36": [
+                        "/BMW-E36-325i-M50_2.5L"
+                    ],
+                    "E46": [
+                        "/BMW-E46-325i-M54_2.5L"
+                    ],
+                    "E9X": [
+                        "/BMW-E90-325i-N52_3.0L"
+                    ]
+                } 
+            ],
+            "325ic": [
+                {
+                    "E36": [
+                        "/BMW-E36-325ic-M50_2.5L"
+                    ]
+                } 
+            ],
+            "325is": [
+                {
+                    "E30": [
+                        "/BMW-E30-325is-M20_2.5L"
+                    ],
+                    "E36": [
+                        "/BMW-E36-325is-M50_2.5L"
+                    ]
+                } 
+            ],
+            "325ix": [
+                {
+                    "E30": [
+                        "/BMW-E30-325ix-M20_2.5L"
+                    ]
+                } 
+            ],
+            "325xi": [
+                {
+                    "E46": [
+                        "/BMW-E46-325xi-M54_2.5L"
+                    ],
+                    "E9X": [
+                        "/BMW-E90-325xi-N52_3.0L",
+                        "/BMW-E91-325xi-N52_3.0L"
+                    ]
+                } 
+            ],
+            "328Ci": [
+                {
+                    "E46": [
+                        "/BMW-E46-328Ci-M52_2.8L"
+                    ]
+                } 
+            ],
+            "328d": [
+                {
+                    "F3X": [
+                        "/BMW-F30-328d-N47_2.0L"
+                    ]
+                } 
+            ],
+            "328d xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-328d_xDrive-N47_2.0L"
+                    ]
+                } 
+            ],
+            "328i": [
+                {
+                    "E36": [
+                        "/BMW-E36-328i-M52_2.8L"
+                    ],
+                    "E46": [
+                        "/BMW-E46-328i-M52_2.8L"
+                    ],
+                    "E9X": [
+                        "/BMW-E93-328i-N52_3.0L",
+                        "/BMW-E92-328i-N52_3.0L",
+                        "/BMW-E91-328i-N52_3.0L",
+                        "/BMW-E90-328i-N52_3.0L"
+                    ],
+                    "F3X": [
+                        "/BMW-F30-328i-N20_2.0L"
+                    ]
+                } 
+            ],
+            "328i GT xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-328i_xDrive-N20_2.0L" 
+                    ]
+                } 
+            ],
+            "328i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-328i_xDrive-N20_2.0L"
+                    ]
+                } 
+            ],
+            "328ic": [
+                {
+                    "E36": [
+                        "/BMW-E36-328ic-M52_2.8L"
+                    ]
+                } 
+            ],
+            "328is": [
+                {
+                    "E36": [
+                        "/BMW-E36-328is-M52_2.8L"
+                    ]
+                } 
+            ],
+            "328xi": [
+                {
+                    "E46": [
+                        "/BMW-E46-328xi-M52_2.8L"
+                    ],
+                    "E9X": [
+                        "/BMW-E92-328xi-N52_3.0L",
+                        "/BMW-E91-328xi-N52_3.0L",
+                        "/BMW-E90-328xi-N52_3.0L"
+                    ]
+                } 
+            ],
+            "330Ci": [
+                {
+                    "E46": [
+                        "/BMW-E46-330Ci-M54_3.0L"
+                    ]
+                } 
+            ],
+            "330e": [
+                {
+                    "F3X": [
+                        "/BMW-F30-330e_iPerformance-B48_2.0L" 
+                    ]
+                } 
+            ],
+            "330i": [
+                {
+                    "E46": [
+                        "/BMW-E46-330i-M54_3.0L"
+                    ],
+                    "E9X": [
+                        "/BMW-E90-330i-N52_3.0L"
+                    ],
+                    "F3X": [
+                        "/BMW-F30-330i-B48_2.0L"
+                    ],
+                    "G20": [
+                        "/BMW-G20-330i-B46_2.0L"
+                    ]
+                } 
+            ],
+            "330i GT xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-330i_xDrive-B48_2.0L"
+                    ]
+                } 
+            ],
+            "330i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-330i_xDrive-B48_2.0L"
+                    ],
+                    "G20": [
+                        "/BMW-G20-330i_xDrive-B46_2.0L"
+                    ]
+                } 
+            ],
+            "330xi": [
+                {
+                    "E46": [
+                        "/BMW-E46-330xi-M54_3.0L"
+                    ],
+                    "E9X": [
+                        "/BMW-E90-330xi-N52_3.0L"
+                    ]
+                } 
+            ],
+            "335d": [
+                {
+                    "E9X": [
+                        "/BMW-E90-335d-M57_3.0L"
+                    ]
+                } 
+            ],
+            "335i": [
+                {
+                    "E9X": [
+                        "/BMW-E93-335i-N54_3.0L",
+                        "/BMW-E92-335i-N54_3.0L",
+                        "/BMW-E90-335i-N54_3.0L",
+                        "/BMW-E93-335i-N55_3.0L",
+                        "/BMW-E92-335i-N55_3.0L",
+                        "/BMW-E90-335i-N55_3.0L"
+                    ],
+                    "F3X": [
+                        "/BMW-F30-335i-N55_3.0L"
+                    ]
+                } 
+            ],
+            "335i GT xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-335i_xDrive-N55_3.0L"
+                    ]
+                } 
+            ],
+            "335i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-335i_xDrive-N55_3.0L"
+                    ]
+                } 
+            ],
+            "335is": [
+                {
+                    "E9X": [
+                        "/BMW-E93-335is-N54_3.0L",
+                        "/BMW-E92-335is-N54_3.0L"
+                    ]
+                } 
+            ],
+            "335xi": [
+                {
+                    "E9X": [
+                        "/BMW-E92-335xi-N54_3.0L",
+                        "/BMW-E90-335xi-N54_3.0L",
+                        "/BMW-E92-335xi-N55_3.0L",
+                        "/BMW-E90-335xi-N55_3.0L"
+                    ]
+                } 
+            ],
+            "340i": [
+                {
+                    "F3X": [
+                        "/BMW-F30-340i-B58_3.0L"
+                    ]
+                } 
+            ],
+            "340i GT xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-340i_xDrive-B58_3.0L"
+                    ]
+                } 
+            ],
+            "340i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F30-340i_xDrive-B58_3.0L"
+                    ]
+                } 
+            ],
+            "428i": [
+                {
+                    "F3X": [
+                        "/BMW-F32-428i-N20_2.0L",
+                        "/BMW-F33-428i-N20_2.0L",
+                        "/BMW-F36-428i-N20_2.0L"
+                    ]
+                }
+            ],
+            "428i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-428i-N20_2.0L",
+                        "/BMW-F33-428i-N20_2.0L",
+                        "/BMW-F36-428i-N20_2.0L"
+                    ]
+                }
+            ],
+            "428i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F32-428i_xDrive-N20_2.0L",
+                        "/BMW-F33-428i_xDrive-N20_2.0L",
+                        "/BMW-F36-428i_xDrive-N20_2.0L"
+                    ]
+                }
+            ],
+            "428i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-428i_xDrive-N20_2.0L",
+                        "/BMW-F33-428i_xDrive-N20_2.0L",
+                        "/BMW-F36-428i_xDrive-N20_2.0L"
+                    ]
+                }
+            ],
+            "430i": [
+                {
+                    "F3X": [
+                        "/BMW-F32-430i-B46_2.0L",
+                        "/BMW-F33-430i-B46_2.0L",
+                        "/BMW-F36-430i-B46_2.0L"
+                    ]
+                }
+            ],
+            "430i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-430i-B46_2.0L",
+                        "/BMW-F33-430i-B46_2.0L",
+                        "/BMW-F36-430i-B46_2.0L"
+                    ]
+                }
+            ],
+            "430i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F32-430i_xDrive-B46_2.0L",
+                        "/BMW-F33-430i_xDrive-B46_2.0L",
+                        "/BMW-F36-430i_xDrive-B46_2.0L"
+                    ]
+                }
+            ],
+            "430i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-430i_xDrive-B46_2.0L",
+                        "/BMW-F33-430i_xDrive-B46_2.0L",
+                        "/BMW-F36-430i_xDrive-B46_2.0L"
+                    ]
+                }
+            ],
+            "435i": [
+                {
+                    "F3X": [
+                        "/BMW-F32-435i-N55_3.0L",
+                        "/BMW-F33-435i-N55_3.0L",
+                        "/BMW-F36-435i-N55_3.0L"
+                    ]
+                }
+            ],
+            "435i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-435i-N55_3.0L",
+                        "/BMW-F33-435i-N55_3.0L",
+                        "/BMW-F36-435i-N55_3.0L"
+                    ]
+                }
+            ],
+            "435i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F32-435i_xDrive-N55_3.0L",
+                        "/BMW-F33-435i_xDrive-N55_3.0L",
+                        "/BMW-F36-435i_xDrive-N55_3.0L"
+                    ]
+                }
+            ],
+            "435i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-435i_xDrive-N55_3.0L",
+                        "/BMW-F33-435i_xDrive-N55_3.0L",
+                        "/BMW-F36-435i_xDrive-N55_3.0L"
+                    ]
+                }
+            ],
+            "440i": [
+                {
+                    "F3X": [
+                        "/BMW-F32-440i-B58_3.0L",
+                        "/BMW-F33-440i-B58_3.0L",
+                        "/BMW-F36-440i-B58_3.0L"
+                    ]
+                }
+            ],
+            "440i Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-440i-B58_3.0L",
+                        "/BMW-F33-440i-B58_3.0L",
+                        "/BMW-F36-440i-B58_3.0L"
+                    ]
+                }
+            ],
+            "440i xDrive": [
+                {
+                    "F3X": [
+                        "/BMW-F32-440i_xDrive-B58_3.0L",
+                        "/BMW-F33-440i_xDrive-B58_3.0L",
+                        "/BMW-F36-440i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "440i xDrive Gran Coupe": [
+                {
+                    "F3X": [
+                        "/BMW-F32-440i_xDrive-B58_3.0L",
+                        "/BMW-F33-440i_xDrive-B58_3.0L",
+                        "/BMW-F36-440i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "524td": [
+                {
+                    "E28": [
+                        "/BMW-E28-524td-M21_2.4L"
+                    ],
+                    "E34": [
+                        
+                    ]
+                } 
+            ],
+            "525i": [
+                {
+                    "E12": [
+                        
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E34": [
+                        "/BMW-E34-525i-M20_2.5L"
+                    ],
+                    "E39": [
+                        "/BMW-E39-525i-M54_2.5L"
+                    ],
+                    "E60": [
+                        "/BMW-E60-525i-M54_2.5L",
+                        "/BMW-E60-525i-N52_3.0L"
+                    ]
+                } 
+            ],
+            "525iT": [
+                {
+                    "E34": [
+                        "/BMW-E34-525i-M20_2.5L"
+                    ],
+                    "E39": [
+                        "/BMW-E39-525i-M54_2.5L"
+                    ]
+                } 
+            ],
+            "528e": [
+                {
+                    "E28": [
+                        "/BMW-E28-528e-M20_2.7L"
+                    ]
+                } 
+            ],
+            "528i": [
+                {
+                    "E12": [
+                        "/BMW-E12-528i-M30_2.8L"
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E39": [
+                        "/BMW-E39-528i-M52_2.8L"
+                    ],
+                    "E60": [
+                        "/BMW-E60-528i-N52_3.0L"
+                    ],
+                    "F10-07": [
+                        
+                    ]
+                } 
+            ],
+            "528i xDrive": [
+                {
+                    "E60": [
+                        "/BMW-E60-528i_xDrive-N52_3.0L"
+                    ],
+                    "F10-07": [
+                        
+                    ]
+                } 
+            ],
+            "530e": [
+                {
+                    "G30": [
+                        "/BMW-G30-530e-B48_2.0L"
+                    ]
+                } 
+            ],
+            "530e xDrive": [
+                {
+                    "G30": [
+                        "/BMW-G30-530e_xDrive-B48_2.0L"
+                    ]
+                } 
+            ],
+            "530i": [
+                {
+                    "E12": [
+                        "/BMW-E12-530i-M30_3.0L"
+                    ],
+                    "E28": [
+                        
+                    ],
+                    "E34": [
+                        "/BMW-E34-530i-M60_3.0L"
+                    ],
+                    "E39": [
+                        "/BMW-E39-530i-M54_3.0L"
+                    ],
+                    "E60": [
+                        "/BMW-E60-530i-M54_3.0L",
+                        "/BMW-E60-530i-N52_3.0L"
+                    ],
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        "/BMW-G30-530i-B48_2.0L"
+                    ]
+                } 
+            ],
+            "530i xDrive": [
+                {
+                    "E60": [
+                        "/BMW-E60-530xi-N52_3.0L",
+                        "/BMW-E61-530xi-N52_3.0L"
+                    ],
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        "/BMW-G30-530i_xDrive-B48_2.0L"
+                    ]
+                } 
+            ],
+            "533i": [
+                {
+                    "E12": [
+                        
+                    ],
+                    "E28": [
+                        "/BMW-E28-533i-M30_3.2L"
+                    ]
+                } 
+            ],
+            "535d": [
+                {
+                    "E60": [
+                        
+                    ]
+                } 
+            ],
+            "535d xDrive": [
+                {
+                    "E60": [
+                        
+                    ],
+                    "F10-07": [
+                        
+                    ]
+                } 
+            ],
+            "535i": [
+                {
+                    "E28": [
+                        "/BMW-E28-535i-M30_3.4L"
+                    ],
+                    "E34": [
+                        "/BMW-E34-535i-M30_3.4L"
+                    ],
+                    "E39": [
+                        
+                    ],
+                    "E60": [
+                        "/BMW-E60-535i-N54_3.0L",
+                        "/BMW-E60-535i-N55_3.0L"
+                    ],
+                    "F10-07": [
+                        "/BMW-F10-535i-N55_3.0L"
+                    ]
+                } 
+            ],
+            "535i GT": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-535i-N55_3.0L"
+                    ]
+                } 
+            ],
+            "535i GT xDrive": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-535i_xDrive-N55_3.0L"
+                    ]
+                } 
+            ],
+            "535i xDrive": [
+                {
+                    "E60": [
+                        "/BMW-E60-535xi-N54_3.0L",
+                        "/BMW-E61-535xi-N54_3.0L"
+                    ],
+                    "F10-07": [
+                        "/BMW-F10-535i_xDrive-N55_3.0L"
+                    ]
+                } 
+            ],
+            "540i": [
+                {
+                    "E34": [
+                        "/BMW-E34-540i-M60_4.0L"
+                    ],
+                    "E39": [
+                        "/BMW-E39-540i-M62_4.4L"
+                    ],
+                    "E60": [
+                        
+                    ],
+                    "G30": [
+                        "/BMW-G30-540i-B58_3.0L"
+                    ]
+                } 
+            ],
+            "540i xDrive": [
+                {
+                    "E60": [
+                        
+                    ],
+                    "G30": [
+                        "/BMW-G30-540i_xDrive-B58_3.0L"
+                    ]
+                } 
+            ],
+            "545i": [
+                {
+                    "E60": [
+                        "/BMW-E60-545i-N62_4.4L"
+                    ]
+                } 
+            ],
+            "550i": [
+                {
+                    "E60": [
+                        "/BMW-E60-550i-N62_4.8L"
+                    ],
+                    "F10-07": [
+                        "/BMW-F10-550i-N63_4.4L"
+                    ]
+                } 
+            ],
+            "550i GT": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-550i-N63_4.4L"
+                    ]
+                } 
+            ],
+            "550i GT xDrive": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-550i_xDrive-N63_4.4L"
+                    ]
+                } 
+            ],
+            "550i xDrive": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-550i_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "630CSi": [
+                {
+                    "E24": [
+                        "/BMW-E24-630CSi-M30_3.0L"
+                    ]
+                }
+            ],
+            "633CSi": [
+                {
+                    "E24": [
+                        "/BMW-E24-633CSi-M30_3.2L"
+                    ]
+                }
+            ],
+            "635CSi": [
+                {
+                    "E24": [
+                        "/BMW-E24-635CSi-M30_3.4L"
+                    ]
+                }
+            ],
+            "640i": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-640i-N55_3.0L",
+                        "/BMW-F12-640i-N55_3.0L",
+                        "/BMW-F13-640i-N55_3.0L"
+                    ],
+                    "G32": [
+                        
+                    ]
+                }
+            ],
+            "640i Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-640i-N55_3.0L",
+                        "/BMW-F12-640i-N55_3.0L",
+                        "/BMW-F13-640i-N55_3.0L"
+                    ]
+                }
+            ],
+            "640i xDrive": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-640i_xDrive-N55_3.0L",
+                        "/BMW-F12-640i_xDrive-N55_3.0L",
+                        "/BMW-F13-640i_xDrive-N55_3.0L"
+                    ],
+                    "G32": [
+                        "/BMW-G32-640i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "640i xDrive Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-640i_xDrive-N55_3.0L",
+                        "/BMW-F12-640i_xDrive-N55_3.0L",
+                        "/BMW-F13-640i_xDrive-N55_3.0L"
+
+                    ]
+                }
+            ],
+            "640i xDrive Gran Turismo": [
+                {
+                    "G32": [
+                        "/BMW-G32-640i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "645Ci": [
+                {
+                    "E6X": [
+                        "/BMW-E64-645Ci-N62_4.4L",
+                        "/BMW-E63-645Ci-N62_4.4L"
+                    ]
+                }
+            ],
+            "650i": [
+                {
+                    "E6X": [
+                        "/BMW-E64-650i-N62_4.8L",
+                        "/BMW-E63-650i-N62_4.8L"
+                    ],
+                    "F06-1X": [
+                        "/BMW-F06-650i-N63_4.4L",
+                        "/BMW-F12-650i-N63_4.4L",
+                        "/BMW-F13-650i-N63_4.4L"
+                    ]
+                }
+            ],
+            "650i Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-650i-N63_4.4L",
+                        "/BMW-F12-650i-N63_4.4L",
+                        "/BMW-F13-650i-N63_4.4L"
+                    ]
+                }
+            ],
+            "650i xDrive": [
+                {
+                    "E6X": [
+                        "/BMW-E64-650i-N62_4.8L",
+                        "/BMW-E63-650i-N62_4.8L"
+                    ],
+                    "F06-1X": [
+                        "/BMW-F06-650i_xDrive-N63_4.4L",
+                        "/BMW-F12-650iX-N63_4.4L",
+                        "/BMW-F13-650iX-N63_4.4L"
+                    ]
+                }
+            ],
+            "650i xDrive Gran Coupe": [
+                {
+                    "F06-1X": [
+                        "/BMW-F06-650i_xDrive-N63_4.4L",
+                        "/BMW-F12-650iX-N63_4.4L",
+                        "/BMW-F13-650iX-N63_4.4L"
+                    ]
+                }
+            ],
+            "733i": [
+                {
+                    "E23": [
+                        "/BMW-E23-733i-M30_3.2L"
+                    ]
+                }
+            ],
+            "735i": [
+                {
+                    "E23": [
+                        "/BMW-E23-735i-M30_3.4L"
+                    ],
+                    "E32": [
+                        "/BMW-E32-735i-M30_3.4L"
+                    ],
+                    "E38": [
+                        
+                    ],
+                    "E6X": [
+                        
+                    ]
+                }
+            ],
+            "735iL": [
+                {
+                    "E32": [
+                        "/BMW-E32-735iL-M30_3.4L"
+                    ],
+                    "E38": [
+                        
+                    ]
+                }
+            ],
+            "740Ld xDrive": [
+                {
+                    "F0X": [
+                        "/BMW-F02-740Ld_xDrive-N57_3.0L"
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "740Li": [
+                {
+                    "E6X": [
+                        "/BMW-E66-760Li-N73_6.0L"
+                    ],
+                    "F0X": [
+                        "/BMW-F02-740Li-N54_3.0L"
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "740e xDrive": [
+                {
+                    "G1X": [
+                        "/BMW-G11-740e_xDrive-B48_2.0L"
+                    ]
+                }
+            ],
+            "740i": [
+                {
+                    "E32": [
+                        "/BMW-E32-740i-M60_4.0L"
+                    ],
+                    "E38": [
+                        "/BMW-E38-740i-M60_4.0L",
+                        "/BMW-E38-740i-M62_4.4L"
+                    ],
+                    "E6X": [
+                        
+                    ],
+                    "F0X": [
+                        "/BMW-F01-740i-N54_3.0L"
+                    ],
+                    "G1X": [
+                        "/BMW-G11-740i-B58_3.0L"
+                    ]
+                }
+            ],
+            "740iL": [
+                {
+                    "E32": [
+                        "/BMW-E32-740iL-M60_4.0L"
+                    ],
+                    "E38": [
+                        "/BMW-E38-740iL-M60_4.0L",
+                        "/BMW-E38-740iL-M62_4.4L"
+                    ]
+                }
+            ],
+            "745Li": [
+                {
+                    "E6X": [
+                        "/BMW-E66-745Li-N62_4.4L"
+                    ]
+                }
+            ],
+            "745i": [
+                {
+                    "E23": [
+                        
+                    ],
+                    "E6X": [
+                        "/BMW-E65-745i-N62_4.4L"
+                    ]
+                }
+            ],
+            "750Li": [
+                {
+                    "E6X": [
+                        "/BMW-E66-750Li-N62_4.8L"
+                    ],
+                    "F0X": [
+                        "/BMW-F02-750Li-N63_4.4L",
+                        "/BMW-F02-750Li_xDrive-N63_4.4L"
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "750i": [
+                {
+                    "E32": [
+                        
+                    ],
+                    "E38": [
+                        
+                    ],
+                    "E6X": [
+                        "/BMW-E65-750i-N62_4.8L"
+                    ],
+                    "F0X": [
+                        "/BMW-F01-750i-N63_4.4L",
+                        "/BMW-F01-750i_xDrive-N63_4.4L"
+                    ],
+                    "G1X": [
+                        "/BMW-G11-750i-N63_4.4L",
+                        "/BMW-G11-750i_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "750iL": [
+                {
+                    "E32": [
+                        
+                    ],
+                    "E38": [
+                        "/BMW-E38-750iL-M73_5.4L"
+                    ]
+                }
+            ],
+            "760Li": [
+                {
+                    "E6X": [
+                        "/BMW-E66-760Li-N73_6.0L"
+                    ],
+                    "F0X": [
+                        "/BMW-F02-760Li-N74_6.0L"
+                    ]
+                }
+            ],
+            "760i": [
+                {
+                    "E6X": [
+                        
+                    ],
+                    "F0X": [
+                        
+                    ]
+                }
+            ],
+            "840Ci": [
+                {
+                    "E31": [
+                        "/BMW-E31-840Ci-M60_4.0L",
+                        "/BMW-E31-840Ci-M62_4.4L"
+                    ]
+                }
+            ],
+            "840i": [
+                {
+                    "G1X": [
+                        "/BMW-G14-840i-B58_3.0L",
+                        "/BMW-G14-840i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "850CSi": [
+                {
+                    "E31": [
+                        "/BMW-E31-850CSi-S70_5.6L"
+                    ]
+                }
+            ],
+            "850Ci": [
+                {
+                    "E31": [
+                        "/BMW-E31-850Ci-M70_5.0L",
+                        "/BMW-E31-850Ci-M73_5.4L"
+                    ]
+                }
+            ],
+            "850i": [
+                {
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "ActiveHybrid 3": [
+                {
+                    "F3X": [
+                        "/BMW-F30-ActiveHybrid_3-N55_3.0L"
+                    ]
+                }
+            ],
+            "ActiveHybrid 5": [
+                {
+                    "F10-07": [
+                        "/BMW-F10-ActiveHybrid_5-N55_3.0L"
+                    ]
+                }
+            ],
+            "ActiveHybrid 7": [
+                {
+                    "F0X": [
+                        "/BMW-F02-ActiveHybrid_7-N55_3.0L"
+                    ]
+                }
+            ],
+            "Alpina B7": [
+                {
+                    "E6X": [
+                        "/BMW-E65-B7_Alpina-N62_4.4L"
+                    ],
+                    "F0X": [
+                        "/BMW-F01-Alpina_B7-N63_4.4L"
+                    ],
+                    "G1X": [
+
+                    ]
+                }
+            ],
+            "Alpina B7 xDrive": [
+                {
+                    "F0X": [
+                        "/BMW-F01-Alpina_B7_xDrive-N63_4.4L"
+                    ],
+                    "G1X": [
+                        "/BMW-G11-Alpina_B7_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "Alpina B7L": [
+                {
+                    "F0X": [
+                        "/BMW-F01-Alpina_B7-N63_4.4L"
+                    ],
+                    "G1X": [
+                        
+                    ]
+                }
+            ],
+            "Alpina B7L xDrive": [
+                {
+                    "F0X": [
+                        "/BMW-F01-Alpina_B7_xDrive-N63_4.4L"
+                    ],
+                    "G1X": [
+                        "/BMW-G11-Alpina_B7_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "L7": [
+                {
+                    "E23": [
+                        "/BMW-E23-L7-M30_3.4L"
+                    ],
+                    "E38": [
+                        
+                    ]
+                }
+            ],
+            "1M Coupe": [
+                {
+                    "E82": [
+                        "/BMW-E82-1_M_Coupe-N54_3.0L"
+                    ]
+                }
+            ],
+            "M2": [
+                {
+                    "F87": [
+                        "/BMW-F87-M2-N55_3.0L",
+                        "/BMW-F87-M2_Competition-S55_3.0L"
+                    ]
+                }
+            ],
+            "M235i": [
+                {
+                    "F2X": [
+                        "/BMW-F22-M235i-N55_3.0L",
+                        "/BMW-F23-M235i-N55_3.0L"
+                    ]
+                }
+            ],
+            "M235i xDrive": [
+                {
+                    "F2X": [
+                        "/BMW-F22-M235i_xDrive-N55_3.0L",
+                        "/BMW-F23-M235i_xDrive-N55_3.0L"
+                    ],
+                    "F44": [
+                        "/BMW-F44-M235i_xDrive-B48_2.0L"
+                    ]
+                }
+            ],
+            "M240i": [
+                {
+                    "F2X": [
+                        "/BMW-F22-M240i-B58_3.0L",
+                        "/BMW-F23-M240i-B58_3.0L"
+                    ]
+                }
+            ],
+            "M240i xDrive": [
+                {
+                    "F2X": [
+                        "/BMW-F22-M240i_xDrive-B58_3.0L",
+                        "/BMW-F23-M240i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "M3": [
+                {
+                    "E30": [
+                        "/BMW-E30-M3-S14_2.3L"
+                    ],
+                    "E36": [
+                        "/BMW-E36-M3-S50_3.0L",
+                        "/BMW-E36-M3-S52_3.2L"
+                    ],
+                    "E46": [
+                        "/BMW-E46-M3-S54_3.2L"
+                    ],
+                    "E9X": [
+                        "/BMW-E93-M3-S65_4.0L",
+                        "/BMW-E92-M3-S65_4.0L",
+                        "/BMW-E90-M3-S65_4.0L"
+                    ],
+                    "F80": [
+                        "/BMW-F80-M3-S55_3.0L"
+                    ],
+                    "G80": [
+                        
+                    ]
+                }
+            ],
+            "M340i": [
+                {
+                    "G20": [
+                        "/BMW-G20-M340i-B58_3.0L"
+                    ]
+                }
+            ],
+            "M340i xDrive": [
+                {
+                    "G20": [
+                        "/BMW-G20-M340i_xDrive-B58_3.0L"
+                    ]
+                }
+            ],
+            "M4": [
+                {
+                    "F8X": [
+                        "/BMW-F82-M4-S55_3.0L",
+                        "/BMW-F83-M4-S55_3.0L"
+                    ]
+                }
+            ],
+            "M5": [
+                {
+                    "E28": [
+                        "/BMW-E28-M5-S38_3.5L"
+                    ],
+                    "E34": [
+                        "/BMW-E34-M5-S38_3.5L"
+                    ],
+                    "E39": [
+                        "/BMW-E39-M5-S62_5.0L"
+                    ],
+                    "E60": [
+                        "/BMW-E60-M5-S85_5.0L"
+                    ],
+                    "F40": [
+                        "/BMW-F10-M5-S63_4.4L"
+                    ],
+                    "F90": [
+                        "/BMW-F90-M5-S63_4.4L"
+                    ]
+                }
+            ],
+            "M550i xDrive": [
+                {
+                    "F10-07": [
+                        
+                    ],
+                    "G30": [
+                        "/BMW-G30-M550i_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "M6": [
+                {
+                    "E24": [
+                        "/BMW-E24-M6-S38_3.5L"
+                    ],
+                    "E6X": [
+                        "/BMW-E64-M6-S85_5.0L",
+                        "/BMW-E63-M6-S85_5.0L"
+                    ],
+                    "F06-1X": [
+                        "/BMW-F06-M6_Gran_Coupe-S63_4.4L",
+                        "/BMW-F12-M6-S63_4.4L",
+                        "/BMW-F13-M6-S63_4.4L"
+                    ]
+                }
+            ],
+            "M760i xDrive": [
+                {
+                    "G1X": [
+                        "/BMW-G11-M760i_xDrive-N74_6.6L"
+                    ]
+                }
+            ],
+            "M8": [
+                {
+                    "F9X": [
+                        "/BMW-F91-M8-S63_4.4L",
+                        "/BMW-F92-M8-S63_4.4L",
+                        "/BMW-F93-M8-S63_4.4L"
+                    ]
+                }
+            ],
+            "M850i xDrive": [
+                {
+                    "G1X": [
+                        "/BMW-G16-M850i_xDrive-N63_4.4L"
+                    ]
+                }
+            ],
+            "X1": [
+                {
+                    "E84": [
+                        "/BMW-E84-X1_sDrive28i-N20_2.0L",
+                        "/BMW-E84-X1_xDrive28i-N20_2.0L",
+                        "/BMW-E84-X1_xDrive35i-N55_3.0L"
+                    ],
+                    "F48": [
+                        "/BMW-F48-X1_sDrive28i-B46_2.0L",
+                        "/BMW-F48-X1_xDrive28i-B46_2.0L"
+                    ]
+                }
+            ],
+            "X2": [
+                {
+                    "F39": [
+                        "/BMW-F39-X2_M35i-B48_2.0L",
+                        "/BMW-F39-X2_sDrive28i-B48_2.0L",
+                        "/BMW-F39-X2_xDrive28i-B48_2.0L"
+                    ]
+                }
+            ],
+            "X3": [
+                {
+                    "E83": [
+                        "/BMW-E83-X3-M54_2.5L",
+                        "/BMW-E83-X3-M54_3.0L",
+                        "/BMW-E83-X3-N52_3.0L"
+                    ],
+                    "F25": [
+                        "/BMW-F25-X3_sDrive28i-N20_2.0L",
+                        "/BMW-F25-X3_xDrive28i-N20_2.0L"
+                    ],
+                    "G01": [
+                        "/BMW-G01-X3_M40i-B58_3.0L",
+                        "/BMW-G01-X3_sDrive30i-B46_2.0L",
+                        "/BMW-G01-x3_xDrive30e-B46_2.0L",
+                        "/BMW-G01-X3_xDrive30i-B46_2.0L"
+                    ]
+                }
+            ],
+            "X3 M": [
+                {
+                    "F97": [
+                        "/BMW-F97-X3_M-S58_3.0L"
+                    ]
+                }
+            ],
+            "X4": [
+                {
+                    "F26": [
+                        "/BMW-F26-X4_M40iX-N55_3.0L",
+                        "/BMW-F26-X4_xDrive28i-N20_2.0L",
+                        "/BMW-F26-X4_xDrive35i-N55_3.0L"
+                    ],
+                    "G02": [
+                        "/BMW-G02-X4_M40i-B58_3.0L",
+                        "/BMW-G02-X4_xDrive30i-B46_2.0L"
+                    ]
+                }
+            ],
+            "X4 M": [
+                {
+                    "F98": [
+                        "/BMW-F98-X4_M-S58_3.0L"
+                    ]
+                }
+            ],
+            "X5": [
+                {
+                    "E53": [
+                        "/BMW-E53-X5-M54_3.0L",
+                        "/BMW-E53-X5-M62_4.4L",
+                        "/BMW-E53-X5-N62_4.4L",
+                        "/BMW-E53-X5-M62_4.6L",
+                        "/BMW-E53-X5-N62_4.8L"
+                    ],
+                    "E70": [
+                        "/BMW-E70-X5_M-S63_4.4L",
+                        "/BMW-E70-X5_xDrive30i-N52_3.0L",
+                        "/BMW-E70-X5_xDrive35d-M57_3.0L",
+                        "/BMW-E70-X5_xDrive35i-N55_3.0L",
+                        "/BMW-E70-X5_xDrive48i-N62_4.8L",
+                        "/BMW-E70-X5_xDrive50i-N63_4.4L"
+                    ],
+                    "F15": [
+                        "/BMW-F15-X5_sDrive35i-N55_3.0L",
+                        "/BMW-F15-X5_xDrive35d-N57_3.0L",
+                        "/BMW-F15-X5_xDrive35i-N55_3.0L",
+                        "/BMW-F15-X5_xDrive40e-N20_2.0L",
+                        "/BMW-F15-X5_xDrive50i-N63_4.4L"
+                    ],
+                    "G05": [
+                        "/BMW-G05-X5_M50i-N63_4.4L",
+                        "/BMW-G05-X5_sDrive40i-B58_3.0L",
+                        "/BMW-G05-X5_xDrive40i-B58_3.0L",
+                        "/BMW-G05-X5_xDrive50i-N63_4.4L"
+                    ]
+                }
+            ],
+            "X5 M": [
+                {
+                    "F85": [
+                        "/BMW-F85-X5_M-S63_4.4L"
+                    ],
+                    "F95": [
+                        "/BMW-F95-X5_M-S63_4.4L"
+                    ]
+                }
+            ],
+            "X6": [
+                {
+                    "E71": [
+                        "/BMW-E71-X6_M-S63_4.4L",
+                        "/BMW-E71-X6_xDrive35i-N54_3.0L",
+                        "/BMW-E71-X6_xDrive35i-N55_3.0L",
+                        "/BMW-E71-X6_xDrive50i-N63_4.4L",
+                        "/BMW-E71-X6_ActiveHybrid-N63_4.4L"
+                    ],
+                    "F16": [
+                        "/BMW-F16-X6_sDrive35i-N55_3.0L",
+                        "/BMW-F16-X6_xDrive35i-N55_3.0L",
+                        "/BMW-F16-X6_xDrive50i-N63_4.4L"
+                    ],
+                    "G06": [
+                        "/BMW-G06-X6_M50i-N63_4.4L",
+                        "/BMW-G06-X6_sDrive40i-B58_3.0L",
+                        "/BMW-G06-X6_xDrive40i-B58_3.0L"
+                    ]
+                }
+            ],
+            "X6 M": [
+                {
+                    "F86": [
+                        "/BMW-F86-X6_M-S63_4.4L"
+                    ],
+                    "F96": [
+                        "/BMW-F96-X6_M-S63_4.4L"
+                    ]
+                }
+            ],
+            "X7": [
+                {
+                    "G07": [
+                        "/BMW-G07-X7_M50i-N63_4.4L",
+                        "/BMW-G07-X7_xDrive40i-B58_3.0L",
+                        "/BMW-G07-X7_xDrive50i-N63_4.4L"
+                    ]
+                }
+            ],
+            "Z3 1.8": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 1.9i": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-1.9-M44_1.9L"
+                    ]
+                }
+            ],
+            "Z3 2.0": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 2.2i": [
+                {
+                    "E36-7": [
+                        
+                    ]
+                }
+            ],
+            "Z3 2.3": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-2.3-M52_2.5L"
+                    ]
+                }
+            ],
+            "Z3 2.5": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-2.5i-M54_2.5L"
+                    ]
+                }
+            ],
+            "Z3 2.8": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-2.8-M52_2.8L"
+                    ]
+                }
+            ],
+            "Z3 3.0i": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-3.0i-M54_3.0L"
+                    ]
+                }
+            ],
+            "Z3 M": [
+                {
+                    "E36-7": [
+                        "/BMW-Z3-M_Coupe-S52_3.2L",
+                        "/BMW-Z3-M_Coupe-S54_3.2L",
+                        "/BMW-Z3-M_Roadster-S52_3.2L",
+                        "/BMW-Z3-M_Roadster-S54_3.2L"
+                    ]
+                }
+            ],
+            "Z4 2.0i": [
+                {
+                    "E8X": [
+                        
+                    ]
+                }
+            ],
+            "Z4 2.2i": [
+                {
+                    "E8X": [
+                        
+                    ]
+                }
+            ],
+            "Z4 2.5i": [
+                {
+                    "E8X": [
+                        "/BMW-Z4-2.5i-M54_2.5L"
+                    ]
+                }
+            ],
+            "Z4 3.0i": [
+                {
+                    "E8X": [
+                        "/BMW-Z4-3.0i-M54_3.0L",
+                        "/BMW-Z4-3.0i-N52_3.0L",
+                        "/BMW-Z4-3.0Si-N52_3.0L"
+                    ]
+                }
+            ],
+            "Z4 M": [
+                {
+                    "E8X": [
+                        "/BMW-Z4-M_Coupe-S54_3.2L",
+                        "/BMW-Z4-M_Roadster-S54_3.2L"
+                    ]
+                }
+                
+            ],
+            "Z4 M40i": [
+                {
+                    "G29": [
+                        "/BMW-G29-Z4_sDrive_M40i-B58_3.0L"
+                    ]
+                }
+            ],
+            "Z4 sDrive18i": [
+                {
+                    "E89": [
+                        
+                    ]
+                }
+            ],
+            "Z4 sDrive20i": [
+                {
+                    "E89": [
+                        
+                    ],
+                    "G29": [
+
+                    ]
+                }
+            ],
+            "Z4 sDrive23i": [
+                {
+                    "E89": [
+                        
+                    ]
+                }
+            ],
+            "Z4 sDrive28i": [
+                {
+                    "E89": [
+                        "/BMW-Z4-sDrive28i-N20_2.0L"
+                    ]
+                }
+            ],
+            "Z4 sDrive30i": [
+                {
+                    "E89": [
+                        "/BMW-Z4-sDrive30i-N52_3.0L"
+                    ],
+                    "G29": [
+                        "/BMW-G29-Z4_sDrive30i-B46_2.0L"
+                    ]
+                }
+            ],
+            "Z4 sDrive35i": [
+                {
+                    "E89": [
+                        "/BMW-Z4-sDrive35i-N54_3.0L"
+                    ]
+                }
+            ],
+            "Z4 sDrive35is": [
+                {
+                    "E89": [
+                        "/BMW-Z4-sDrive35is-N54_3.0L"
+                    ]
+                }
+            ],
+            "Z8": [
+                {
+                    "E52": [
+                        "/BMW-E52-Z8-S62_5.0L",
+                        "/BMW-E52-Z8_Alpina-M62_4.8L"
+                    ]
+                }
+            ]
+        }
+    ],
+    "Mercedes": [
+        {
+            "190": [
+                {
+                    "W201": [
+
+                    ]
+                }
+            ],
+            "190D": [
+                {
+                    "W201": [
+                        "/Mercedes_Benz-1988-190D-201.126-2.5-Sedan-L5_2.5L"
+                    ]
+                }
+            ],
+            "190E": [
+                {
+                    "W201": [
+                        "/Mercedes_Benz-1988-190E-201.028-2.3-Sedan-L4_2.3L",
+                        "/Mercedes_Benz-1988-190E-201.029-2.6-Sedan-L6_2.6L"
+                    ]
+                }
+            ],
+            "200": [
+                {
+                    "W115": [
+
+                    ],
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "200D": [
+                {
+                    "W115": [
+
+                    ],
+                    "W123": [
+
+                    ],
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "200E": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "220": [
+                {
+                    "W115": [
+                        "/Mercedes_Benz-1971-220-Base-L4_2.2L"
+                    ]
+                }
+            ],
+            "220D": [
+                {
+                    "W115": [
+                        "/Mercedes_Benz-1972-220D-Base-L4_2.2L"
+                    ],
+                    "W123": [
+
+                    ]
+                }
+            ],
+            "220E": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "230": [
+                {
+                    "W114": [
+                        "/Mercedes_Benz-1974-230-Base-L4_2.3L"
+                    ]
+                }
+            ],
+            "230E": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "230G": [
+                {
+                    "W460": [
+
+                    ]
+                }
+            ],
+            "230GE": [
+                {
+                    "W460": [
+
+                    ],
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "230GE 2.6 Brabus": [
+                {
+                    "W460": [
+
+                    ]
+                }
+            ],
+            "240D": [
+                {
+                    "W115": [
+                        "/Mercedes_Benz-1974-240D-Base-L4_2.4L"
+                    ],
+                    "W123": [
+                        "/Mercedes_Benz-1981-240D-123.123-Base-Sedan-L4_2.4L"
+                    ]
+                }
+            ],
+            "240GD": [
+                {
+                    "W460": [
+
+                    ]
+                }
+            ],
+            "240TD": [
+                {
+                    "W123": [
+
+                    ]
+                }
+            ],
+            "250": [
+                {
+                    "W114": [
+                        "/Mercedes_Benz-1972-250-Base-L6_2.8L"
+                    ]
+                }
+            ],
+            "250C": [
+                {
+                    "W114": [
+                        "/Mercedes_Benz-1972-250C-Base-L6_2.8L"
+                    ]
+                }
+            ],
+            "250CE": [
+                {
+                    "W114": [
+
+                    ]
+                }
+            ],
+            "250D": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "250D Turbo": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "250GD": [
+                {
+                    "W460": [
+
+                    ],
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "250GD T": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "260E": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1989-260E-124.026-Base-Sedan-L6_2.6L"
+                    ]
+                }
+            ],
+            "260SE": [
+                {
+                    "W126.2": [
+
+                    ]
+                }
+            ],
+            "280": [
+                {
+                    "W114": [
+                        "/Mercedes_Benz-1974-280-Base-L6_2.8L"
+                    ]
+                }
+            ],
+            "280C": [
+                {
+                    "W114": [
+                        "/Mercedes_Benz-1974-280C-Base-L6_2.8L"
+                    ]
+                }
+            ],
+            "280CE": [
+                {
+                    "W114": [
+
+                    ],
+                    "W123": [
+                        "/Mercedes_Benz-1979-280CE-123.053-Base-Coupe-L6_2.8L"
+                    ]
+                }
+            ],
+            "280E": [
+                {
+                    "W114": [
+
+                    ],
+                    "W123": [
+                        "/Mercedes_Benz-1979-280E-123.033-Base-Sedan-L6_2.8L"
+                    ],
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "280GE": [
+                {
+                    "W460": [
+
+                    ]
+                }
+            ],
+            "280GE AMG": [
+                {
+                    "W460": [
+
+                    ]
+                }
+            ],
+            "280S": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1976-280S-116.020-Base-Sedan-L6_2.8L"
+                    ],
+                    "W126.1": [
+
+                    ]
+                }
+            ],
+            "280SE": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1979-280SE-116.024-Base-Sedan-L6_2.8L"
+                    ],
+                    "W126.1": [
+
+                    ]
+                }
+            ],
+            "280SEL": [
+                {
+                    "W116": [
+
+                    ],
+                    "W126.1": [
+
+                    ]
+                }
+            ],
+            "300CD": [
+                {
+                    "W123": [
+                        "/Mercedes_Benz-1979-300CD-123.150-Base-Coupe-L5_3.0L",
+                        "/Mercedes_Benz-1979-300CD-123.153-Base-Coupe-L5_3.0L"
+                    ]
+                }
+            ],
+            "300CD Turbodiesel": [
+                {
+                    "W123": [
+
+                    ]
+                }
+            ],
+            "300D": [
+                {
+                    "W115": [
+                        "/Mercedes_Benz-1975-300D-115.114-Base-Sedan-L5_3.0L"
+                    ],
+                    "W123": [
+                        "/Mercedes_Benz-1980-300D-123.130-Base-Sedan-L5_3.0L"
+                    ],
+                    "W124": [
+                        "/Mercedes_Benz-1987-300D-124.133-Base-Sedan-L6_3.0L"
+                    ]
+                }
+            ],
+            "300D Turbo": [
+                {
+                    "W124": [
+                        
+                    ]
+                }
+            ],
+            "300D Turbodiesel": [
+                {
+                    "W123": [
+
+                    ]
+                }
+            ],
+            "300E": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1989-300E-124.030-Base-Sedan-L6_3.0L"
+                    ]
+                }
+            ],
+            "300GD": [
+                {
+                    "W460": [
+
+                    ],
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "300GE": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "300SD": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1979-300SD-116.120-Base-Sedan-L5_3.0L"
+                    ],
+                    "W126.1": [
+                        "/Mercedes_Benz-1983-300SD-126.120-Base-Sedan-L5_3.0L"
+                    ],
+                    "W140": [
+                        "/Mercedes_Benz-1992-300SD-140.134-Base-Sedan-L6_3.4L"
+                    ]
+                }
+            ],
+            "300SDL": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1986-300SDL-126.125-Base-Sedan-L6_3.0L"
+                    ]
+                }
+            ],
+            "300SE": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1988-300SE-126.024-Base-Sedan-L6_3.0L"
+                    ],
+                    "W140": [
+                        "/Mercedes_Benz-1992-300SE-140.032-Base-Sedan-L6_3.2L"
+                    ]
+                }
+            ],
+            "300SEL": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1988-300SEL-126.025-Base-Sedan-L6_3.0L"
+                    ],
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "300SL": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1991-300SL-129.061-Base-Convertible-L6_3.0L"
+                    ]
+                }
+            ],
+            "300TD": [
+                {
+                    "W123": [
+                        "/Mercedes_Benz-1983-300TD-123.193-Base-Wagon-L5_3.0L"
+                    ]
+                }
+            ],
+            "300TD Turbodiesel": [
+                {
+                    "W123": [
+
+                    ]
+                }
+            ],
+            "320E": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1994-E320-124.066-Base-Convertible-L6_3.2L",
+                        "/Mercedes_Benz-1994-E320-124.052-Base-Coupe-L6_3.2L",
+                        "/Mercedes_Benz-1994-E320-124.032-Base-Sedan-L6_3.2L",
+                        "/Mercedes_Benz-1994-E320-124.092-Base-Wagon-L6_3.2L"
+                    ]
+                }
+            ],
+            "320SL": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1997-SL320-129.063-Base-Convertible-L6_3.2L"
+                    ]
+                }
+            ],
+            "350SD": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1991-350SD-126.134-Base-Sedan-L6_3.4L"
+                    ]
+                }
+            ],
+            "350SDL": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1991-350SDL-126.135-Base-Sedan-L6_3.4L"
+                    ]
+                }
+            ],
+            "350SE": [
+                {
+                    "W116": [
+
+                    ]
+                }
+            ],
+            "350SEL": [
+                {
+                    "W116": [
+
+                    ]
+                }
+            ],
+            "380SE": [
+                {
+                    "W126.1": [
+                        "/Mercedes_Benz-1984-380SE-126.032-Base-Sedan-V8_3.8L"
+                    ]
+                }
+            ],
+            "380SEC": [
+                {
+                    "W126.1": [
+                        "/Mercedes_Benz-1983-380SEC-126.043-Base-Coupe-V8_3.8L"
+                    ]
+                }
+            ],
+            "380SEL": [
+                {
+                    "W126.1": [
+                        "/Mercedes_Benz-1983-380SEL-126.033-Base-Sedan-V8_3.8L"
+                    ]
+                }
+            ],
+            "400E": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1992-400E-124.034-Base-Sedan-V8_4.2L"
+                    ]
+                }
+            ],
+            "400SE": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1992-400SE-140.042-Base-Sedan-V8_4.2L"
+                    ]
+                }
+            ],
+            "400SEL": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1993-400SEL-140.043-Base-Sedan-V8_4.2L"
+                    ]
+                }
+            ],
+            "420SE": [
+                {
+                    "W126.2": [
+
+                    ]
+                }
+            ],
+            "420SEC": [
+                {
+                    "W126.2": [
+
+                    ]
+                }
+            ],
+            "420SEL": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1988-420SEL-126.035-Base-Sedan-V8_4.2L"
+                    ]
+                }
+            ],
+            "450SE": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1976-450SE-116.032-Base-Sedan-V8_4.5L"
+                    ]
+                }
+            ],
+            "450SEL": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1977-450SEL-116.033-Base-Sedan-V8_4.5L"
+                    ]
+                }
+            ],
+            "450SEL 6.9": [
+                {
+                    "W116": [
+                        "/Mercedes_Benz-1977-450SEL-116.036-6.9-Sedan-V8_6.8L"
+                    ]
+                }
+            ],
+            "500E": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1992-500E-124.036-Base-Sedan-V8_5.0L"
+                    ]
+                }
+            ],
+            "500GE": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "500GE 6.0 AMG": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "500SE": [
+                {
+                    "W126.1": [
+
+                    ],
+                    "W126.2": [
+
+                    ],
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "500SEC": [
+                {
+                    "W126.1": [
+                        "/Mercedes_Benz-1984-500SEC-126.044-Base-Coupe-V8_5.0L"
+                    ],
+                    "W126.2": [
+
+                    ],
+                    "W140": [
+                        "/Mercedes_Benz-1993-500SEC-140.070-Base-Coupe-V8_5.0L"
+                    ]
+                }
+            ],
+            "500SEL": [
+                {
+                    "W126.1": [
+                        "/Mercedes_Benz-1984-500SEL-126.037-Base-Sedan-V8_5.0L"
+                    ],
+                    "W126.2": [
+
+                    ],
+                    "W140": [
+                        "/Mercedes_Benz-1992-500SEL-140.051-Base-Sedan-V8_5.0L"
+                    ]
+                }
+            ],
+            "500SL": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1991-500SL-129.066-Base-Convertible-V8_5.0L"
+                    ]
+                }
+            ],
+            "560SE": [
+                {
+                    "W126.2": [
+
+                    ]
+                }
+            ],
+            "560SEC": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1988-560SEC-126.045-Base-Coupe-V8_5.6L"
+                    ]
+                }
+            ],
+            "560SEL": [
+                {
+                    "W126.2": [
+                        "/Mercedes_Benz-1988-560SEL-126.039-Base-Sedan-V8_5.6L"
+                    ]
+                }
+            ],
+            "560SL": [
+                {
+                    "R107": [
+                        "/Mercedes_Benz-1988-560SL-107.048-Base-Convertible-V8_5.6L"
+                    ]
+                }
+            ],
+            "600SE": [
+                {
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "600SEC": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1993-600SEC-140.076-Base-Coupe-V12_6.0L"
+                    ]
+                }
+            ],
+            "600SEL": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1993-600SEL-140.057-Base-Sedan-V12_6.0L"
+                    ]
+                }
+            ],
+            "600SL": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1993-600SL-129.076-Base-Convertible-V12_6.0L"
+                    ]
+                }
+            ],
+            "C160": [
+                {
+                    "W203": [
+
+                    ]
+                }
+            ],
+            "C180": [
+                {
+                    "W202": [
+
+                    ],
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ],
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C180 CDI": [
+                {
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C180 Kompressor": [
+                {
+                    "W203": [
+
+                    ],
+                    "W204.1": [
+
+                    ]
+                }
+            ],
+            "C200": [
+                {
+                    "W202": [
+
+                    ],
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ],
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C200 CDI": [
+                {
+                    "W202": [
+
+                    ],
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C200 CGI": [
+                {
+                    "W203": [
+
+                    ]
+                }
+            ],
+            "C200 Diesel": [
+                {
+                    "W202": [
+
+                    ]
+                }
+            ],
+            "C200 Kompressor": [
+                {
+                    "W202": [
+
+                    ],
+                    "W203": [
+
+                    ],
+                    "W204.1": [
+
+                    ]
+                }
+            ],
+            "C220": [
+                {
+                    "W202": [
+
+                    ]
+                }
+            ],
+            "C220 BlueTEC": [
+                {
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C220 CDI": [
+                {
+                    "W202": [
+
+                    ],
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C220 Diesel": [
+                {
+                    "W202": [
+
+                    ]
+                }
+            ],
+            "C230": [
+                {
+                    "W202": [
+                        "/Mercedes_Benz-1997-C230-202.023-Base-Sedan-L4_2.3L"
+                    ],
+                    "W203": [
+
+                    ],
+                    "W204.1": [
+
+                    ]
+                }
+            ],
+            "C230 Kompressor": [
+                {
+                    "W202": [
+
+                    ],
+                    "W203": [
+                        "/Mercedes_Benz-2005-C230-203.740-Kompressor-Coupe-L4_1.8L",
+                        "/Mercedes_Benz-2005-C230-203.040-Kompressor-Sedan-L4_1.8L"
+                    ]
+                }
+            ],
+            "C240": [
+                {
+                    "W202": [
+
+                    ],
+                    "W203": [
+                        "/Mercedes_Benz-2004-C240-203.081-4Matic-Sedan-V6_2.6L_112.916",
+                        "/Mercedes_Benz-2004-C240-203.281-4Matic-Wagon-V6_2.6L_112.916",
+                        "/Mercedes_Benz-2004-C240-203.061-Base-Sedan-V6_2.6L_112.912",
+                        "/Mercedes_Benz-2004-C240-203.261-Base-Wagon-V6_2.6L_112.912"
+                    ]
+                }
+            ],
+            "C250": [
+                {
+                    "W204.1": [
+                        "/Mercedes_Benz-2012-C250-204.347-Base-Coupe-I4_1.8L_271.860",
+                        "/Mercedes_Benz-2012-C250-204.047-Base-Sedan-I4_1.8L_271.860"
+                    ],
+                    "W204.2": [
+                        "/Mercedes_Benz-2015-C250-204.347-Base-Coupe-L4_1.8L"
+                    ],
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C250 BlueTEC": [
+                {
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C250 CDI": [
+                {
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C250 Diesel": [
+                {
+                    "W202": [
+
+                    ]
+                }
+            ],
+            "C250 Turbodiesel": [
+                {
+                    "W202": [
+
+                    ]
+                }
+            ],
+            "C280": [
+                {
+                    "W202": [
+                        "/Mercedes_Benz-1997-C280-202.028-Base-Sedan-L6_2.8L"
+                    ],
+                    "W203": [
+                        "/Mercedes_Benz-2007-C280-203.092-4Matic-Sedan-V6_3.0L_272.941",
+                        "/Mercedes_Benz-2007-C280-203.054-Luxury-Sedan-V6_3.0L_272.940"
+                    ],
+                    "W204.1": [
+
+                    ]
+                }
+            ],
+            "C300": [
+                {
+                    "W204.1": [
+                        "/Mercedes_Benz-2010-C300-204.081-4Matic_Luxury-Sedan-V6_3.0L_272.948",
+                        "/Mercedes_Benz-2010-C300-204.081-4Matic_Sport-Sedan-V6_3.0L_272.948",
+                        "/Mercedes_Benz-2010-C300-204.054-Luxury-Sedan-V6_3.0L_272.947",
+                        "/Mercedes_Benz-2010-C300-204.054-Sport-Sedan-V6_3.0L_272.947"
+                    ],
+                    "W204.2": [
+                        "/Mercedes_Benz-2013-C300-204.080-4Matic-Sedan-V6_3.5L_276.957",
+                        "/Mercedes_Benz-2013-C300-204.080-4Matic_Sport-Sedan-V6_3.5L_276.957"
+                    ],
+                    "W205": [
+                        "/Mercedes_Benz-2017-C300-205.449-4Matic-Convertible-L4_2.0L",
+                        "/Mercedes_Benz-2017-C300-205.349-4Matic-Coupe-L4_2.0L",
+                        "/Mercedes_Benz-2017-C300-205.049-4Matic-Sedan-L4_2.0L",
+                        "/Mercedes_Benz-2017-C300-205.448-Base-Convertible-L4_2.0L",
+                        "/Mercedes_Benz-2017-C300-205.348-Base-Coupe-L4_2.0L",
+                        "/Mercedes_Benz-2017-C300-205.048-Base-Sedan-L4_2.0L"
+                    ]
+                }
+            ],
+            "C300 BlueTEC Hybrid": [
+                {
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C300 CDI": [
+                {
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C32 AMG": [
+                {
+                    "W203": [
+                        "/Mercedes_Benz-2004-C32_AMG-203.065-Base-Sedan-V6_3.2L"
+                    ]
+                }
+            ],
+            "C320": [
+                {
+                    "W203": [
+                        "/Mercedes_Benz-2004-C320-203.084-4Matic-Sedan-V6_3.2L_112.946",
+                        "/Mercedes_Benz-2004-C320-203.284-4Matic-Wagon-V6_3.2L_112.946",
+                        "/Mercedes_Benz-2004-C320-203.764-Base-Coupe-V6_3.2L_112.946",
+                        "/Mercedes_Benz-2004-C320-203.064-Base-Sedan-V6_3.2L_112.946",
+                        "/Mercedes_Benz-2004-C320-203.264-Base-Wagon-V6_3.2L_112.946"
+                    ]
+                }
+            ],
+            "C320 CDI": [
+                {
+                    "W204.1": [
+
+                    ]
+                }
+            ],
+            "C350": [
+                {
+                    "W203": [
+
+                    ],
+                    "W204.1": [
+                        "/Mercedes_Benz-2011-C350-204.056-Sport-Sedan-V6_3.5L_272.961"
+                    ],
+                    "W204.2": [
+                        "/Mercedes_Benz-2013-C350-204.388-4Matic-Coupe-V6_3.5L_276.957",
+                        "/Mercedes_Benz-2013-C350-204.357-Base-Coupe-V6_3.5L_276.957",
+                        "/Mercedes_Benz-2013-C350-204.057-Sport-Sedan-V6_3.5L_276.957"
+                    ]
+                }
+            ],
+            "C350 CDI": [
+                {
+                    "W204.1": [
+
+                    ],
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C350 Hybrid": [
+                {
+                    "W205": [
+                        "/Mercedes_Benz-2018-C350e-205.047-Base-Sedan-L4_2.0L"
+                    ]
+                }
+            ],
+            "C36 AMG": [
+                {
+                    "W202": [
+                        "/Mercedes_Benz-1997-C36_AMG-202.028-Base-Sedan-L6_3.6L"
+                    ]
+                }
+            ],
+            "C400": [
+                {
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C43 AMG": [
+                {
+                    "W202": [
+
+                    ],
+                    "W205": [
+                        "/Mercedes_Benz-2018-C43_AMG-205.464-4Matic-Convertible-V6_3.0L"
+                    ]
+                }
+            ],
+            "C450 AMG": [
+                {
+                    "W205": [
+
+                    ]
+                }
+            ],
+            "C55 AMG": [
+                {
+                    "W202": [
+
+                    ],
+                    "W203": [
+
+                    ]
+                }
+            ],
+            "C63 AMG": [
+                {
+                    "W204.1": [
+                        "/Mercedes_Benz-2011-C63_AMG-204.077-Base-Sedan-V8_6.3L_156.985"
+                    ],
+                    "W204.2": [
+                        "/Mercedes_Benz-2013-C63_AMG-204.377-Base-Coupe-V8_6.3L_156.985",
+                        "/Mercedes_Benz-2013-C63_AMG-204.077-Base-Sedan-V8_6.3L_156.985"
+                    ],
+                    "W205": [
+                        "/Mercedes_Benz-2018-C63_AMG-205.386-Base-Convertible-V8_4.0L",
+                        "/Mercedes_Benz-2018-C63_AMG-205.486-Base-Coupe-V8_4.0L",
+                        "/Mercedes_Benz-2018-C63_AMG-205.086-Base-Sedan-V8_4.0L"
+                    ]
+                }
+            ],
+            "C63 AMG Coupe Black": [
+                {
+                    "W204.2": [
+
+                    ]
+                }
+            ],
+            "C63 S AMG": [
+                {
+                    "W205": [
+                        "/Mercedes_Benz-2018-C63_AMG_S-205.387-Base-Convertible-V8_4.0L",
+                        "/Mercedes_Benz-2018-C63_AMG_S-205.487-Base-Coupe-V8_4.0L",
+                        "/Mercedes_Benz-2018-C63_AMG_S-205.087-Base-Sedan-V8_4.0L"
+                    ]
+                }
+            ],
+            "CL420": [
+                {
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "CL500": [
+                {
+                    "W140": [
+
+                    ],
+                    "C215": [
+                        "/Mercedes_Benz-2002-CL500-215.375-Base-Coupe-V8_5.0L_113.960"
+                    ],
+                    "C216": [
+
+                    ]
+                }
+            ],
+            "CL550": [
+                {
+                    "C216": [
+                        "/Mercedes_Benz-2008-CL550-216.371-Base-Coupe-V8_5.5L_273.961"
+                    ]
+                }
+            ],
+            "CL55 AMG": [
+                {
+                    "C215": [
+                        "/Mercedes_Benz-2003-CL55_AMG-215.374-Base-Coupe-V8_5.5L"
+                    ]
+                }
+            ],
+            "CL600": [
+                {
+                    "W140": [
+
+                    ],
+                    "C215": [
+                        "/Mercedes_Benz-2002-CL600-215.378-Base-Coupe-V12_5.8L"
+                    ],
+                    "C216": [
+                        "/Mercedes_Benz-2008-CL600-216.376-Base-Coupe-V12_5.5L_275.953"
+                    ]
+                }
+            ],
+            "CL63 AMG": [
+                {
+                    "C215": [
+
+                    ],
+                    "C216": [
+                        "/Mercedes_Benz-2008-CL63_AMG-216.377-Base-Coupe-V8_6.3L_156.984"
+                    ]
+                }
+            ],
+            "CL65 AMG": [
+                {
+                    "C216": [
+                        "/Mercedes_Benz-2008-CL65_AMG-216.379-Base-Coupe-V12_6.0L_275.982"
+                    ]
+                }
+            ],
+            "CLA180": [
+                {
+                    "C117": [
+
+                    ],
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA180 CDI": [
+                {
+                    "C117": [
+
+                    ]
+                }
+            ],
+            "CLA180D": [
+                {
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA200": [
+                {
+                    "C117": [
+
+                    ],
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA200 CDI": [
+                {
+                    "C117": [
+
+                    ]
+                }
+            ],
+            "CLA200D": [
+                {
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA220": [
+                {
+                    "C117": [
+
+                    ],
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA220 CDI": [
+                {
+                    "C117": [
+
+                    ]
+                }
+            ],
+            "CLA220D": [
+                {
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA250": [
+                {
+                    "C117": [
+                        "/Mercedes_Benz-2016-CLA250-117.346-4Matic-Sedan-L4_2.0L",
+                        "/Mercedes_Benz-2016-CLA250-117.344-Base-Sedan-L4_2.0L"
+                    ],
+                    "C118": [
+                        "/Mercedes_Benz-2020-CLA250-118.347-4Matic-Sedan-L4_2.0L_260.920",
+                        "/Mercedes_Benz-2020-CLA250-118.346-Base-Sedan-L4_2.0L_260.920"
+                    ]
+                }
+            ],
+            "CLA250e": [
+                {
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLA35 AMG": [
+                {
+                    "C118": [
+                        "/Mercedes_Benz-2020-CLA35_AMG-118.351-4Matic-Sedan-L4_2.0L_260.920"
+                    ]
+                }
+            ],
+            "CLA45 AMG": [
+                {
+                    "C117": [
+                        "/Mercedes_Benz-2016-CLA45_AMG-117.352-4Matic-Sedan-L4_2.0L"
+                    ],
+                    "C118": [
+                        "/Mercedes_Benz-2020-CLA45_AMG-118.353-4Matic-Sedan-L4_2.0L_139.980"
+                    ]
+                }
+            ],
+            "CLA45 S AMG": [
+                {
+                    "C118": [
+
+                    ]
+                }
+            ],
+            "CLK200": [
+                {
+                    "C208": [
+
+                    ]
+                }
+            ],
+            "CLK200 CGI": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK200 Kompressor": [
+                {
+                    "C208": [
+
+                    ],
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK220 CDI": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK230 Kompressor": [
+                {
+                    "C208": [
+
+                    ]
+                }
+            ],
+            "CLK240": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK270 CDI": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK280": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK320": [
+                {
+                    "C208": [
+                        "/Mercedes_Benz-2000-CLK320-208.465-Base-Convertible-V6_3.2L_112.940",
+                        "/Mercedes_Benz-2000-CLK320-208.365-Base-Coupe-V6_3.2L_112.940"
+                    ],
+                    "C209": [
+                        "/Mercedes_Benz-2004-CLK320-209.465-Base-Convertible-V6_3.2L",
+                        "/Mercedes_Benz-2004-CLK320-209.365-Base-Coupe-V6_3.2L"
+                    ]
+                }
+            ],
+            "CLK320 CDI": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK350": [
+                {
+                    "C209": [
+
+                    ]
+                }
+            ],
+            "CLK430": [
+                {
+                    "C208": [
+                        "/Mercedes_Benz-2000-CLK430-208.470-Base-Convertible-V8_4.3L_113.943",
+                        "/Mercedes_Benz-2000-CLK430-208.370-Base-Coupe-V8_4.3L_113.943"
+                    ]
+                }
+            ],
+            "CLK500": [
+                {
+                    "C209": [
+                        "/Mercedes_Benz-2004-CLK500-209.475-Base-Convertible-V8_5.0L",
+                        "/Mercedes_Benz-2004-CLK500-209.375-Base-Coupe-V8_5.0L"
+                    ]
+                }
+            ],
+            "CLK55 AMG": [
+                {
+                    "C208": [
+
+                    ],
+                    "C209": [
+                        "/Mercedes_Benz-2004-CLK55_AMG-209.476-Base-Convertible-V8_5.5L",
+                        "/Mercedes_Benz-2004-CLK55_AMG-209.376-Base-Coupe-V8_5.5L"
+                    ]
+                }
+            ],
+            "CLK550": [
+                {
+                    "C209": [
+                        "/Mercedes_Benz-2009-CLK550-209.472-Base-Convertible-V8_5.5L_273.967",
+                        "/Mercedes_Benz-2009-CLK550-209.372-Base-Coupe-V8_5.5L_273.967"
+                    ]
+                }
+            ],
+            "CLK63 AMG": [
+                {
+                    "C209": [
+                        "/Mercedes_Benz-2009-CLK63_AMG-209.477-Base-Convertible-V8_6.3L_156.982"
+                    ]
+                }
+            ],
+            "CLK63 AMG Black": [
+                {
+                    "C209": [
+                        "/Mercedes_Benz-2008-CLK63_AMG-209.377-Black_Series-Coupe-V8_6.3L_156.982"
+                    ]
+                }
+            ],
+            "CLS220": [
+                {
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS220D": [
+                {
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS250 BlueTEC": [
+                {
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS250 CDI": [
+                {
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS280": [
+                {
+                    "C219": [
+
+                    ]
+                }
+            ],
+            "CLS300": [
+                {
+                    "C219": [
+
+                    ],
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS300D": [
+                {
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS320 CDI": [
+                {
+                    "C219": [
+
+                    ]
+                }
+            ],
+            "CLS350": [
+                {
+                    "C219": [
+
+                    ],
+                    "C218": [
+
+                    ],
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS350 BlueTEC": [
+                {
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS350 CDI": [
+                {
+                    "C219": [
+
+                    ],
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS350 CGI": [
+                {
+                    "C219": [
+
+                    ]
+                }
+            ],
+            "CLS350D": [
+                {
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS400": [
+                {
+                    "C218": [
+                        "/Mercedes_Benz-2015-CLS400-218.367-4Matic-Sedan-V6_3.0L",
+                        "/Mercedes_Benz-2015-CLS400-218.365-Base-Sedan-V6_3.0L"
+                    ]
+                }
+            ],
+            "CLS400D": [
+                {
+                    "C257": [
+
+                    ]
+                }
+            ],
+            "CLS450": [
+                {
+                    "C257": [
+                        "/Mercedes_Benz-2020-CLS450-257.359-4Matic-Sedan-L6_3.0L_256.930",
+                        "/Mercedes_Benz-2020-CLS450-257.358-Base-Sedan-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "CLS500": [
+                {
+                    "C219": [
+                        "/Mercedes_Benz-2006-CLS500-219.375-Base-Sedan-V8_5.0L"
+                    ],
+                    "C218": [
+
+                    ]
+                }
+            ],
+            "CLS53 AMG": [
+                {
+                    "C257": [
+                        "/Mercedes_Benz-2020-CLS53_AMG-257.361-4Matic-Sedan-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "CLS55 AMG": [
+                {
+                    "C219": [
+                        "/Mercedes_Benz-2006-CLS55_AMG-219.376-Base-Sedan-V8_5.5L"
+                    ]
+                }
+            ],
+            "CLS550": [
+                {
+                    "C219": [
+                        "/Mercedes_Benz-2008-CLS550-219.372-Base-Sedan-V8_5.5L_273.960"
+                    ]
+                }
+            ],
+            "CLS63 AMG": [
+                {
+                    "C219": [
+                        "/Mercedes_Benz-2008-CLS63_AMG-219.377-Base-Sedan-V8_6.3L_156.983"
+                    ],
+                    "C218": [
+                        "/Mercedes_Benz-2014-CLS63_AMG-218.392-4Matic-Sedan-V8_5.5L_157.981",
+                        "/Mercedes_Benz-2014-CLS63_AMG-218.376-4Matic_S_Model-Sedan-V8_5.5L_157.981"
+                    ]
+                }
+            ],
+            "CLS63 S AMG": [
+                {
+                    "C218": [
+                        "/Mercedes_Benz-2016-CLS63_AMG_S-218.376-4Matic-Sedan-V8_5.5L"
+                    ]
+                }
+            ],
+            "E200": [
+                {
+                    "W124": [
+
+                    ],
+                    "W210": [
+
+                    ],
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E200 CDI": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ],
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E200 CGI": [
+                {
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E200 Kompressor": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E200D": [
+                {
+                    "W210": [
+
+                    ],
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E220": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "E220 CDI": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ],
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E220D": [
+                {
+                    "W210": [
+
+                    ],
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E230": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E230 Kompressor": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E240": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E250": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E250 CDI": [
+                {
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E250 CGI": [
+                {
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E250 Diesel": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "E250D": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E270 CDI": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E280": [
+                {
+                    "W124": [
+
+                    ],
+                    "W210": [
+
+                    ],
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E280 CDI": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E290D": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E300": [
+                {
+                    "W210": [
+                        "/Mercedes_Benz-1998-E300-210.025-Base-Sedan-L6_3.0L"
+                    ],
+                    "W212": [
+
+                    ],
+                    "W213": [
+                        "/Mercedes_Benz-2019-E300-213.049-4Matic-Sedan-L4_2.0L_274.920",
+                        "/Mercedes_Benz-2019-E300-213.048-Base-Sedan-L4_2.0L_274.920"
+                    ]
+                }
+            ],
+            "E300 BlueTEC": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E300 CDI": [
+                {
+                    "W212": [
+
+                    ]
+                }
+            ],
+            "E300 Diesel": [
+                {
+                    "W124": [
+
+                    ]
+                }
+            ],
+            "E300D": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E300De": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E300e": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E320": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1995-E320-124.066-Base-Convertible-L6_3.2L",
+                        "/Mercedes_Benz-1995-E320-124.052-Base-Coupe-L6_3.2L",
+                        "/Mercedes_Benz-1995-E320-124.032-Base-Sedan-L6_3.2L",
+                        "/Mercedes_Benz-1995-E320-124.092-Base-Wagon-L6_3.2L"
+                    ],
+                    "W210": [
+                        "/Mercedes_Benz-2000-E320-210.082-4Matic-Sedan-V6_3.2L_112.941",
+                        "/Mercedes_Benz-2000-E320-210.282-4Matic-Wagon-V6_3.2L_112.941",
+                        "/Mercedes_Benz-2000-E320-210.065-Base-Sedan-V6_3.2L_112.941",
+                        "/Mercedes_Benz-2000-E320-210.265-Base-Wagon-V6_3.2L_112.941"
+                    ],
+                    "W211": [
+                        
+                    ]
+                }
+            ],
+            "E320 BlueTEC": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E320 CDI": [
+                {
+                    "W210": [
+
+                    ],
+                    "W211": [
+                        "/Mercedes_Benz-2006-E320-211.026-CDI-Sedan-L6_3.2L_648.961"
+                    ]
+                }
+            ],
+            "E350": [
+                {
+                    "W211": [
+                        "/Mercedes_Benz-2006-E350-211.087-4Matic-Sedan-V6_3.5L",
+                        "/Mercedes_Benz-2006-E350-211.287-4Matic-Wagon-V6_3.5L",
+                        "/Mercedes_Benz-2006-E350-211.056-Base-Sedan-V6_3.5L",
+                        "/Mercedes_Benz-2006-E350-211.256-Base-Wagon-V6_3.5L"
+                    ],
+                    "W212": [
+                        "/Mercedes_Benz-2013-E350-212.088-4Matic-Sedan-V6_3.5L_276.952",
+                        "/Mercedes_Benz-2013-E350-212.288-4Matic-Wagon-V6_3.5L_276.952",
+                        "/Mercedes_Benz-2013-E350-207.388-4Matic-Coupe-V6_3.5L_276.957",
+                        "/Mercedes_Benz-2013-E350-212.059-Base-Sedan-V6_3.5L_276.952",
+                        "/Mercedes_Benz-2013-E350-207.459-Base-Convertible-V6_3.5L_276.957",
+                        "/Mercedes_Benz-2013-E350-207.359-Base-Coupe-V6_3.5L_276.957"
+                    ],
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E350 CDI": [
+                {
+                    "W212": [
+                        "/Mercedes_Benz-2013-E350-212.024-BlueTec_Diesel-Sedan-V6_3.0L_642.850"
+                    ]
+                }
+            ],
+            "E350 CGI": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E350D": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E350e": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E36 AMG": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E400": [
+                {
+                    "W207": [
+                        "/Mercedes_Benz-2017-E400-207.367-4Matic-Coupe-V6_3.0L",
+                        "/Mercedes_Benz-2017-E400-213.266-4Matic-Wagon-V6_3.0L",
+                        "/Mercedes_Benz-2017-E400-207.465-Base-Convertible-V6_3.0L",
+                        "/Mercedes_Benz-2017-E400-207.365-Base-Coupe-V6_3.0L"
+                    ]
+                }
+            ],
+            "E400 CDI": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E400D": [
+                {
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E420": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1995-E420-124.034-Base-Sedan-V8_4.2L"
+                    ],
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E420 CDI": [
+                {
+                    "W211": [
+
+                    ]
+                }
+            ],
+            "E43 AMG": [
+                {
+                    "W213": [
+                        "/Mercedes_Benz-2017-E43_AMG-213.064-4Matic-Sedan-V6_3.0L"
+                    ]
+                }
+            ],
+            "E430": [
+                {
+                    "W210": [
+                        "/Mercedes_Benz-2000-E430-210.083-4Matic-Sedan-V8_4.3L_113.940",
+                        "/Mercedes_Benz-2000-E430-210.070-Base-Sedan-V8_4.3L_113.940"
+                    ]
+                }
+            ],
+            "E450": [
+                {
+                    "W213": [
+                        "/Mercedes_Benz-2020-E450-238.468-4Matic-Convertible-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-E450-238.368-4Matic-Coupe-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-E450-213.068-4Matic-Sedan-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-E450-213.268-4Matic-Wagon-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-E450-238.467-Base-Convertible-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-E450-238.367-Base-Coupe-V6_3.0L_276.823"
+                    ]
+                }
+            ],
+            "E50 AMG": [
+                {
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E500": [
+                {
+                    "W124": [
+                        "/Mercedes_Benz-1994-E500-124.036-Base-Sedan-V8_5.0L"
+                    ],
+                    "W211": [
+                        "/Mercedes_Benz-2006-E500-211.083-4Matic-Sedan-V8_5.0L_113.969",
+                        "/Mercedes_Benz-2006-E500-211.283-4Matic-Wagon-V8_5.0L_113.969",
+                        "/Mercedes_Benz-2006-E500-211.070-Base-Sedan-V8_5.0L_113.967"
+                    ]
+                }
+            ],
+            "E53 AMG": [
+                {
+                    "W213": [
+                        "/Mercedes_Benz-2020-E53_AMG-238.461-4Matic-Convertible-L6_3.0L_256.930",
+                        "/Mercedes_Benz-2020-E53_AMG-238.361-4Matic-Coupe-L6_3.0L_256.930",
+                        "/Mercedes_Benz-2020-E53_AMG-213.061-4Matic-Sedan-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "E55 AMG": [
+                {
+                    "W210": [
+                        "/Mercedes_Benz-2000-E55_AMG-210.074-Base-Sedan-V8_5.5L"
+                    ],
+                    "W211": [
+                        "/Mercedes_Benz-2006-E55_AMG-211.076-Base-Sedan-V8_5.5L_113.990"
+                    ]
+                }
+            ],
+            "E550": [
+                {
+                    "W212": [
+                        "/Mercedes_Benz-2013-E550-212.091-4Matic-Sedan-V8_4.6L_278.922",
+                        "/Mercedes_Benz-2013-E550-207.473-Base-Convertible-V8_4.6L_278.922",
+                        "/Mercedes_Benz-2013-E550-207.373-Base-Coupe-V8_4.6L_278.922"
+                    ]
+                }
+            ],
+            "E60 AMG": [
+                {
+                    "W124": [
+
+                    ],
+                    "W210": [
+
+                    ]
+                }
+            ],
+            "E63 AMG": [
+                {
+                    "W211": [
+                        "/Mercedes_Benz-2007-E63_AMG-211.077-Base-Sedan-V8_6.3L_156.983",
+                        "/Mercedes_Benz-2007-E63_AMG-211.277-Base-Wagon-V8_6.3L_156.983"
+                    ],
+                    "W212": [
+                        "/Mercedes_Benz-2013-E63_AMG-212.074-Base-Sedan-V8_5.5L_157.981",
+                        "/Mercedes_Benz-2013-E63_AMG-212.274-Base-Wagon-V8_5.5L_157.981"
+                    ],
+                    "W213": [
+
+                    ]
+                }
+            ],
+            "E63 S AMG": [
+                {
+                    "W213": [
+                        "/Mercedes_Benz-2018-E63_AMG_S-213.089-4Matic-Sedan-V8_4.0L",
+                        "/Mercedes_Benz-2018-E63_AMG_S-213.289-4Matic-Wagon-V8_4.0L"
+                    ]
+                }
+            ],
+            "G230": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G270 CDI": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G300": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G300D": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G300D Turbodiesel": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G320": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G320 CDI": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G350 CDI": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G300 Turbodiesel": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G350D": [
+                {
+                    "W63.1": [
+
+                    ],
+                    "W63.2": [
+
+                    ]
+                }
+            ],
+            "G36 AMG": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G400 CDI": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G400D": [
+                {
+                    "W463.2": [
+
+                    ]
+                }
+            ],
+            "G500": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2002-G500-463.249-Base-Sport_Utility-V8_5.0L"
+                    ],
+                    "W463.2": [
+
+                    ]
+                }
+            ],
+            "G500 4x4": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G55 AMG": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2006-G55_AMG-463.271-Base-Sport_Utility-V8_5.5L_113.993"
+                    ]
+                }
+            ],
+            "G550": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2010-G550-463.237-Base-Sport_Utility-V8_5.5L_273.963"
+                    ],
+                    "W463.2": [
+                        "/Mercedes_Benz-2020-G550-463.261-Base-Sport_Utility-V8_4.0L_176.980"
+                    ]
+                }
+            ],
+            "G550 4x4": [
+                {
+                    "W463.2": [
+                        
+                    ]
+                }
+            ],
+            "G63 AMG": [
+                {
+                    "W463.2": [
+                        "/Mercedes_Benz-2020-G63_AMG-463.277-Base-Sport_Utility-V8_4.0L_177.980"
+                    ]
+                }
+            ],
+            "G63 AMG (V12)": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "G63 AMG (V8)": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2013-G63_AMG-463.273-Base-Sport_Utility-V8_5.5L_157.984"
+                    ]
+                }
+            ],
+            "G65 AMG": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2016-G65_AMG-463.275-Base-Sport_Utility-V12_6.0L"
+                    ]
+                }
+            ],
+            "G650 Landaulet": [
+                {
+                    "W463.1": [
+
+                    ]
+                }
+            ],
+            "GL320 CDI": [
+                {
+                    "X164": [
+                        "/Mercedes_Benz-2007-GL320-164.822-CDI-Sport_Utility-V6_3.0L_642.940"
+                    ]
+                }
+            ],
+            "GL350": [
+                {
+                    "X166": [
+
+                    ]
+                }
+            ],
+            "GL350 BlueTEC": [
+                {
+                    "X166": [
+                        "/Mercedes_Benz-2015-GL350-166.824-Bluetec_4Matic-Sport_Utility-V6_3.0L"
+                    ]
+                }
+            ],
+            "GL350 CDI": [
+                {
+                    "X164": [
+
+                    ]
+                }
+            ],
+            "GL350 CDI BlueTEC": [
+                {
+                    "X164": [
+
+                    ]
+                }
+            ],
+            "GL420 CDI": [
+                {
+                    "X164": [
+
+                    ]
+                }
+            ],
+            "GL450": [
+                {
+                    "X164": [
+                        "/Mercedes_Benz-2010-GL450-164.871-Base-Sport_Utility-V8_4.6L_273.923"
+                    ],
+                    "X166": [
+                        "/Mercedes_Benz-2016-GL450-166.864-4Matic-Sport_Utility-V6_3.0L"
+                    ]
+                }
+            ],
+            "GL450 CDI": [
+                {
+                    "X164": [
+
+                    ]
+                }
+            ],
+            "GL500": [
+                {
+                    "X164": [
+
+                    ]
+                }
+            ],
+            "GL550": [
+                {
+                    "X164": [
+                        "/Mercedes_Benz-2008-GL550-164.886-Base-Sport_Utility-V8_5.5L_273.963"
+                    ],
+                    "X166": [
+                        "/Mercedes_Benz-2016-GL550-166.873-4Matic-Sport_Utility-V8_4.6L"
+                    ]
+                }
+            ],
+            "GL63 AMG": [
+                {
+                    "X166": [
+                        "/Mercedes_Benz-2016-GL63_AMG-166.874-Base-Sport_Utility-V8_5.5L"
+                    ]
+                }
+            ],
+            "GLA180": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA180D": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA200": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA200D": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA220": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA220D": [
+                {
+                    "X156": [
+
+                    ]
+                }
+            ],
+            "GLA250": [
+                {
+                    "X156": [
+                        "/Mercedes_Benz-2017-GLA250-156.946-4Matic-Sport_Utility-L4_2.0L",
+                        "/Mercedes_Benz-2017-GLA250-156.944-Base-Sport_Utility-L4_2.0L"
+                    ]
+                }
+            ],
+            "GLA45 AMG": [
+                {
+                    "X156": [
+                        "/Mercedes_Benz-2017-GLA45_AMG-156.952-4Matic-Sport_Utility-L4_2.0L"
+                    ]
+                }
+            ],
+            "GLB180": [
+                {
+                    "X247": [
+                        
+                    ]
+                }
+            ],
+            "GLB180D": [
+                {
+                    "X247": [
+
+                    ]
+                }
+            ],
+            "GLB200": [
+                {
+                    "X247": [
+
+                    ]
+                }
+            ],
+            "GLB200D": [
+                {
+                    "X247": [
+
+                    ]
+                }
+            ],
+            "GLB220D": [
+                {
+                    "X247": [
+
+                    ]
+                }
+            ],
+            "GLB250": [
+                {
+                    "X247": [
+                        "/Mercedes_Benz-2020-GLB250-247.647-4Matic-Sport_Utility-L4_2.0L_260.920",
+                        "/Mercedes_Benz-2020-GLB250-247.646-Base-Sport_Utility-L4_2.0L_260.920"
+                    ]
+                }
+            ],
+            "GLB35 AMG": [
+                {
+                    "X247": [
+
+                    ]
+                }
+            ],
+            "GLC200": [
+                {
+                    "X253": [
+
+                    ]
+                }
+            ],
+            "GLC220D": [
+                {
+                    "X253": [
+
+                    ]
+                }
+            ],
+            "GLC250": [
+                {
+                    "X253": [
+
+                    ]
+                }
+            ],
+            "GLC250D": [
+                {
+                    "X253": [
+
+                    ]
+                }
+            ],
+            "GLC300": [
+                {
+                    "X253": [
+                        "/Mercedes_Benz-2020-GLC300-253.384-4Matic-Coupe-L4_2.0L_264.920",
+                        "/Mercedes_Benz-2020-GLC300-253.984-4Matic-Sport_Utility-L4_2.0L_264.920",
+                        "/Mercedes_Benz-2020-GLC300-253.948-Base-Sport_Utility-L4_2.0L_264.920"
+                    ]
+                }
+            ],
+            "GLC350D": [
+                {
+                    "X253": [
+
+                    ]
+                }
+            ],
+            "GLC350e": [
+                {
+                    "X253": [
+                        "/Mercedes_Benz-2020-GLC350e-253.954-4Matic-Sport_Utility-L4_2.0L_274.920"
+                    ]
+                }
+            ],
+            "GLC43 AMG": [
+                {
+                    "X253": [
+                        "/Mercedes_Benz-2020-GLC43_AMG-253.364-4Matic-Coupe-V6_3.0L_276.823",
+                        "/Mercedes_Benz-2020-GLC43_AMG-253.964-4Matic-Sport_Utility-V6_3.0L_276.823"
+                    ]
+                }
+            ],
+            "GLC63 AMG": [
+                {
+                    "X253": [
+                        "/Mercedes_Benz-2020-GLC63_AMG-253.388-4Matic-Coupe-V8_4.0L_177.980",
+                        "/Mercedes_Benz-2020-GLC63_AMG-253.988-4Matic-Sport_Utility-V8_4.0L_177.980"
+                    ]
+                }
+            ],
+            "GLC63 S AMG": [
+                {
+                    "X253": [
+                        "/Mercedes_Benz-2020-GLC63_AMG_S-253.389-4Matic-Coupe-V8_4.0L_177.980"
+                    ]
+                }
+            ],
+            "GLE300D": [
+                {
+                    "W167": [
+
+                    ]
+                }
+            ],
+            "GLE350": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2017-GLE350-166.057-4Matic-Sport_Utility-V6_3.5L",
+                        "/Mercedes_Benz-2018-GLE350-166.058-Base-Sport_Utility-V6_3.5L"
+                    ],
+                    "W167": [
+                        "/Mercedes_Benz-2020-GLE350-167.149-4Matic-Sport_Utility-L4_2.0L_264.920"
+                    ]
+                }
+            ],
+            "GLE350D": [
+                {
+                    "W167": [
+
+                    ]
+                }
+            ],
+            "GLE350De": [
+                {
+                    "W167": [
+
+                    ]
+                }
+            ],
+            "GLE400": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2017-GLE400-166.056-4Matic-Sport_Utility-V6_3.0L"
+                    ]
+                }
+            ],
+            "GLE400D": [
+                {
+                    "W167": [
+
+                    ]
+                }
+            ],
+            "GLE450": [
+                {
+                    "W167": [
+                        "/Mercedes_Benz-2020-GLE450-167.159-4Matic-Sport_Utility-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "GLE500e": [
+                {
+                    "W166": [
+
+                    ]
+                }
+            ],
+            "GLE53 AMG": [
+                {
+                    "W167": [
+
+                    ]
+                }
+            ],
+            "GLE580": [
+                {
+                    "W167": [
+                        "/Mercedes_Benz-2020-GLE580-167.186-4Matic-Sport_Utility-V8_4.0L_176.980"
+                    ]
+                }
+            ],
+            "GLE63 AMG": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2018-GLE63_AMG-166.074-4Matic-Sport_Utility-V8_5.5L"
+                    ]
+                }
+            ],
+            "GLE63 S AMG": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2019-GLE63_AMG_S-292.375-Base-Coupe-V8_5.5L_157.982",
+                        "/Mercedes_Benz-2019-GLE63_AMG_S-166.075-Base-Sport_Utility-V8_5.5L_157.982"
+                    ],
+                    "W167": [
+                        
+                    ]
+                }
+            ],
+            "GLK200 CDI": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK220 CDI": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK250 CDI": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK280": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK300": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK320 CDI": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLK350": [
+                {
+                    "X204": [
+                        "/Mercedes_Benz-2011-GLK350-204.987-4Matic-Sport_Utility-V6_3.5L_272.971",
+                        "/Mercedes_Benz-2011-GLK350-204.956-Base-Sport_Utility-V6_3.5L_272.991"
+                    ]
+                }
+            ],
+            "GLK350 CDI": [
+                {
+                    "X204": [
+
+                    ]
+                }
+            ],
+            "GLS350D": [
+                {
+                    "X167": [
+
+                    ]
+                }
+            ],
+            "GLS400D": [
+                {
+                    "X167": [
+
+                    ]
+                }
+            ],
+            "GLS450": [
+                {
+                    "X167": [
+                        "/Mercedes_Benz-2020-GLS450-167.959-4Matic-Sport_Utility-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "GLS580": [
+                {
+                    "X167": [
+                        "/Mercedes_Benz-2020-GLS580-167.986-4Matic-Sport_Utility-V8_4.0L_176.980"
+                    ]
+                }
+            ],
+            "GLS600 Maybach": [
+                {
+                    "X167": [
+
+                    ]
+                }
+            ],
+            "GLS63 AMG": [
+                {
+                    "X167": [
+                        "/Mercedes_Benz-2019-GLS63_AMG-166.875-Base-Sport_Utility-V8_5.5L_157.982"
+                    ]
+                }
+            ],
+            "AMG GT": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT-190.377-Base-Coupe-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT Black": [
+                {
+                    "R190": [
+
+                    ]
+                }
+            ],
+            "AMG GT C": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT_C-190.38-Base-Coupe-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT C Roadster": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT_C-190.48-Base-Convertible-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT R": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT_R-190.379-Base-Coupe-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT Roadster": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT-190.477-Base-Convertible-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT S": [
+                {
+                    "R190": [
+                        "/Mercedes_Benz-2019-AMG_GT_S-190.378-Base-Coupe-V8_4.0L_178.980"
+                    ]
+                }
+            ],
+            "AMG GT 43": [
+                {
+                    "X290": [
+
+                    ]
+                }
+            ],
+            "AMG GT 53": [
+                {
+                    "X290": [
+                        "/Mercedes_Benz-2019-AMG_GT_53-290.661-Base-Sedan-L6_3.0L_256.930"
+                    ]
+                }
+            ],
+            "AMG GT 63": [
+                {
+                    "X290": [
+                        "/Mercedes_Benz-2019-AMG_GT_63-290.688-Base-Sedan-V8_4.0L_177.980"
+                    ]
+                }
+            ],
+            "AMG GT 63 S": [
+                {
+                    "X290": [
+                        "/Mercedes_Benz-2019-AMG_GT_63_S-290.689-Base-Sedan-V8_4.0L_177.980"
+                    ]
+                }
+            ],
+            "AMG GT 73 EQ": [
+                {
+                    "X290": [
+
+                    ]
+                }
+            ],
+            "ML230": [
+                {
+                    "W163": [
+
+                    ],
+                    "W164": [
+
+                    ]
+                }
+            ],
+            "ML250 BlueTEC": [
+                {
+                    "W166": [
+
+                    ]
+                }
+            ],
+            "ML270 CDI": [
+                {
+                    "W163": [
+
+                    ],
+                    "W164": [
+
+                    ]
+                }
+            ],
+            "ML320": [
+                {
+                    "W163": [
+                        "/Mercedes_Benz-2001-ML320-163.154-Base-Sport_Utility-V6_3.2L_112.942"
+                    ],
+                    "W164": [
+                        "/Mercedes_Benz-2009-ML320-164.125-Bluetec_4Matic-Sport_Utility-V6_3.0L_642.820"
+                    ]
+                }
+            ],
+            "ML350": [
+                {
+                    "W163": [
+
+                    ],
+                    "W164": [
+                        "/Mercedes_Benz-2009-ML350-164.186-Base-Sport_Utility-V6_3.5L_272.967"
+                    ],
+                    "W166": [
+                        "/Mercedes_Benz-2014-ML350-166.057-4Matic-Sport_Utility-V6_3.5L_276.955",
+                        "/Mercedes_Benz-2014-ML350-166.058-Rear_Wheel_Drive-Sport_Utility-V6_3.5L_276.955"
+                    ]
+                }
+            ],
+            "ML350 BlueTEC": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2014-ML350-166.024-BlueTec_4Matic-Sport_Utility-V6_3.0L_642.826"
+                    ]
+                }
+            ],
+            "ML400": [
+                {
+                    "W166": [
+
+                    ]
+                }
+            ],
+            "ML400 CDI": [
+                {
+                    "W163": [
+
+                    ],
+                    "W164": [
+
+                    ]
+                }
+            ],
+            "ML430": [
+                {
+                    "W163": [
+                        "/Mercedes_Benz-2001-ML430-163.172-Base-Sport_Utility-V8_4.3L_113.942"
+                    ],
+                    "W164": [
+
+                    ]
+                }
+            ],
+            "ML500": [
+                {
+                    "W163": [
+                        "/Mercedes_Benz-2002-ML500-163.175-Base-Sport_Utility-V8_5.0L"
+                    ],
+                    "W164": [
+                        "/Mercedes_Benz-2007-ML500-164.175-Base-Sport_Utility-V8_5.0L_113.964"
+                    ]
+                }
+            ],
+            "ML55 AMG": [
+                {
+                    "W163": [
+                        "/Mercedes_Benz-2000-ML55_AMG-163.174-Base-Sport_Utility-V8_5.5L"
+                    ],
+                    "W164": [
+
+                    ]
+                }
+            ],
+            "ML550": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2012-ML550-166.073-4Matic-Sport_Utility-V8_4.6L_278.928"
+                    ]
+                }
+            ],
+            "ML63 AMG": [
+                {
+                    "W166": [
+                        "/Mercedes_Benz-2013-ML63_AMG-166.074-Base-Sport_Utility-V8_5.5L_157.982"
+                    ]
+                }
+            ],
+            "Mercedes-AMG G63": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2017-G63_AMG-463.273-4Matic-Sport_Utility-V8_5.5L"
+                    ]
+                }
+            ],
+            "Mercedes-AMG G65": [
+                {
+                    "W463.1": [
+                        "/Mercedes_Benz-2017-G65_AMG-463.275-4Matic-Sport_Utility-V12_6.0L"
+                    ]
+                }
+            ],
+            "S280": [
+                {
+                    "W140": [
+
+                    ],
+                    "W220": [
+
+                    ],
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S280L": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S300": [
+                {
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S300 BlueTEC Hybrid": [
+                {
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S300 CDI": [
+                {
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S300 Turbodiesel": [
+                {
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "S320": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1995-S320-140.032-SWB-Sedan-L6_3.2L"
+                    ],
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S320 CDI": [
+                {
+                    "W220": [
+
+                    ],
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S320L": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1995-S320-140.033-LWB-Sedan-L6_3.2L"
+                    ],
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S320L CDI": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S350": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1995-S350-140.134-Base-Sedan-L6_3.4L"
+                    ],
+                    "W220": [
+
+                    ],
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S350 BlueTEC": [
+                {
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S350 CDI": [
+                {
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S350 Turbodiesel": [
+                {
+                    "W140": [
+
+                    ]
+                }
+            ],
+            "S350L": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S400": [
+                {
+                    "W221": [
+
+                    ],
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S400 CDI": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S400 Hybrid": [
+                {
+                    "W221": [
+                        "/Mercedes_Benz-2011-S400-221.195-Hybrid-Sedan-V6_3.5L_272.974"
+                    ],
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S400L CDI": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S420": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1995-S420-140.043-Base-Sedan-V8_4.2L"
+                    ]
+                }
+            ],
+            "S420 CDI": [
+                {
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S430": [
+                {
+                    "W220": [
+                        "/Mercedes_Benz-2003-S430-220.183-4Matic-Sedan-V8_4.3L_113.948",
+                        "/Mercedes_Benz-2003-S430-220.170-Base-Sedan-V8_4.3L_113.941"
+                    ]
+                }
+            ],
+            "S430L": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S450": [
+                {
+                    "W221": [
+
+                    ],
+                    "W222": [
+                        "/Mercedes_Benz-2019-S450-222.164-4Matic-Sedan-V6_3.0L_276.824",
+                        "/Mercedes_Benz-2019-S450-222.166-Base-Sedan-V6_3.0L_276.824"
+                    ]
+                }
+            ],
+            "S450 CDI": [
+                {
+                    "W221": [
+
+                    ]
+                }
+            ],
+            "S500": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1995-S500-140.051-Base-Sedan-V8_5.0L"
+                    ],
+                    "W220": [
+                        "/Mercedes_Benz-2003-S500-220.184-4Matic-Sedan-V8_5.0L_113.966",
+                        "/Mercedes_Benz-2003-S500-220.175-Base-Sedan-V8_5.0L_113.960"
+                    ],
+                    "W221": [
+
+                    ],
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S500 Hybrid": [
+                {
+                    "W222": [
+
+                    ]
+                }
+            ],
+            "S500L": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S55 AMG": [
+                {
+                    "W220": [
+                        "/Mercedes_Benz-2002-S55_AMG-220.173-Base-Sedan-V8_5.5L_113.986"
+                    ]
+                }
+            ],
+            "S550": [
+                {
+                    "W221": [
+                        "/Mercedes_Benz-2009-S550-221.186-4Matic-Sedan-V8_5.5L_273.968",
+                        "/Mercedes_Benz-2009-S550-221.171-Base-Sedan-V8_5.5L_273.961"
+                    ],
+                    "W222": [
+                        "/Mercedes_Benz-2015-S550-217.385-4Matic-Coupe-V8_4.6L",
+                        "/Mercedes_Benz-2015-S550-222.182-Base-Sedan-V8_4.6L_278.929"
+                    ]
+                }
+            ],
+            "S550 Hybrid": [
+                {
+                    "W222": [
+                        "/Mercedes_Benz-2015-S550-222.163-Hybrid-Sedan-V6_3.0L"
+                    ]
+                }
+            ],
+            "S55L AMG": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S560": [
+                {
+                    "W222": [
+                        "/Mercedes_Benz-2019-S560-217.386-4Matic-Coupe-V8_4.0L_176.980",
+                        "/Mercedes_Benz-2019-S560-222.186-4Matic-Sedan-V8_4.0L_176.980",
+                        "/Mercedes_Benz-2019-S560-217.483-Base-Convertible-V8_4.0L_176.980",
+                        "/Mercedes_Benz-2019-S560-222.183-Base-Sedan-V8_4.0L_176.980"
+                    ]
+                }
+            ],
+            "S600": [
+                {
+                    "W140": [
+                        "/Mercedes_Benz-1996-S600-140.076-Base-Coupe-V12_6.0L",
+                        "/Mercedes_Benz-1996-S600-140.057-Base-Sedan-V12_6.0L"
+                    ],
+                    "W221": [
+                        "/Mercedes_Benz-2009-S600-221.176-Base-Sedan-V12_5.5L_275.953"
+                    ],
+                    "W222": [
+                        "/Mercedes_Benz-2017-S600-222.176-Base-Sedan-V12_6.0L"
+                    ]
+                }
+            ],
+            "S600L": [
+                {
+                    "W220": [
+
+                    ]
+                }
+            ],
+            "S63 AMG": [
+                {
+                    "W221": [
+                        "/Mercedes_Benz-2010-S63_AMG-221.177-Base-Sedan-V8_6.3L_156.985"
+                    ],
+                    "W222": [
+                        "/Mercedes_Benz-2017-S63_AMG-217.478-4Matic-Convertible-V8_5.5L",
+                        "/Mercedes_Benz-2017-S63_AMG-217.378-4Matic-Coupe-V8_5.5L",
+                        "/Mercedes_Benz-2017-S63_AMG-222.178-4Matic-Sedan-V8_5.5L"
+                    ]
+                }
+            ],
+            "S65 AMG": [
+                {
+                    "W220": [
+
+                    ],
+                    "W221": [
+                        "/Mercedes_Benz-2010-S65_AMG-221.179-Base-Sedan-V12_6.0L_275.982"
+                    ],
+                    "W222": [
+                        "/Mercedes_Benz-2017-S65_AMG-217.479-Base-Convertible-V12_6.0L",
+                        "/Mercedes_Benz-2017-S65_AMG-217.379-Base-Coupe-V12_6.0L",
+                        "/Mercedes_Benz-2017-S65_AMG-222.179-Base-Sedan-V12_6.0L"
+                    ]
+                }
+            ],
+            "SL": [
+                {
+                    "R107": [
+
+                    ]
+                }
+            ],
+            "SL280": [
+                {
+                    "R129": [
+
+                    ],
+                    "R230.3": [
+
+                    ]
+                }
+            ],
+            "SL300": [
+                {
+                    "R230.3": [
+
+                    ]
+                }
+            ],
+            "SL350": [
+                {
+                    "R230.1": [
+
+                    ],
+                    "R230.2": [
+
+                    ],
+                    "R231": [
+
+                    ]
+                }
+            ],
+            "SL400": [
+                {
+                    "R231": [
+                        "/Mercedes_Benz-2016-SL400-231.465-Base-Convertible-V6_3.0L"
+                    ]
+                }
+            ],
+            "SL450": [
+                {
+                    "R231": [
+                        "/Mercedes_Benz-2019-SL450-231.466-Base-Convertible-V6_3.0L_276.825"
+                    ]
+                }
+            ],
+            "SL500": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1998-SL500-129.067-Base-Convertible-V8_5.0L"
+                    ],
+                    "R230.1": [
+                        "/Mercedes_Benz-2004-SL500-230.475-Base-Convertible-V8_5.0L"
+                    ],
+                    "R230.2": [
+
+                    ],
+                    "R230.3": [
+
+                    ],
+                    "R231": [
+
+                    ]
+                }
+            ],
+            "SL55 AMG": [
+                {
+                    "R230.1": [
+                        "/Mercedes_Benz-2004-SL55_AMG-230.474-Base-Convertible-V8_5.5L"
+                    ],
+                    "R230.2": [
+                        "/Mercedes_Benz-2007-SL55_AMG-230.472-Base-Convertible-V8_5.5L_113.995"
+                    ]
+                }
+            ],
+            "SL550": [
+                {
+                    "R230.2": [
+                        "/Mercedes_Benz-2007-SL550-230.471-Base-Convertible-V8_5.5L_273.965"
+                    ],
+                    "R230.3": [
+                        "/Mercedes_Benz-2011-SL550-230.471-Base-Convertible-V8_5.5L_273.965"
+                    ],
+                    "R231": [
+                        "/Mercedes_Benz-2016-SL550-231.473-Base-Convertible-V8_4.6L"
+                    ]
+                }
+            ],
+            "SL600": [
+                {
+                    "R129": [
+                        "/Mercedes_Benz-1998-SL600-129.076-Base-Convertible-V12_6.0L"
+                    ],
+                    "R230.1": [
+                        "/Mercedes_Benz-2005-SL600-230.476-Base-Convertible-V12_5.5L"
+                    ],
+                    "R230.2": [
+                        "/Mercedes_Benz-2007-SL600-230.477-Base-Convertible-V12_5.5L_275.954"
+                    ],
+                    "R230.3": [
+                        "/Mercedes_Benz-2008-SL600-230.477-Base-Convertible-V12_5.5L_275.954"
+                    ]
+                }
+            ],
+            "SL63 AMG": [
+                {
+                    "R230.3": [
+                        "/Mercedes_Benz-2011-SL63_AMG-230.470-Base-Convertible-V8_6.3L_156.981"
+                    ],
+                    "R231": [
+                        "/Mercedes_Benz-2016-SL63_AMG-231.474-Base-Convertible-V8_5.5L"
+                    ]
+                }
+            ],
+            "SL65 AMG": [
+                {
+                    "R230.1": [
+                        "/Mercedes_Benz-2005-SL65_AMG-230.479-Base-Convertible-V12_6.0L_275.981"
+                    ],
+                    "R230.2": [
+                        "/Mercedes_Benz-2007-SL65_AMG-230.479-Base-Convertible-V12_6.0L_275.981"
+                    ],
+                    "R230.3": [
+                        "/Mercedes_Benz-2011-SL65_AMG-230.479-Base-Convertible-V12_6.0L_275.981"
+                    ],
+                    "R231": [
+                        "/Mercedes_Benz-2016-SL65_AMG-231.479-Base-Convertible-V12_6.0L"
+                    ]
+                }
+            ],
+            "SL65 AMG Black": [
+                {
+                    "R230.3": [
+                        "/Mercedes_Benz-2009-SL65_AMG-230.479-Black_Series-Coupe-V12_6.0L_275.981"
+                    ]
+                }
+            ],
+            "SLC": [
+                {
+                    "C107": [
+
+                    ]
+                }
+            ],
+            "SLC200": [
+                {
+                    "R172": [
+
+                    ]
+                }
+            ],
+            "SLC300": [
+                {
+                    "R172": [
+                        "/Mercedes_Benz-2018-SLC300-172.438-Base-Convertible-L4_2.0L"
+                    ]
+                }
+            ],
+            "SLC43 AMG": [
+                {
+                    "R172": [
+                        "/Mercedes_Benz-2018-SLC43_AMG-172.466-Base-Convertible-V6_3.0L"
+                    ]
+                }
+            ],
+            "SLK200": [
+                {
+                    "R170": [
+
+                    ],
+                    "R172": [
+
+                    ]
+                }
+            ],
+            "SLK200 Kompressor": [
+                {
+                    "R170": [
+
+                    ],
+                    "R171": [
+
+                    ]
+                }
+            ],
+            "SLK230 Kompressor": [
+                {
+                    "R170": [
+                        "/Mercedes_Benz-2000-SLK230-170.447-Kompressor-Convertible-L4_2.3L_111.973"
+                    ]
+                }
+            ],
+            "SLK250": [
+                {
+                    "R172": [
+                        "/Mercedes_Benz-2013-SLK250-172.447-Base-Convertible-I4_1.8L_271.861"
+                    ]
+                }
+            ],
+            "SLK250 CDI": [
+                {
+                    "R172": [
+
+                    ]
+                }
+            ],
+            "SLK280": [
+                {
+                    "R171": [
+                        "/Mercedes_Benz-2007-SLK280-171.454-Base-Convertible-V6_3.0L_272.942"
+                    ]
+                }
+            ],
+            "SLK300": [
+                {
+                    "R171": [
+                        "/Mercedes_Benz-2010-SLK300-171.454-Base-Convertible-V6_3.0L_272.942"
+                    ]
+                }
+            ],
+            "SLK32 AMG": [
+                {
+                    "R170": [
+                        "/Mercedes_Benz-2002-SLK32_AMG-170.466-Base-Convertible-V6_3.2L"
+                    ]
+                }
+            ],
+            "SLK320": [
+                {
+                    "R170": [
+                        "/Mercedes_Benz-2001-SLK320-170.465-Base-Convertible-V6_3.2L"
+                    ]
+                }
+            ],
+            "SLK350": [
+                {
+                    "R171": [
+                        "/Mercedes_Benz-2007-SLK350-171.456-Base-Convertible-V6_3.5L_272.963"
+                    ],
+                    "R172": [
+                        "/Mercedes_Benz-2013-SLK350-172.457-Base-Convertible-V6_3.5L_276.956"
+                    ]
+                }
+            ],
+            "SLK55 AMG": [
+                {
+                    "R171": [
+                        "/Mercedes_Benz-2007-SLK55_AMG-171.473-Base-Convertible-V8_5.5L_113.989"
+                    ],
+                    "R172": [
+                        "/Mercedes_Benz-2014-SLK55_AMG-172.475-Base-Convertible-V8_5.5L_152.980"
+                    ]
+                }
+            ],
+            "SLK55 AMG Black": [
+                {
+                    "R171": [
+                        "/Mercedes_Benz-2007-SLK55_AMG-171.473-Base-Convertible-V8_5.5L_113.989"
+                    ]
+                }
+            ],
+            "SLR McLaren": [
+                {
+                    "Z199": [
+                        "/Mercedes_Benz-2006-SLR_McLaren-199.376-Base-Coupe-V8_5.5L_155.980"
+                    ]
+                }
+            ],
+            "SLS AMG": [
+                {
+                    "R197": [
+                        "/Mercedes_Benz-2012-SLS_AMG-197.477-Base-Convertible-V8_6.3L_159.980",
+                        "/Mercedes_Benz-2012-SLS_AMG-197.377-Base-Coupe-V8_6.3L_159.980"
+                    ]
+                }
+            ],
+            "SLS AMG Coupe Black": [
+                {
+                    "R197": [
+                        "/Mercedes_Benz-2014-SLS_AMG-197.377-Black_Series-Coupe-V8_6.3L_159.980"
+                    ]
+                }
+            ],
+            "SLS AMG Coupe Electric": [
+                {
+                    "R197": [
+
+                    ]
+                }
+            ],
+            "SLS AMG GT": [
+                {
+                    "R197": [
+                        "/Mercedes_Benz-2014-SLS_AMG-197.378-GT-Coupe-V8_6.3L_159.980",
+                        "/Mercedes_Benz-2014-SLS_AMG-197.478-GT_Roadster-Convertible-V8_6.3L_159.980"
+                    ]
+                }
+            ]
+        }
+    ],
+    "MINI": [
+        {
+            "Clubman": [
+                {
+                    "R55": [
+                        "/Mini-2010-Cooper-R55-Clubman-Coupe-L4_1.6L_N12B16A"
+                    ],
+                    "F54": [
+                        "/Mini-2018-Cooper-F54-Clubman-Coupe-B36A15A",
+                        "/Mini-2018-Cooper-F54-Clubman_ALL4-Coupe-B36A15A"
+                    ]
+                }
+            ],
+            "Convertible": [
+                {
+                    "R52": [
+                        "/Mini-2007-Cooper-R52-Base-Convertible-L4_1.6L_W10B16A"
+                    ],
+                    "R57": [
+                        "/Mini-2012-Cooper-R57-Base-Convertible-L4_1.6L_N12B16A"
+                    ],
+                    "F57": [
+                        "/Mini-2019-Cooper-F57-Base-Convertible-B36A15A"
+                    ]
+                }
+            ],
+            "Cooper": [
+                {
+                    "R50": [
+                        "/Mini-2004-Cooper-R50-Base-Coupe-L4_1.6L_W10B16A"
+                    ],
+                    "R56": [
+                        "/Mini-2010-Cooper-R56-Base-Coupe-L4_1.6L_N12B16A"
+                    ],
+                    "F55": [
+                        "/Mini-2019-Cooper-F55-Base-5_Door-B36A15A"
+                    ],
+                    "F56": [
+                        "/Mini-2014-Cooper-F56-Base-3_Door-B38A15A"
+                    ]
+                }
+            ],
+            "Cooper S": [
+                {
+                    "R53": [
+                        "/Mini-2004-Cooper-R53-S-Coupe-L4_1.6L_W11B16A"
+                    ],
+                    "R56": [
+                        "/Mini-2010-Cooper-R56-S-Coupe-L4_1.6L_N14B16A"
+                    ],
+                    "F55": [
+                        "/Mini-2019-Cooper-F55-S-5_Door-B46A20A"
+                    ]
+                }
+            ],
+            "Cooper JCW": [
+                {
+                    "R53": [
+                        "/Mini-2004-Cooper-R53-John_Cooper_Works_MC40-Coupe-L4_1.6L_W11B16A"
+                    ],
+                    "R56": [
+                        "/Mini-2010-Cooper-R56-John_Cooper_Works-Coupe-L4_1.6L_N14B16C"
+                    ],
+                    "F55": [
+                        "/Mini-2019-Cooper-F56-John_Cooper_Works-3_Door-B48A20B"
+                    ]
+                }
+            ],
+            "Countryman": [
+                {
+                    "R60": [
+                        "/Mini-2012-Cooper_Countryman-R60-Base-Hatchback-L4_1.6L_N16B16A",
+                        "/Mini-2012-Cooper_Countryman-R60-S_ALL4-Hatchback-L4_1.6L_N18B16A"
+                    ],
+                    "F60": [
+                        "/Mini-2019-Countryman-F60-Base-Hatchback-B36A15A",
+                        "/Mini-2019-Countryman-F60-Cooper_ALL4-Hatchback-B36A15A"
+                    ]
+                }
+            ],
+            "Coupe": [
+                {
+                    "R58": [
+                        "/Mini-2013-Cooper_Coupe-R58-Base-Coupe-N16B16A"
+                    ]
+                }
+            ],
+            "Mini": [
+                {
+                    "Mark 1": [
+
+                    ],
+                    "Mark 2": [
+
+                    ],
+                    "Mark 3": [
+
+                    ],
+                    "Mark 4": [
+
+                    ],
+                    "Mark 5": [
+
+                    ],
+                    "Mark 6": [
+
+                    ],
+                    "Mark 7": [
+
+                    ]
+                }
+            ],
+            "Paceman": [
+                {
+                    "R61": [
+                        "/Mini-2015-Cooper_Paceman-R61-Base-Hatchback-L4_1.6L_N16B16A"
+                    ]
+                }
+            ],
+            "Roadster": [
+                {
+                    "R59": [
+                        "/Mini-2013-Cooper_Roadster-R59-Base-Roadster-N16B16A"
+                    ]
+                }
+            ]
+        }
+    ],
+    "Porsche": [
+        {
+            "356": [
+                {
+                    "Pre-A": [
+                        "/Porsche-1955-356-Base-H4_1.3L",
+                        "/Porsche-1955-356-Base-H4_1.5L"
+                    ]
+                }
+            ],
+            "356A": [
+                {
+                    "A": [
+                        "/Porsche-1958-356A-Base-H4_1.5L",
+                        "/Porsche-1958-356A-Base-H4_1.6L",
+                        "/Porsche-1958-356A-Super-H4_1.6L"
+                    ]
+                }
+            ],
+            "356B": [
+                {
+                    "B": [
+                        "/Porsche-1961-356B-Base-H4_1.6L",
+                        "/Porsche-1961-356B-Super-H4_1.6L",
+                        "/Porsche-1961-356B-Super_90-H4_1.6L"
+                    ]
+                }
+            ],
+            "356C": [
+                {
+                    "C": [
+                        "/Porsche-1964-356C-Base-H4_1.6L",
+                        "/Porsche-1964-356SC-Base-H4_1.6L"
+                    ]
+                }
+            ],
+            "718 Boxster": [
+                {
+                    "982": [
+                        "/Porsche-2018-718_Boxster-982-Base-Convertible-H4_2.0L",
+                        "/Porsche-2018-718_Boxster-982-S-Convertible-H4_2.5L"
+                    ]
+                }
+            ],
+            "718 Cayman": [
+                {
+                    "982": [
+                        "/Porsche-2018-718_Cayman-982-Base-Coupe-H4_2.0L",
+                        "/Porsche-2018-718_Cayman-982-S-Coupe-H4_2.5L"
+                    ]
+                }
+            ],
+            "911": [
+                {
+                    "911": [
+                        "/Porsche-1969-911-E-H6_2.0L",
+                        "/Porsche-1969-911-S-H6_2.0L",
+                        "/Porsche-1969-911-T-H6_2.0L"
+                    ],
+                    "930": [
+                        "/Porsche-1980-911-911-SC-Coupe-H6_3.0L",
+                        "/Porsche-1980-911-911-SC-Targa-H6_3.0L",
+                        "/Porsche-1980-911-930-Turbo-Coupe-H6_3.3L",
+                        "/Porsche-1986-911-911-Carrera-Convertible-H6_3.2L",
+                        "/Porsche-1986-911-911-Carrera-Coupe-H6_3.2L",
+                        "/Porsche-1986-911-911-Carrera-Targa-H6_3.2L"
+                    ],
+                    "964": [
+                        "/Porsche-1992-911-964-Carrera_2-Convertible-H6_3.6L",
+                        "/Porsche-1992-911-964-Carrera_2-Coupe-H6_3.6L",
+                        "/Porsche-1992-911-964-Carrera_2-Targa-H6_3.6L",
+                        "/Porsche-1992-911-964-Carrera_4-Convertible-H6_3.6L",
+                        "/Porsche-1992-911-964-Carrera_4-Coupe-H6_3.6L",
+                        "/Porsche-1992-911-964-Carrera_4-Targa-H6_3.6L",
+                        "/Porsche-1992-911-964-RS_America-Coupe-H6_3.6L",
+                        "/Porsche-1992-911-964-Turbo-Coupe-H6_3.3L",
+                        "/Porsche-1992-911-964-Turbo_Look-Coupe-H6_3.6L"
+                    ],
+                    "993": [
+                        "/Porsche-1997-911-993-Carrera-Convertible-H6_3.6L",
+                        "/Porsche-1997-911-993-Carrera-Coupe-H6_3.6L",
+                        "/Porsche-1997-911-993-Carrera_4-Convertible-H6_3.6L",
+                        "/Porsche-1997-911-993-Carrera_4-Coupe-H6_3.6L",
+                        "/Porsche-1997-911-993-Carrera_4S-Coupe-H6_3.6L",
+                        "/Porsche-1997-911-993-Targa-Coupe-H6_3.6L",
+                        "/Porsche-1997-911-993-Turbo-Coupe-H6_3.6L"
+                    ],
+                    "996": [
+                        "/Porsche-2003-911-996-Carrera-Convertible-H6_3.6L",
+                        "/Porsche-2003-911-996-Carrera-Coupe-H6_3.6L",
+                        "/Porsche-2003-911-996-Carrera_4-Convertible-H6_3.6L",
+                        "/Porsche-2003-911-996-Carrera_4S-Coupe-H6_3.6L",
+                        "/Porsche-2003-911-996t-GT2-Coupe-H6_3.6L",
+                        "/Porsche-2003-911-996t-Turbo-Coupe-H6_3.6L"
+                    ],
+                    "997": [
+                        "/Porsche-2010-911-997-Carrera-Convertible-H6_3.6L",
+                        "/Porsche-2010-911-997-Carrera-Coupe-H6_3.6L",
+                        "/Porsche-2010-911-997-Carrera_4-Convertible-H6_3.6L",
+                        "/Porsche-2010-911-997-Carrera_4-Coupe-H6_3.6L",
+                        "/Porsche-2010-911-997-Carrera_4S-Convertible-H6_3.8L",
+                        "/Porsche-2010-911-997-Carrera_4S-Coupe-H6_3.8L",
+                        "/Porsche-2010-911-997-Carrera_S-Convertible-H6_3.8L",
+                        "/Porsche-2010-911-997-Carrera_S-Coupe-H6_3.8L",
+                        "/Porsche-2010-911-997-GT3-Coupe-H6_3.8L",
+                        "/Porsche-2010-911-997-Targa_4-Coupe-H6_3.6L",
+                        "/Porsche-2010-911-997-Targa_4S-Coupe-H6_3.8L",
+                        "/Porsche-2010-911-997-Turbo-Convertible-H6_3.8L",
+                        "/Porsche-2010-911-997-Turbo-Coupe-H6_3.8L"
+                    ],
+                    "991": [
+                        "/Porsche-2017-911-991-Carrera-Convertible-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera-Coupe-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_4-Convertible-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_4-Coupe-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_4S-Convertible-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_4S-Coupe-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_S-Convertible-H6_3.0L",
+                        "/Porsche-2017-911-991-Carrera_S-Coupe-H6_3.0L",
+                        "/Porsche-2017-911-991-GT3_RS-Coupe-H6_4.0L",
+                        "/Porsche-2017-911-991-R-Coupe-H6_4.0L",
+                        "/Porsche-2017-911-991-Targa_4-Targa-H6_3.0L",
+                        "/Porsche-2017-911-991-Targa_4S-Targa-H6_3.0L",
+                        "/Porsche-2017-911-991-Targa_S-Targa-H6_3.0L",
+                        "/Porsche-2017-911-991-Turbo-Convertible-H6_3.8L",
+                        "/Porsche-2017-911-991-Turbo-Coupe-H6_3.8L",
+                        "/Porsche-2017-911-991-Turbo_S-Convertible-H6_3.8L",
+                        "/Porsche-2017-911-991-Turbo_S-Coupe-H6_3.8L"
+                    ],
+                    "992": [
+                        "/Porsche-2020-911-992-Carrera-Convertible-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera-Coupe-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_4-Convertible-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_4-Coupe-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_4S-Convertible-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_4S-Coupe-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_S-Convertible-H6_3.0L",
+                        "/Porsche-2020-911-992-Carrera_S-Coupe-H6_3.0L"
+                    ]
+                }
+            ],
+            "912": [
+                {
+                    "912": [
+                        "/Porsche-1969-912-Base-H4_1.6L"
+                    ]
+                }
+            ],
+            "912E": [
+                {
+                    "912E": [
+                        
+                    ]
+                }
+            ],
+            "914": [
+                {
+                    "914": [
+                        "/Porsche-1972-914-Base-H4_1.7L",
+                        "/Porsche-1972-914-Base-H6_2.0L"
+                    ]
+                }
+            ],
+            "918 Spyder": [
+                {
+                    "918": [
+                        "/Porsche-2014-918_Spyder-918-918_SubModel-Targa-V8_4.6L_M18.00"
+                    ]
+                }
+            ],
+            "924": [
+                {
+                    "924": [
+                        "/Porsche-1982-924-924-Base-Coupe-L4_2.0L",
+                        "/Porsche-1982-924-924-Turbo-Coupe-L4_2.0L"
+                    ]
+                }
+            ],
+            "928": [
+                {
+                    "928": [
+                        "/Porsche-1985-928-928-S-Coupe-V8_5.0L"
+                    ]
+                }
+            ],
+            "944": [
+                {
+                    "944": [
+                        "/Porsche-1987-944-9442-Base-Coupe-L4_2.5L",
+                        "/Porsche-1987-944-9442-S-Coupe-L4_2.5L",
+                        "/Porsche-1987-944-9442-Turbo-Coupe-L4_2.5L"
+                    ]
+                }
+            ],
+            "959": [
+                {
+                    "959": [
+                        "/Porsche-1988-959-959_SubModel-GTI-Coupe-H6_2.85L_959.50"
+                    ]
+                }
+            ],
+            "968": [
+                {
+                    "968": [
+                        "/Porsche-1993-968-968-Base-Convertible-L4_3.0L",
+                        "/Porsche-1993-968-968-Base-Coupe-L4_3.0L"
+                    ]
+                }
+            ],
+            "Boxster": [
+                {
+                    "986": [
+                        "/Porsche-2000-Boxster-986-Roadster-Convertible-H6_2.7L",
+                        "/Porsche-2000-Boxster-986-Roadster-Convertible-H6_3.2L",
+                        "/Porsche-2000-Boxster-986-Roadster_S-Convertible-H6_3.2L"
+                    ],
+                    "987": [
+                        "/Porsche-2009-Boxster-987-Base-Convertible-H6_2.9L",
+                        "/Porsche-2009-Boxster-987-S-Convertible-H6_3.4L"
+                    ],
+                    "981": [
+                        "/Porsche-2015-Boxster-981-Base-Convertible-H6_2.7L",
+                        "/Porsche-2015-Boxster-981-GTS-Convertible-H6_3.4L",
+                        "/Porsche-2015-Boxster-981-S-Convertible-H6_3.4L"
+                    ]
+                }
+            ],
+            "Carrera GT": [
+                {
+                    "980": [
+                        "/Porsche-2005-Carrera_GT-980-Base-Convertible-V10_5.7L_M80.01"
+                    ]
+                }
+            ],
+            "Cayenne": [
+                {
+                    "955": [
+                        "/Porsche-2006-Cayenne-955-Base-Sport_Utility-V6_3.2L",
+                        "/Porsche-2006-Cayenne-955-S-Sport_Utility-V8_4.5L",
+                        "/Porsche-2006-Cayenne-955-Turbo-Sport_Utility-V8_4.5L",
+                        "/Porsche-2006-Cayenne-955-Turbo_S-Sport_Utility-V8_4.5L"
+                    ],
+                    "958": [
+                        "/Porsche-2015-Cayenne-958-Base-Sport_Utility-V6_3.6L_MCE.YA",
+                        "/Porsche-2015-Cayenne-958-Diesel-Sport_Utility-V6_3.0L_MCN.RB",
+                        "/Porsche-2015-Cayenne-958-GTS-Sport_Utility-V6_3.6L_MCX.ZA",
+                        "/Porsche-2015-Cayenne-958-S-Sport_Utility-V6_Turbo_3.6L_MCU.RA",
+                        "/Porsche-2015-Cayenne-958-S_Hybrid-Sport_Utility-V6_3.0L_MCG.FA",
+                        "/Porsche-2015-Cayenne-958-Turbo-Sport_Utility-V8_4.8L_MCF.TB"
+                    ],
+                    "9Y0": [
+                        "/Porsche-2020-Cayenne-9YA-Base-Sport_Utility-V6_3.0L",
+                        "/Porsche-2020-Cayenne-9YB-Coupe-Sport_Utility-V6_3.0L",
+                        "/Porsche-2020-Cayenne-9YA-E_Hybrid-Sport_Utility-V6_3.0L",
+                        "/Porsche-2020-Cayenne-9YB-E_Hybrid_Coupe-Sport_Utility-V6_3.0L",
+                        "/Porsche-2020-Cayenne-9YA-S-Sport_Utility-V6_2.9L",
+                        "/Porsche-2020-Cayenne-9YB-S_Coupe-Sport_Utility-V6_2.9L",
+                        "/Porsche-2020-Cayenne-9YA-Turbo-Sport_Utility-V8_4.0L",
+                        "/Porsche-2020-Cayenne-9YB-Turbo_Coupe-Sport_Utility-V8_4.0L",
+                        "/Porsche-2020-Cayenne-9YA-Turbo_S_E_Hybrid-Sport_Utility-V8_4.0L",
+                        "/Porsche-2020-Cayenne-9YB-Turbo_S_E_Hybrid_Coupe-Sport_Utility-V8_4.0L"
+                    ]
+                }
+            ],
+            "Cayman": [
+                {
+                    "987": [
+                        "/Porsche-2008-Cayman-987-Base-Hatchback-H6_2.7L",
+                        "/Porsche-2008-Cayman-987-S-Hatchback-H6_3.4L"
+                    ],
+                    "981": [
+                        "/Porsche-2015-Cayman-981-Base-Coupe-H6_2.7L",
+                        "/Porsche-2015-Cayman-981-GTS-Coupe-H6_3.4L",
+                        "/Porsche-2015-Cayman-981-S-Coupe-H6_3.4L"
+                    ]
+                }
+            ],
+            "Macan": [
+                {
+                    "95B": [
+                        "/Porsche-2018-Macan-95B-Base-Sport_Utility-L4_2.0L",
+                        "/Porsche-2018-Macan-95B-GTS-Sport_Utility-V6_3.0L",
+                        "/Porsche-2018-Macan-95B-S-Sport_Utility-V6_3.0L",
+                        "/Porsche-2018-Macan-95B-Turbo-Sport_Utility-V6_3.6L"
+                    ]
+                }
+            ],
+            "Panamera": [
+                {
+                    "970": [
+                        "/Porsche-2013-Panamera-970-4-Hatchback-V6_3.6L_M46.40",
+                        "/Porsche-2013-Panamera-970-4S-Hatchback-V8_4.8L_M48.40",
+                        "/Porsche-2013-Panamera-970-Base-Hatchback-V6_3.6L_M46.20",
+                        "/Porsche-2013-Panamera-970-GTS-Hatchback-V8_4.8L_M48.40",
+                        "/Porsche-2013-Panamera-970-Hybrid-Hatchback-V6_3.0L_MCG.EA",
+                        "/Porsche-2013-Panamera-970-S-Hatchback-V8_4.8L_M48.20",
+                        "/Porsche-2013-Panamera-970-Turbo-Hatchback-V8_4.8L_M48.70",
+                        "/Porsche-2013-Panamera-970-Turbo_S-Hatchback-V8_4.8L_M48.70"
+                    ],
+                    "971": [
+                        "/Porsche-2019-Panamera-971-4-Hatchback-V6_3.0L",
+                        "/Porsche-2019-Panamera-971-4_E_Hybrid-Hatchback-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-4_E_Hybrid_Executive-Hatchback-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-4_E_Hybrid_Sport_Turismo-Wagon-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-4_Executive-Hatchback-V6_3.0L",
+                        "/Porsche-2019-Panamera-971-4_Sport_Turismo-Wagon-V6_3.0L",
+                        "/Porsche-2019-Panamera-971-4S-Hatchback-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-4S_Executive-Hatchback-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-4S_Sport_Turismo-Wagon-V6_2.9L",
+                        "/Porsche-2019-Panamera-971-Base-Hatchback-V6_3.0L",
+                        "/Porsche-2019-Panamera-971-GTS-Hatchback-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-GTS_Sport_Turismo-Wagon-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo-Hatchback-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo_Executive-Hatchback-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo_Sport_Turismo-Wagon-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo_S_E_Hybrid-Hatchback-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo_S_E_Hybrid_Executive-Hatchback-V8_4.0L",
+                        "/Porsche-2019-Panamera-971-Turbo_S_E_Hybrid_Sport_Turismo-Wagon-V8_4.0L"
+                    ]
+                }
+            ],
+            "Taycan": [
+                {
+                    "J1": [
+                        "/Porsche-2020-Taycan-9J1-4S-Sedan-Electric",
+                        "/Porsche-2020-Taycan-9J1-Turbo-Sedan-Electric",
+                        "/Porsche-2020-Taycan-9J1-Turbo_S-Sedan-Electric"
+                    ]
+                }
+            ]
+        }
+    ],
+    "Volkswagen": [
+        {
+            "Arteon": [
+                {
+                    "B8": [
+                        "/Volkswagen-Arteon-4Motion-2.0T_Gen3",
+                        "/Volkswagen-Arteon-FWD-2.0T_Gen3"
+                    ]
+                }
+            ],
+            "Atlas": [
+                {
+                    "MQB": [
+                        "/Volkswagen-Atlas-4Motion-2.0T_Gen3",
+                        "/Volkswagen-Atlas-FWD-2.0T_Gen3",
+                        "/Volkswagen-Atlas-4Motion-3.6L_V6",
+                        "/Volkswagen-Atlas-FWD-3.6L_V6"
+                    ]
+                }
+            ],
+            "Beetle": [
+                {
+                    "Type 1": [
+
+                    ],
+                    "Type 2": [
+                        "/Volkswagen-New_Beetle--1.8T",
+                        "/Volkswagen-New_Beetle--2.0",
+                        "/Volkswagen-New_Beetle--2.5L",
+                        "/Volkswagen-New_Beetle--TDI"
+                    ],
+                    "Type 3": [
+                        "/Volkswagen-Beetle--1.8T_Gen3",
+                        "/Volkswagen-Beetle--2.0T",
+                        "/Volkswagen-Beetle--2.0T_Gen3",
+                        "/Volkswagen-Beetle--2.5L",
+                        "/Volkswagen-Beetle--TDI"
+                    ]
+                }
+            ],
+            "Bus": [
+                {
+                    "T1": [
+
+                    ],
+                    "T2": [
+
+                    ]
+                }
+            ],
+            "CC": [
+                {
+                    "CC": [
+                        "/Volkswagen-CC-FWD-2.0T",
+                        "/Volkswagen-CC-4Motion-VR6",
+                        "/Volkswagen-CC-FWD-VR6"
+                    ]
+                }
+            ],
+            "Corrado": [
+                {
+                    "G60": [
+                        "/Volkswagen-Corrado--G60",
+                        "/Volkswagen-Corrado--VR6_12v"
+                    ]
+                }
+            ],
+            "Dasher": [
+                {
+                    "B1": [
+
+                    ]
+                }
+            ],
+            "EOS": [
+                {
+                    "Mk2": [
+                        "/Volkswagen-EOS--2.0T",
+                        "/Volkswagen-EOS--3.2L"
+                    ]
+                }
+            ],
+            "Eurovan": [
+                {
+                    "T4": [
+                        "/Volkswagen-Eurovan_T4--5cyl",
+                        "/Volkswagen-Eurovan_T4--5cl_Diesel",
+                        "/Volkswagen-Eurovan_T4--VR6_12v",
+                        "/Volkswagen-Eurovan_T4--VR6_24v"
+                    ]
+                }
+            ],
+            "Fox": [
+                {
+                    "Mk1": [
+
+                    ]
+                }
+            ],
+            "Golf": [
+                {
+                    "Mk1": [
+                        "/Volkswagen-Golf_I-Convertible-8v"
+                    ],
+                    "Mk2": [
+                        "/Volkswagen-Golf_II--16v",
+                        "/Volkswagen-Golf_II--8v",
+                        "/Volkswagen-Golf_II--Diesel"
+                    ],
+                    "Mk3": [
+                        "/Volkswagen-Golf_III--2.0",
+                        "/Volkswagen-Golf_III--TDI",
+                        "/Volkswagen-Golf_III--VR6_12v"
+                    ],
+                    "Mk4": [
+                        "/Volkswagen-Golf_IV--1.8T",
+                        "/Volkswagen-Golf_IV--2.0",
+                        "/Volkswagen-Golf_IV--TDI",
+                        "/Volkswagen-Golf_IV--VR6_12v",
+                        "/Volkswagen-Golf_IV--VR6_24v"
+                    ],
+                    "Mk5": [
+                        "/Volkswagen-Golf_V--2.5"
+                    ],
+                    "Mk6": [
+                        "/Volkswagen-Golf_VI--2.5",
+                        "/Volkswagen-Golf_VI--TDI"
+                    ],
+                    "Mk7": [
+                        "/Volkswagen-Golf_VII--1.8T_Gen3",
+                        "/Volkswagen-Golf_VII--TDI",
+                        "/Volkswagen-Golf_VII--e_Golf",
+                        "/Volkswagen-Golf_VII_Facelift-FWD-1.4T",
+                        "/Volkswagen-Golf_VII_Facelift-FWD-1.8T_Gen3"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf GTI": [
+                {
+                    "Mk1": [
+                        "/Volkswagen-Golf_I-Convertible-8v"
+                    ],
+                    "Mk2": [
+                        "/Volkswagen-Golf_II--16v",
+                        "/Volkswagen-Golf_II--8v"
+                    ],
+                    "Mk3": [
+                        "/Volkswagen-Golf_III--2.0",
+                        "/Volkswagen-Golf_III--VR6_12v"
+                    ],
+                    "Mk4": [
+                        "/Volkswagen-Golf_IV--1.8T",
+                        "/Volkswagen-Golf_IV--VR6_12v",
+                        "/Volkswagen-Golf_IV--VR6_24v"
+                    ],
+                    "Mk5": [
+                        "/Volkswagen-Golf_V--2.0T"
+                    ],
+                    "Mk6": [
+                        "/Volkswagen-Golf_VI--2.0T"
+                    ],
+                    "Mk7": [
+                        "/Volkswagen-Golf_VII--2.0T_Gen3",
+                        "/Volkswagen-Golf_VII_Facelift-FWD-2.0T_Gen3"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf R": [
+                {
+                    "Mk6": [
+
+                    ],
+                    "Mk7": [
+                        "/Volkswagen-Golf_VII--2.0T_Gen3",
+                        "/Volkswagen-Golf_VII_Facelift-FWD-2.0T_Gen3"
+                    ],
+                    "Mk8": [
+
+                    ]
+                }
+            ],
+            "Golf R32": [
+                {
+                    "Mk4": [
+                        "/Volkswagen-Golf_IV--VR6_12v",
+                        "/Volkswagen-Golf_IV--VR6_24v"
+                    ],
+                    "Mk5": [
+                        "/Volkswagen-Golf_V--2.0T"
+                    ]
+                }
+            ],
+            "Jetta": [
+                {
+                    "Mk1": [
+                        "/Volkswagen-Jetta_I--8v",
+                        "/Volkswagen-Jetta_I--Diesel"
+                    ],
+                    "Mk2": [
+                        "/Volkswagen-Jetta_II--16v",
+                        "/Volkswagen-Jetta_II--8v",
+                        "/Volkswagen-Jetta_II--Diesel"
+                    ],
+                    "Mk3": [
+                        "/Volkswagen-Jetta_III--2.0",
+                        "/Volkswagen-Jetta_III--TDI",
+                        "/Volkswagen-Jetta_III--VR6_12v"
+                    ],
+                    "Mk4": [
+                        "/Volkswagen-Jetta_IV--1.8T",
+                        "/Volkswagen-Jetta_IV--2.0",
+                        "/Volkswagen-Jetta_IV_GLI--1.8T",
+                        "/Volkswagen-Jetta_IV--TDI",
+                        "/Volkswagen-Jetta_IV--VR6_12v",
+                        "/Volkswagen-Jetta_IV--VR6_24v"
+                    ],
+                    "Mk5": [
+                        "/Volkswagen-Jetta_V--2.0T",
+                        "/Volkswagen-Jetta_V--2.5",
+                        "/Volkswagen-Jetta_V--TDI"
+                    ],
+                    "Mk6": [
+                        "/Volkswagen-Jetta_VI-Sedan-1.4T_Hybrid",
+                        "/Volkswagen-Jetta_VI-Sedan-1.8T_Gen3",
+                        "/Volkswagen-Jetta_VI-Sedan-2.0",
+                        "/Volkswagen-Jetta_VI-Sedan-GLI",
+                        "/Volkswagen-Jetta_VI-Sedan-2.0T_Gen3_GLI",
+                        "/Volkswagen-Jetta_VI-Sedan-2.5",
+                        "/Volkswagen-Jetta_VI-Sedan-TDI",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-1.4T",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-1.4T_Hybrid",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-1.8T_Gen3",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-2.0",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-2.0T_Gen3_GLI",
+                        "/Volkswagen-Jetta_VI-Sedan_Facelift-TDI"
+                    ],
+                    "Mk7": [
+                        "/Volkswagen-Jetta_VII-Sedan-1.4T",
+                        "/Volkswagen-Jetta_VII-GLI-2.0T_Gen3"
+                    ]
+                }
+            ],
+            "Kharmann Ghia": [
+                {
+                    "Type 14": [
+
+                    ],
+                    "Type 34": [
+
+                    ]
+                }
+            ],
+            "Passat": [
+                {
+                    "B3": [
+                        "/Volkswagen-Passat_B3--16v",
+                        "/Volkswagen-Passat_B3--VR6_12v"
+                    ],
+                    "B4": [
+                        "/Volkswagen-Passat_B4--2.0",
+                        "/Volkswagen-Passat_B4--TDI",
+                        "/Volkswagen-Passat_B4--VR6_12v"
+                    ],
+                    "B5": [
+                        "/Volkswagen-Passat_B5-4_Motion-1.8T",
+                        "/Volkswagen-Passat_B5-FWD-1.8T",
+                        "/Volkswagen-Passat_B5-FWD-TDI",
+                        "/Volkswagen-Passat_B5-4_Motion-V6_30v",
+                        "/Volkswagen-Passat_B5-FWD-V6_30v",
+                        "/Volkswagen-Passat_B5-4_Motion-W8"
+                    ],
+                    "B6": [
+                        "/Volkswagen-Passat_B6-FWD-2.0T",
+                        "/Volkswagen-Passat_B6-4_Motion-3.6L",
+                        "/Volkswagen-Passat_B6-FWD-3.6L"
+                    ],
+                    "B7": [
+                        "/Volkswagen-Passat_B7-FWD-1.8T_Gen3",
+                        "/Volkswagen-Passat_B7-FWD-2.0T_Gen3",
+                        "/Volkswagen-Passat_B7--2.5L",
+                        "/Volkswagen-Passat_B7--TDI",
+                        "/Volkswagen-Passat_B7--V6",
+                        "/Volkswagen-Passat_B7.5-FWD-2.0T_Gen3"
+                    ],
+                    "B8": [
+
+                    ]
+                }
+            ],
+            "Phaeton": [
+                {
+                    "GP1": [
+                        "/Volkswagen-Phaeton-4_Motion-V8",
+                        "/Volkswagen-Phaeton-4_Motion-W12"
+                    ],
+                    "GP2": [
+                        "/Volkswagen-Phaeton-4_Motion-V8",
+                        "/Volkswagen-Phaeton-4_Motion-W12"
+                    ],
+                    "GP3": [
+
+                    ],
+                    "GP4": [
+
+                    ]
+                }
+            ],
+            "Quantum": [
+                {
+                    "B2": [
+
+                    ]
+                }
+            ],
+            "Routan": [
+                {
+                    "RT": [
+                        "/Volkswagen-Routan--3.6L",
+                        "/Volkswagen-Routan--3.8L",
+                        "/Volkswagen-Routan--4.0L"
+                    ]
+                }
+            ],
+            "Scirocco": [
+                {
+                    "Type 53": [
+                        "/Volkswagen-Scirocco_I--8v"
+                    ],
+                    "Type 53B": [
+                        "/Volkswagen-Scirocco_II--16v",
+                        "/Volkswagen-Scirocco_II--8v"
+                    ]
+                }
+            ],
+            "Squareback": [
+                {
+                    "Type 3": [
+                        
+                    ]
+                }
+            ],
+            "Thing": [
+                {
+                    "Type 181": [
+
+                    ]
+                }
+            ],
+            "Tiguan": [
+                {
+                    "5N": [
+                        "/Volkswagen-Tiguan_1-4_Motion-2.0T",
+                        "/Volkswagen-Tiguan_1-FWD-2.0T",
+                        "/Volkswagen-Tiguan_2-4_Motion-2.0T",
+                        "/Volkswagen-Tiguan_2-FWD-2.0T"
+                    ],
+                    "MQB": [
+                        "/Volkswagen-Tiguan_MQB-4Motion-2.0T_Gen3",
+                        "/Volkswagen-Tiguan_MQB-FWD-2.0T_Gen3"
+                    ]
+                }
+            ],
+            "Touareg": [
+                {
+                    "7L": [
+                        "/Volkswagen-Touareg_1--TDI",
+                        "/Volkswagen-Touareg_1--V6",
+                        "/Volkswagen-Touareg_1--V8"
+                    ],
+                    "7P": [
+                        "/Volkswagen-Touareg_2--V10_TDI",
+                        "/Volkswagen-Touareg_2--V6",
+                        "/Volkswagen-Touareg_2--V6_TDI",
+                        "/Volkswagen-Touareg_2--V8"
+                    ],
+                    "CR": [
+                        "/Volkswagen-Touareg_3-Hybrid-",
+                        "/Volkswagen-Touareg_3--V6",
+                        "/Volkswagen-Touareg_3--V6_TDI"
+                    ]
+                }
+            ],
+            "Vanagon": [
+                {
+                    "T3": [
+                        "/Volkswagen-Vanagon--1.6D",
+                        "/Volkswagen-Vanagon--2.0L",
+                        "/Volkswagen-Vanagon--1.9L",
+                        "/Volkswagen-Vanagon--2.1L"
+                    ]
+                }
+            ]
+        }
+    ]
+}

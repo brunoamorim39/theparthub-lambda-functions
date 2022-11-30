@@ -1,0 +1,1 @@
+SELECT url, COUNT(*) c FROM part GROUP BY url HAVING c > 1;
